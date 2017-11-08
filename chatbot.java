@@ -8,6 +8,7 @@ public class chatbot{
 	static boolean isPunc(char ch) {
 		return puncs.indexOf(ch) != -1;
 	}
+	// Add methods here and try not making it static so we can show inheritance
 
 
 	static String find_match(String str){
@@ -44,13 +45,14 @@ public class chatbot{
 						}
 					}
 				}
-				
+				// resp is the output answer so now add an else  case and implement keyword matching 
 
 			}
 			return resp;
 		}
 
 		static String cleanString(String str) {
+
 		StringBuffer temp = new StringBuffer(str.length());
 		char prevChar = 0;
 		for(int i = 0; i <str.length(); ++i) {
@@ -67,6 +69,7 @@ public class chatbot{
 	
 
 	public static void main(String args[]){
+		
 		for(int i=0;i<5;i++){
 			System.out.print('>');
 			Scanner scan=new Scanner(System.in);
