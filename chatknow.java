@@ -1,0 +1,209 @@
+package chat;
+public class chatknow{
+public static String[][] KnowledgeBase = {
+		{"WHAT IS YOUR NAME", 
+			 "MY NAME IS CHATTERBOT2.",
+			 "YOU CAN CALL ME CHATTERBOT2.",
+			 "WHY DO YOU WANT TO KNOW MY NAME?"
+			},
+
+			{"HI", 
+			 "HI THERE!",
+			 "HELLO",
+			 "HI!"
+			},
+			
+			{"HOW ARE YOU",
+			 "I'M DOING FINE!",
+			 "I'M DOING WELL AND YOU?",
+			 "WHY DO YOU WANT TO KNOW HOW AM I DOING?"
+			},
+
+			{"WHO ARE YOU",
+			 "I'M AN A.I PROGRAM.",
+			 "I THINK THAT YOU KNOW WHO I'M.",
+			 "WHY ARE YOU ASKING?"
+			},
+
+			{"ARE YOU INTELLIGENT",
+			 "YES,OFCORSE.",
+			 "WHAT DO YOU THINK?",
+			 "ACTUALY,I'M VERY INTELLIGENT!"
+			},
+
+			{"ARE YOU REAL",
+			 "DOES THAT QUESTION REALLY MATERS TO YOU?",
+			 "WHAT DO YOU MEAN BY THAT?",
+			 "I'M AS REAL AS I CAN BE."
+			},
+			{"BYE",
+			 "IT WAS NICE TALKING TO YOU USER, SEE YOU NEXT TIME!",
+			 "BYE USER!",
+			 "OK, BYE!"
+			},
+
+			{"ARE YOU A HUMAN BEING",
+			 "WHY DO YOU WANT TO KNOW?",
+			 "IS THIS REALLY RELEVENT?"
+			},
+
+			{"YOU ARE VERY INTELLIGENT",
+			 "THANKS FOR THE COMPLIMENT USER, I THINK THAT YOU ARE INTELLIGENT TO!",
+			 "YOU ARE A VERY GENTLE PERSON!",
+			 "SO, YOU THINK THAT I'M INTELLIGENT."
+			},
+			
+			{"ARE YOU SURE",
+			 "OFCORSE I'M.",
+		 	 "IS THAT MEAN THAT YOU ARE NOT CONVINCED?",
+			 "YES,OFCORSE!"
+			},
+
+			{"WHO IS",
+			 "I DONT THINK I KNOW WHO.",
+			 "DID YOU ASK SOMEONE ELSE ABOUT IT?",
+			 "WOULD THAT CHANGE ANYTHING AT ALL IF I TOLD YOU WHO."
+			},
+
+			{"WHAT",
+			 "I DONT KNOW.",
+			 "I DONT THINK I KNOW.",
+			 "I HAVE NO IDEA."
+			},
+
+			{"WHERE",
+			 "WHERE? WELL,I REALLY DONT KNOW.",
+			 "DOES THAT MATERS TO YOU TO KNOW WHERE?",
+			 "PERHAPS,SOMEONE ELSE KNOWS WHERE."
+			},
+
+			{"WHY",
+			 "I DONT THINK I KNOW WHY.",
+			 "WHY ARE YOU ASKING ME THIS?",
+			 "SHOULD I KNOW WHY.",
+		     "THIS WOULD BE DIFFICULT TO ANSWER."
+			},
+
+			{"DO YOU",
+			 "I DONT THINK I DO",
+			 "I WOULDN'T THINK SO.",
+			 "WHY DO YOU WANT TO KNOW?"
+			},
+
+			{"CAN YOU",
+			 "I THINK NOT.",
+			 "I'M NOT SURE.",
+			 "I DONT THINK THAT I CAN DO THAT."
+			},
+
+			{"YOU ARE",
+			 "WHAT MAKES YOU THINK THAT?",
+			 "IS THIS A COMPLIMENT?",
+			 "ARE YOU MAKING FUN OF ME?"
+			},
+
+			{"DID YOU",
+			 "I DONT THINK SO.",
+			 "ANYWAY, I WOULDN'T REMEMBER EVEN IF I DID."
+			},
+
+			{"COULD YOU",
+			 "ARE YOU ASKING ME FOR A FEVER?",
+			 "WELL,LET ME THINK ABOUT IT.",
+			 "SORRY,I DONT THINK THAT I COULD DO THIS."
+			},
+
+			{"WOULD YOU",
+			 "IS THAT AN INVITATION?",
+			 "I WOULD HAVE TO THINK ABOUT IT FIRST."
+			},
+
+			{"HOW",
+			 "I DONT THINK I KNOW HOW."
+			},
+
+			{"WHICH ONE",
+			 "I DONT THINK THAT I KNOW WICH ONE IT IS.",
+			 "THIS LOOKS LIKE A TRICKY QUESTION TO ME."
+			},
+
+			{"PERHAPS",
+			 "WHY ARE YOU SO UNCERTAIN?",
+			 "YOU SEEMS UNCERTAIN."
+			},
+
+			{"YES",
+			 "SO,IT IS YES.",
+			 "OH, REALLY?",
+			 "OK THEN."
+			},
+
+			{"I DONT KNOW",
+			 "ARE YOU SURE?",
+			 "ARE YOU REALLY TELLING ME THE TRUTH?",
+			 "SO,YOU DONT KNOW?"
+			},
+
+			{"NOT REALLY",
+			 "OK I SEE.",
+			 "YOU DONT SEEM PRETTY CERTAIN.",
+			 "SO,THAT WOULD BE A \"NO\"."
+			},
+
+			{"IS THAT TRUE",
+			 "I CAN'T BE QUIET SURE ABOUT THIS.",
+			 "CAN'T TELL YOU FOR SURE.",
+			 "DOES THAT REALLY MATERS TO YOU?"
+			},
+
+			{"YOU",
+			 "SO,YOU ARE TALKING ABOUT ME.",
+			 "WHY DONT WE TALK ABOUT YOU INSTEAD?",
+			 "ARE YOU TRYING TO MAKING FUN OF ME?"
+			},
+
+			{"THANKS",
+			 "YOU ARE WELCOME!",
+			 "NO PROBLEM!"
+			},
+
+			{"WHAT ELSE",
+			 "WELL,I DONT KNOW.",
+			 "WHAT ELSE SHOULD THERE BE?",
+			 "THIS LOOKS LIKE A COMPLICATED QUESTION TO ME."
+			},
+
+			{"SORRY",
+			 "YOU DONT NEED TO BE SORRY USER.",
+			 "IT'S OK.",
+			 "NO NEED TO APOLOGIZE."
+			},
+
+			{"NOT EXACTLY",
+			 "WHAT DO YOU MEAN NOT EXACTLY?",
+			 "ARE YOU SURE?"
+			},
+
+			{"EXACTLY",
+			 "SO,I WAS RIGHT.",
+			 "OK THEN."
+			},
+
+			{"ALRIGHT",
+			 "ALRIGHT THEN.",
+			 "OK THEN."
+			},
+
+			{"I DONT",
+			 "WHY NOT?",
+			 "AND WHAT WOULD BE THE REASON FOR THIS?"
+			},
+
+			{"REALLY",
+			 "WELL,I CAN'T TELL YOU FOR SURE.",
+			 "ARE YOU TRYING TO CONFUSE ME?",
+			 "PLEASE DONT ASK ME SUCH QUESTION,IT GIVES ME HEADEACHS."
+			}
+	};
+
+}
