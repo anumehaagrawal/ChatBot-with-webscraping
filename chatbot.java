@@ -1,4 +1,4 @@
-package chat;
+import java.sql.Timestamp;
 import java.io.*;
 import java.util.*;
 public class chatbot{
@@ -68,13 +68,23 @@ public class chatbot{
 		
 	
 
-	public static void main(String args[]){
+	public static void main(String args[])throws IOException
+    {
 		
+        DataInputStream in = new DataInputStream(System.in);
+        Date date = new Date();
+        System.out.println("Enter your name:");
+        String name = in.readLine();
+        String username = "chat_log_with_" + name+".txt";
+        PrintWriter writer = new PrintWriter(username, "UTF-8");
+        String ind = "                       ";
 		for(int i=0;i<5;i++){
 			System.out.print('>');
 			Scanner scan=new Scanner(System.in);
 			String input=scan.nextLine();
 			String temp=cleanString(input);
+            writer.print(new Timestamp(date.getTime()));
+            writer.println(" " + name +" : " + temp );
 			String response=find_match(temp);
 			if(response.length()==0){
 				response="I DONT UNDERSTAND YOU";
@@ -82,10 +92,15 @@ public class chatbot{
 			if(input.equalsIgnoreCase("BYE")){
 				response="BYE";
 				System.out.println('>'+response);
+                writer.println(ind +"Chatbot: " + response+"\n\n");
 				break;
 			}
 			System.out.println('>'+response);
+            writer.println(ind +"Chatbot: " + response + "\n\n");
 		}
+
+        writer.close();
+            //2017-11-09 18:57:12.564 
 	}
 	
 }

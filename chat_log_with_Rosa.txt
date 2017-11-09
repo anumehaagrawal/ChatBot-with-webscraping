@@ -1,0 +1,16 @@
+2017-11-09 19:05:51.734 Rosa : Hi
+                       Chatbot: HI!
+
+
+2017-11-09 19:05:51.734 Rosa : Who are you
+                       Chatbot: I THINK THAT YOU KNOW WHO I'M.
+
+
+2017-11-09 19:05:51.734 Rosa : how are you
+                       Chatbot: I'M DOING FINE!
+
+
+2017-11-09 19:05:51.734 Rosa : bye
+                       Chatbot: BYE
+
+
