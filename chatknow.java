@@ -1,4 +1,4 @@
-
+package chat;
 public class chatknow{
 public static String[][] KnowledgeBase = {
 		{"WHAT IS YOUR NAME", 
