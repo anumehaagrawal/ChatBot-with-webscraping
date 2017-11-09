@@ -100,7 +100,7 @@ public class chatbot{
 		}
 
         writer.close();
-            //2017-11-09 18:57:12.564 
+            
 	}
 	
 }
