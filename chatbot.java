@@ -1,3 +1,4 @@
+package chat;
 import java.sql.Timestamp;
 import java.io.*;
 import java.util.*;
@@ -100,7 +101,7 @@ public class chatbot{
 		}
 
         writer.close();
-            //2017-11-09 18:57:12.564 
+            
 	}
 	
 }
