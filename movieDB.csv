@@ -1,0 +1,4804 @@
+,Title,Vote Average,Genre
+,Avatar,7.2,Adventure|Animation|Children|Comedy|Fantasy
+,Pirates of the Caribbean: At World's End,6.9,Adventure|Children|Fantasy
+,Spectre,6.3,Comedy|Romance
+,The Dark Knight Rises,7.6,Comedy|Drama|Romance
+,John Carter,6.1,Comedy
+,Spider-Man 3,5.9,Action|Crime|Thriller
+,Tangled,7.4,Comedy|Romance
+,Avengers: Age of Ultron,7.3,Adventure|Children
+,Harry Potter and the Half-Blood Prince,7.4,Action
+,Batman v Superman: Dawn of Justice,5.7,Action|Adventure|Thriller
+,Superman Returns,5.4,Comedy|Drama|Romance
+,Quantum of Solace,6.1,Comedy|Horror
+,Pirates of the Caribbean: Dead Man's Chest,7,Adventure|Animation|Children
+,The Lone Ranger,5.9,Drama
+,Man of Steel,6.5,Action|Adventure|Romance
+,The Chronicles of Narnia: Prince Caspian,6.3,Crime|Drama
+,The Avengers,7.4,Drama|Romance
+,Pirates of the Caribbean: On Stranger Tides,6.4,Comedy
+,Men in Black 3,6.2,Comedy
+,The Hobbit: The Battle of the Five Armies,7.1,Action|Comedy|Crime|Drama|Thriller
+,The Amazing Spider-Man,6.5,Comedy|Crime|Thriller
+,Robin Hood,6.2,Crime|Drama|Horror|Mystery|Thriller
+,The Hobbit: The Desolation of Smaug,7.6,Action|Crime|Thriller
+,The Golden Compass,5.8,Drama|Sci-Fi
+,King Kong,6.6,Drama|Romance
+,Titanic,7.5,Drama
+,Captain America: Civil War,7.1,Children|Drama
+,Battleship,5.5,Drama|Romance
+,Jurassic World,6.5,Adventure|Drama|Fantasy|Mystery|Sci-Fi
+,Skyfall,6.9,Crime|Drama
+,Spider-Man 2,6.7,Drama
+,Iron Man 3,6.8,Mystery|Sci-Fi|Thriller
+,Alice in Wonderland,6.4,Adventure|Romance|IMAX
+,X-Men: The Last Stand,6.3,Children|Drama
+,Monsters University,7,Drama|Romance
+,Transformers: Revenge of the Fallen,6,Crime|Drama
+,Transformers: Age of Extinction,5.8,Documentary|IMAX
+,Oz: The Great and Powerful,5.7,Children|Comedy
+,The Amazing Spider-Man 2,6.5,Comedy|Romance
+,TRON: Legacy,6.3,Drama
+,Cars 2,5.8,Drama|War
+,Green Lantern,5.1,Action|Crime|Drama
+,Toy Story 3,7.6,Drama
+,Terminator Salvation,5.9,Action|Adventure|Fantasy
+,Furious 7,7.3,Comedy|Drama|Thriller
+,World War Z,6.7,Drama|Romance
+,X-Men: Days of Future Past,7.5,Mystery|Thriller
+,Star Trek Into Darkness,7.4,Animation|Children|Drama|Musical|Romance
+,Jack the Giant Slayer,5.5,Drama|Romance
+,The Great Gatsby,7.3,Crime|Mystery|Thriller
+,Prince of Persia: The Sands of Time,6.2,Action|Drama|Thriller
+,Pacific Rim,6.7,Comedy|Drama|Romance
+,Transformers: Dark of the Moon,6.1,Adventure|Drama
+,Indiana Jones and the Kingdom of the Crystal Skull,5.7,Children|Comedy
+,The Good Dinosaur,6.6,Drama
+,Brave,6.7,Adventure|Children|Fantasy
+,Star Trek Beyond,6.6,Drama
+,WALL·E,7.8,Comedy|Drama|Romance
+,Rush Hour 3,6.1,Drama|Mystery
+,2012,5.6,Adventure|Children|Fantasy
+,A Christmas Carol,6.6,Drama|Thriller
+,Jupiter Ascending,5.2,Drama
+,The Legend of Tarzan,5.5,Comedy|Crime
+,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",6.7,Comedy|Romance
+,X-Men: Apocalypse,6.4,Comedy
+,The Dark Knight,8.2,Action|Sci-Fi|Thriller
+,Up,7.7,Drama
+,Monsters vs Aliens,6,Comedy|Romance
+,Iron Man,7.4,Comedy
+,Hugo,7,Action|Comedy|Horror|Thriller
+,Wild Wild West,5.1,Action
+,The Mummy: Tomb of the Dragon Emperor,5.2,Comedy|Drama
+,Suicide Squad,5.9,Drama|War
+,Evan Almighty,5.3,Drama|Romance
+,Edge of Tomorrow,7.6,Comedy|Drama
+,Waterworld,5.9,Action|Sci-Fi|Thriller
+,G.I. Joe: The Rise of Cobra,5.6,Documentary
+,Inside Out,8,Action|Crime|Drama|Thriller
+,The Jungle Book,6.7,Drama|Thriller
+,Iron Man 2,6.6,Children|Drama
+,Snow White and the Huntsman,5.8,Crime|Drama|Romance
+,Maleficent,7,Comedy|Drama
+,Dawn of the Planet of the Apes,7.3,Drama|Romance
+,The Lovers,4.8,Comedy|Drama
+,47 Ronin,5.9,Drama|Romance
+,Captain America: The Winter Soldier,7.6,Action|Adventure|Drama
+,Shrek Forever After,6,Children|Comedy
+,Tomorrowland,6.2,Comedy
+,Big Hero 6,7.8,Action|Thriller
+,Wreck-It Ralph,7.1,Drama
+,The Polar Express,6.4,Drama|Horror|Thriller
+,Independence Day: Resurgence,4.9,Comedy|Horror|Romance
+,How to Train Your Dragon,7.5,Comedy|Drama|Romance
+,Terminator 3: Rise of the Machines,5.9,Action|Adventure|Thriller
+,Guardians of the Galaxy,7.9,Comedy|Drama
+,Interstellar,8.1,Crime|Drama
+,Inception,8.1,Action|Thriller
+,Shin Godzilla,6.5,Documentary
+,The Hobbit: An Unexpected Journey,7,Drama|Thriller
+,The Fast and the Furious,6.6,Adventure|Comedy|Crime|Romance
+,The Curious Case of Benjamin Button,7.3,Comedy
+,X-Men: First Class,7.1,Mystery|Sci-Fi|Thriller
+,The Hunger Games: Mockingjay - Part 2,6.6,Comedy
+,The Sorcerer's Apprentice,5.8,Drama|Romance
+,Poseidon,5.5,Comedy|Drama
+,Alice Through the Looking Glass,6.5,Adventure|Children|Comedy|Musical
+,Shrek the Third,6,Documentary
+,Warcraft,6.3,Comedy|Drama|Thriller
+,Terminator Genisys,5.8,Action|Drama|War
+,The Chronicles of Narnia: The Voyage of the Dawn Treader,6.2,Crime|Drama|Thriller
+,Pearl Harbor,6.6,Action|Adventure|Comedy|Crime
+,Transformers,6.6,Drama|Mystery
+,Alexander,5.6,Drama
+,Harry Potter and the Order of the Phoenix,7.4,Comedy
+,Harry Potter and the Goblet of Fire,7.5,Documentary
+,Hancock,6.2,Crime|Drama
+,I Am Legend,6.9,Comedy|Romance
+,Charlie and the Chocolate Factory,6.7,Comedy
+,Ratatouille,7.5,Adventure|Comedy|Drama
+,Batman Begins,7.5,Drama
+,Madagascar: Escape 2 Africa,6.2,Comedy|Romance
+,Night at the Museum: Battle of the Smithsonian,5.9,Drama|Mystery|Romance
+,X-Men Origins: Wolverine,6.2,Drama
+,The Matrix Revolutions,6.4,Comedy
+,Frozen,7.3,Adventure|Children|Fantasy
+,The Matrix Reloaded,6.7,Drama
+,Thor: The Dark World,6.8,Documentary
+,Mad Max: Fury Road,7.2,Comedy|Romance
+,Angels & Demons,6.5,Drama
+,Thor,6.6,Drama|Romance
+,Bolt,6.3,Thriller
+,G-Force,5.1,Comedy|Drama
+,Wrath of the Titans,5.5,Documentary
+,Dark Shadows,5.7,Comedy
+,Mission: Impossible - Rogue Nation,7.1,Documentary
+,The Wolfman,5.5,Documentary
+,Bee Movie,5.7,Drama
+,Kung Fu Panda 2,6.7,Action|Drama
+,The Last Airbender,4.7,Drama|Romance
+,Mission: Impossible III,6.5,Comedy
+,White House Down,6.4,Drama
+,Mars Needs Moms,5.5,Drama
+,Flushed Away,6,Comedy
+,Pan,5.9,Action|Comedy|Crime|Drama|Thriller
+,Mr. Peabody & Sherman,6.7,Adventure|Children
+,Troy,6.9,Drama
+,Madagascar 3: Europe's Most Wanted,6.4,Drama
+,Die Another Day,5.8,Crime|Drama|Thriller
+,Ghostbusters,5.3,Adventure|Drama|IMAX
+,Armageddon,6.4,Action|Drama|Romance|War
+,Men in Black II,6,Drama|Horror
+,Beowulf,5.5,Action|Adventure|Comedy|Crime
+,Kung Fu Panda 3,6.7,Drama
+,Mission: Impossible - Ghost Protocol,6.8,Adventure|Drama|War
+,Rise of the Guardians,7.1,Comedy|Drama
+,Fun with Dick and Jane,5.9,Comedy|War
+,The Last Samurai,7.3,Adventure|Children
+,Exodus: Gods and Kings,5.6,Crime|Drama|Mystery
+,Star Trek,7.4,Action|Adventure|Mystery|Sci-Fi
+,Spider-Man,6.8,Drama|Thriller|War
+,How to Train Your Dragon 2,7.6,Documentary
+,Gods of Egypt,5.3,Action|Romance|Western
+,Stealth,4.9,Crime|Film-Noir|Mystery|Thriller
+,Watchmen,7,Action|Crime|Thriller
+,Lethal Weapon 4,6.3,Comedy|Crime|Drama
+,Hulk,5.3,Drama
+,G.I. Joe: Retaliation,5.4,Action|Drama|Romance
+,Sahara,5.7,Adventure|Children|Drama
+,Final Fantasy: The Spirits Within,5.9,Action|Adventure|Crime|Thriller
+,Captain America: The First Avenger,6.6,Comedy|Drama
+,The World Is Not Enough,6,Action|Sci-Fi|Thriller
+,Master and Commander: The Far Side of the World,6.9,Action|Crime|Sci-Fi
+,The Twilight Saga: Breaking Dawn - Part 2,6.1,Comedy
+,Happy Feet Two,5.8,Drama
+,The Incredible Hulk,6.1,Comedy
+,The BFG,6,Horror
+,The Revenant,7.3,Comedy|Drama
+,Turbo,6.1,Drama|Romance
+,Rango,6.6,Comedy|Romance
+,Penguins of Madagascar,6.5,Action|Children
+,The Bourne Ultimatum,7.3,Drama|Romance
+,Kung Fu Panda,6.9,Comedy|Horror|Thriller
+,Ant-Man,7,Drama
+,The Hunger Games: Catching Fire,7.4,Action|Crime|Thriller
+,Home,6.8,Comedy|Romance
+,War of the Worlds,6.2,Comedy
+,Bad Boys II,6.3,Fantasy|Horror|Mystery
+,Puss in Boots,6.4,Comedy|Fantasy
+,Salt,6.2,Thriller
+,Noah,5.6,Drama|Romance
+,The Adventures of Tintin,6.7,Documentary
+,Harry Potter and the Prisoner of Azkaban,7.7,Drama
+,Australia,6.3,Comedy|Drama
+,After Earth,5,Comedy|Drama|Romance
+,Dinosaur,6.2,Horror|Sci-Fi
+,Night at the Museum: Secret of the Tomb,6.1,Drama
+,Megamind,6.7,Action|Crime|Drama|Mystery|Sci-Fi|Thriller
+,Harry Potter and the Philosopher's Stone,7.5,Drama|Musical|Romance
+,R.I.P.D.,5.4,Thriller
+,Pirates of the Caribbean: The Curse of the Black Pearl,7.5,Drama|Fantasy
+,The Hunger Games: Mockingjay - Part 1,6.6,Drama|Romance
+,The Da Vinci Code,6.5,Comedy
+,Rio 2,6.3,Action
+,X2,6.8,Comedy|Drama
+,Fast Five,7.1,Documentary
+,Sherlock Holmes: A Game of Shadows,7,Drama|Romance
+,Clash of the Titans,5.6,Action|Adventure|Sci-Fi
+,Total Recall,7.1,Drama
+,The 13th Warrior,6.4,Western
+,The Bourne Legacy,6,Drama
+,Batman & Robin,4.2,Adventure|Comedy|Crime|Mystery
+,How the Grinch Stole Christmas,6.2,Drama
+,The Day After Tomorrow,6.2,Drama|War
+,Mission: Impossible II,5.9,Drama|Romance
+,The Perfect Storm,6.2,Comedy
+,Fantastic 4: Rise of the Silver Surfer,5.4,Drama|Thriller
+,Life of Pi,7.2,Comedy|Drama
+,Ghost Rider,5.2,Drama
+,Jason Bourne,5.9,Horror
+,Charlie's Angels: Full Throttle,5.2,Drama|Romance
+,Prometheus,6.3,Comedy
+,Stuart Little 2,5.4,Comedy|Drama|Romance
+,Elysium,6.4,Drama|Thriller
+,The Chronicles of Riddick,6.3,Thriller
+,RoboCop,5.7,Action|Thriller
+,Speed Racer,5.7,Comedy
+,How Do You Know,4.9,Drama|Thriller
+,Knight and Day,5.9,Drama|Thriller
+,Oblivion,6.4,Adventure|Comedy
+,Star Wars: Episode III - Revenge of the Sith,7.1,Comedy|Drama|Romance
+,Star Wars: Episode II - Attack of the Clones,6.4,Drama
+,"Monsters, Inc.",7.5,Comedy
+,The Wolverine,6.3,Comedy|Drama
+,Star Wars: Episode I - The Phantom Menace,6.3,Action|Comedy|Romance
+,The Croods,6.8,Comedy|Romance
+,Asterix at the Olympic Games,5,Adventure|Children
+,Windtalkers,5.8,Animation|Children|Comedy|Romance
+,The Huntsman: Winter's War,6,Thriller
+,Teenage Mutant Ninja Turtles,5.8,Children|Drama
+,Gravity,7.3,Drama|Musical
+,Dante's Peak,5.7,Children|Comedy|Fantasy
+,Teenage Mutant Ninja Turtles: Out of the Shadows,5.8,Animation|Children
+,Fantastic Four,4.4,Crime|Drama
+,Night at the Museum,6.3,Documentary
+,San Andreas,6,Crime|Drama
+,Tomorrow Never Dies,6,Comedy
+,The Patriot,6.8,Drama|Romance
+,Ocean's Twelve,6.4,Children|Comedy
+,Mr. & Mrs. Smith,6.5,Action
+,Insurgent,6.2,Comedy|Romance
+,The Aviator,7,Drama|Horror
+,Gulliver's Travels,4.9,Drama
+,The Green Hornet,5.5,Comedy
+,300: Rise of an Empire,6.1,Comedy|Sci-Fi
+,The Smurfs,5.5,Mystery|Thriller
+,Home on the Range,5.7,Adventure|Children|Comedy|Fantasy|Romance
+,Allegiant,5.9,Crime|Drama|Thriller
+,Real Steel,6.6,Action|Adventure|Sci-Fi
+,The Smurfs 2,5.5,Drama
+,Speed 2: Cruise Control,4.1,Children|Drama
+,Ender's Game,6.6,Drama
+,Live Free or Die Hard,6.4,Drama
+,The Lord of the Rings: The Fellowship of the Ring,8,Drama|Fantasy|Romance
+,Around the World in 80 Days,5.7,Drama|Romance|War|Western
+,Ali,6.7,Comedy
+,The Cat in the Hat,4.9,Crime|Drama
+,"I, Robot",6.7,Drama
+,Kingdom of Heaven,6.6,Drama|Romance
+,Stuart Little,5.8,Drama
+,The Princess and the Frog,6.7,Comedy|Drama
+,The Martian,7.6,Drama|Horror|Sci-Fi
+,The Island,6.5,Comedy
+,Town & Country,3.7,Comedy
+,Gone in Sixty Seconds,6.1,Comedy|Romance
+,Gladiator,7.9,Drama
+,Minority Report,7.1,Comedy
+,Harry Potter and the Chamber of Secrets,7.4,Drama
+,Casino Royale,7.3,Drama|Thriller
+,Planet of the Apes,5.6,Comedy|Drama|Romance
+,Terminator 2: Judgment Day,7.7,Drama
+,Public Enemies,6.5,Crime|Drama
+,American Gangster,7.4,Action|Crime
+,True Lies,6.8,Drama|Horror
+,The Taking of Pelham 1 2 3,6.2,Action|Sci-Fi|Thriller
+,Little Fockers,5.4,Comedy|Romance
+,The Other Guys,6.1,Action|Crime|Thriller
+,Eraser,5.6,Comedy|Romance
+,Django Unchained,7.8,Crime|Drama
+,The Hunchback of Notre Dame,6.8,Drama|Thriller
+,The Emperor's New Groove,7.2,Action|Drama|Sci-Fi|Thriller
+,The Expendables 2,6.1,Action|Crime|Drama|Thriller
+,National Treasure,6.4,Comedy|Romance
+,Eragon,4.9,Comedy|Romance
+,Where the Wild Things Are,6.4,Comedy|Crime|Drama|Thriller
+,Epic,6.4,Drama
+,The Tourist,6,Drama
+,End of Days,5.5,Drama
+,Blood Diamond,7.3,Drama
+,The Wolf of Wall Street,7.9,Drama|Romance
+,Batman Forever,5.2,Drama|Romance
+,Starship Troopers,6.7,Action|Thriller|Western
+,Cloud Atlas,6.6,Comedy|Drama
+,Legend of the Guardians: The Owls of Ga'Hoole,6.5,Comedy
+,Catwoman,4.2,Drama
+,Hercules,5.6,Drama
+,Treasure Planet,7.2,Comedy|Drama
+,Land of the Lost,5.3,Drama
+,The Expendables 3,6.1,Comedy
+,Point Break,5.5,Horror|Thriller
+,Son of the Mask,3.6,Comedy
+,In the Heart of the Sea,6.5,Animation|Children
+,The Adventures of Pluto Nash,4.4,Children|Drama|Fantasy|Mystery
+,Green Zone,6.4,Action|Drama|Thriller
+,The Peanuts Movie,6.5,Action|Adventure|Sci-Fi
+,The Spanish Prisoner,7.1,Comedy|Drama|Fantasy
+,The Mummy Returns,6,Crime|Drama
+,Gangs of New York,7.1,Comedy|Drama|Thriller
+,The Flowers of War,7.1,Film-Noir|Thriller
+,Surf's Up,5.9,Drama
+,The Stepford Wives,5.4,Comedy|Drama
+,Black Hawk Down,7.2,Comedy|Drama
+,The Campaign,5.6,Comedy
+,The Fifth Element,7.3,Drama
+,Sex and the City 2,5.4,Action|Comedy|Sci-Fi
+,The Road to El Dorado,7,Horror|Thriller
+,Ice Age: Continental Drift,6.2,Adventure|Drama|Sci-Fi
+,Cinderella,6.7,Action|Crime|Horror
+,The Lovely Bones,6.6,Drama
+,Finding Nemo,7.6,Horror|Sci-Fi
+,The Lord of the Rings: The Return of the King,8.1,Comedy
+,The Lord of the Rings: The Two Towers,8,Drama
+,Seventh Son,5.2,Mystery|Thriller
+,Lara Croft: Tomb Raider,5.7,Drama|War
+,Transcendence,5.9,Drama
+,Jurassic Park III,5.7,Action|Sci-Fi|Thriller
+,Rise of the Planet of the Apes,7,Comedy|Romance
+,The Spiderwick Chronicles,6.3,Adventure|Drama|War
+,A Good Day to Die Hard,5.2,Drama
+,The Alamo,5.8,Comedy
+,The Incredibles,7.4,Children
+,Cutthroat Island,5.7,Comedy
+,Percy Jackson & the Olympians: The Lightning Thief,6,Comedy|Drama
+,Men in Black,6.9,Drama|Musical
+,Toy Story 2,7.3,Drama|Film-Noir|Romance
+,Unstoppable,6.3,Comedy
+,Rush Hour 2,6.4,Action|Crime|Drama|Thriller
+,What Lies Beneath,6.3,Drama|Mystery|Thriller
+,Cloudy with a Chance of Meatballs,6.5,Comedy|Drama|Romance
+,Ice Age: Dawn of the Dinosaurs,6.5,Comedy|Drama
+,The Secret Life of Walter Mitty,7,Action|Crime|Fantasy|Thriller
+,Charlie's Angels,5.6,Drama
+,The Departed,7.9,Children|Comedy|Fantasy
+,Mulan,7.6,Comedy|Drama|Romance|War
+,Tropic Thunder,6.5,Comedy|Romance
+,The Girl with the Dragon Tattoo,7.2,Drama
+,Die Hard: With a Vengeance,6.9,Comedy|Drama|Romance
+,Sherlock Holmes,7,Action|Comedy
+,Ben-Hur,5.3,Comedy|Drama|Romance
+,Atlantis: The Lost Empire,6.7,Adventure|Children|Romance
+,Alvin and the Chipmunks: The Road Chip,5.8,Documentary
+,Valkyrie,6.7,Adventure|Animation|Children|Drama|Musical|IMAX
+,You Don't Mess with the Zohan,5.5,Drama
+,Pixels,5.6,Drama|Horror|Mystery|Thriller
+,A.I. Artificial Intelligence,6.8,Action|Comedy|Crime|Fantasy
+,The Haunted Mansion,5.2,Adventure|Comedy|Western
+,Contact,7.2,Drama
+,Hollow Man,5.6,Action|Comedy
+,The Interpreter,6.2,Comedy|Drama
+,Percy Jackson: Sea of Monsters,5.9,Comedy|Drama|Romance
+,Lara Croft Tomb Raider: The Cradle of Life,5.5,Thriller
+,Now You See Me 2,6.7,Children|Comedy
+,The Saint,5.9,Drama
+,Spy Game,6.8,Action|Thriller
+,Mission to Mars,5.7,Action|Romance|Thriller
+,Rio,6.5,Comedy|Romance
+,Bicentennial Man,6.9,Action|Sci-Fi|Thriller
+,Volcano,5.2,Action|Adventure|Comedy|Romance|Thriller
+,The Devil's Own,5.9,Drama|Romance
+,K-19: The Widowmaker,6.1,Drama|Horror|Romance|Thriller
+,Conan the Barbarian,6.6,Western
+,Cinderella Man,7.3,Action|Crime|Drama
+,The Nutcracker: The Untold Story,5.4,Drama
+,Seabiscuit,6.7,Drama
+,Twister,6.1,Action|Comedy
+,Cast Away,7.5,Drama
+,Happy Feet,5.9,Drama|Romance|War
+,The Bourne Supremacy,7.2,Action|Crime|Drama
+,Air Force One,6.2,Crime|Drama
+,Ocean's Eleven,7.2,Adventure|Animation
+,The Three Musketeers,5.6,Action|Adventure|Fantasy
+,Hotel Transylvania,6.8,Comedy
+,Enchanted,6.6,Drama|Fantasy|Romance
+,Safe House,6.3,Drama
+,102 Dalmatians,5.1,Horror
+,Tower Heist,5.8,Documentary
+,The Holiday,6.7,Drama
+,Enemy of the State,6.7,Drama
+,It's Complicated,6.2,Action|Thriller
+,Ocean's Thirteen,6.5,Comedy
+,Open Season,6.1,Comedy|Crime|Drama
+,Divergent,6.9,Documentary
+,Enemy at the Gates,7.2,Action|Fantasy
+,The Rundown,6.4,Drama
+,Last Action Hero,6.1,Horror|Thriller
+,Memoirs of a Geisha,7.3,Drama
+,The Fast and the Furious: Tokyo Drift,6.1,Crime|Drama
+,Arthur Christmas,6.7,Children|Comedy|Fantasy
+,Meet Joe Black,6.9,Comedy|Documentary
+,Collateral Damage,5.5,Drama
+,All That Jazz,7.3,Comedy
+,Mirror Mirror,5.5,Comedy
+,Scott Pilgrim vs. the World,7.2,Comedy|Thriller
+,The Core,5.4,Western
+,Nutty Professor II: The Klumps,4.7,Comedy|Romance
+,Scooby-Doo,5.4,Drama
+,Dredd,6.6,Comedy
+,Click,6,Action|Comedy|Crime|Thriller
+,Creepshow,6.7,Adventure|Children|Drama
+,Cats & Dogs 2 : The Revenge of Kitty Galore,4.9,Thriller
+,Jumper,5.9,Action|Thriller
+,Hellboy II: The Golden Army,6.5,Drama
+,Zodiac,7.3,Drama|Romance
+,The 6th Day,5.7,Horror|Sci-Fi|Thriller
+,Bruce Almighty,6.4,Drama|Mystery|Romance|Thriller
+,The Expendables,6,Drama
+,Mission: Impossible,6.7,Comedy
+,The Hunger Games,6.9,Comedy|Drama
+,The Hangover Part II,6.2,Crime|Drama
+,Batman Returns,6.6,Adventure|Comedy|Western
+,Over the Hedge,6.3,Comedy
+,Lilo & Stitch,7.1,Action|Adventure|Thriller
+,Charlotte's Web,5.8,Comedy|Sci-Fi
+,Deep Impact,5.9,Drama|Thriller
+,RED 2,6.4,Comedy
+,The Longest Yard,6.2,Action|Comedy|Drama
+,Alvin and the Chipmunks: Chipwrecked,5.4,Drama
+,Grown Ups 2,5.8,Comedy|Romance
+,Get Smart,6,Comedy
+,Something's Gotta Give,6.3,Action|Adventure|Sci-Fi
+,Shutter Island,7.8,Adventure|Documentary
+,Four Christmases,5.3,Comedy|Romance
+,Robots,6,Comedy
+,Face/Off,6.8,Drama|Romance
+,Bedtime Stories,5.9,Comedy|Romance
+,Road to Perdition,7.3,Drama
+,Just Go with It,6.3,Comedy
+,Con Air,6.5,Comedy|Drama
+,Eagle Eye,6.3,Drama|Mystery|Romance
+,Cold Mountain,6.7,Drama
+,The Book of Eli,6.6,Comedy|Romance
+,Flubber,5.3,Drama|Thriller
+,The Haunting,5.2,Adventure|Children|Drama
+,Space Jam,6.5,Crime|Drama|Thriller
+,The Pink Panther,5.6,Thriller
+,The Day the Earth Stood Still,5.2,Drama|Western
+,Conspiracy Theory,6.5,Action|Adventure|Crime|Drama|Romance|Thriller
+,Fury,7.4,Comedy
+,Six Days Seven Nights,5.6,Drama|Romance
+,Yogi Bear,5.2,Action|Adventure
+,Spirit: Stallion of the Cimarron,7.4,Crime|Drama|Thriller
+,Zookeeper,5.3,Action|Adventure|Crime|Thriller
+,Lost in Space,5,Action|Drama|War
+,The Manchurian Candidate,6.2,Action|Comedy|War
+,Déjà Vu,8,Comedy
+,Hotel Transylvania 2,6.7,Comedy|Romance
+,Fantasia 2000,7,Drama|Romance
+,The Time Machine,5.8,Comedy
+,Mighty Joe Young,5.9,Comedy
+,Swordfish,6.1,Comedy|Drama
+,The Legend of Zorro,5.9,Comedy|War
+,What Dreams May Come,6.8,Action|Thriller
+,Little Nicky,5.2,Drama
+,The Brothers Grimm,5.6,Comedy|Drama
+,Mars Attacks!,6.1,Drama|Musical
+,Evolution,6.4,Comedy|Crime|Drama
+,The Edge,6.7,Action|Crime|Thriller
+,Surrogates,5.9,Action|Adventure|Sci-Fi|Thriller
+,Thirteen Days,6.9,Drama|Thriller
+,Daylight,5.8,Crime|Drama|Thriller
+,Walking With Dinosaurs,5.2,Drama
+,Battlefield Earth,3,Adventure|Children
+,Looney Tunes: Back in Action,5.6,Action|Adventure|Comedy|Fantasy
+,Nine,5.1,Comedy
+,Timeline,5.4,Comedy|Western
+,The Postman,6.1,Drama|Romance
+,Babe: Pig in the City,5.2,Comedy
+,The Last Witch Hunter,5.7,Thriller
+,Red Planet,5.4,Drama
+,Arthur and the Invisibles,6,Comedy|Mystery
+,Oceans,7.3,Action|Crime|Drama
+,A Sound of Thunder,4.8,Action|Adventure|Thriller
+,Pompeii,5.2,Drama
+,Top Cat Begins,5.3,Comedy|Drama|Romance|Thriller
+,A Beautiful Mind,7.7,Comedy|Romance
+,The Lion King,8,Drama|Romance
+,Journey 2: The Mysterious Island,5.8,Comedy|Romance
+,Cloudy with a Chance of Meatballs 2,6.4,Comedy|Drama
+,Red Dragon,6.7,Drama
+,Hidalgo,6.5,Action|Children|Romance
+,Jack and Jill,4.1,Drama
+,2 Fast 2 Furious,6.2,Action|Drama|Sci-Fi
+,The Little Prince,7.6,Comedy
+,The Invasion,5.7,Drama|Fantasy|Romance
+,The Adventures of Rocky & Bullwinkle,3.9,Crime|Drama|Thriller
+,The Secret Life of Pets,5.9,Drama
+,The League of Extraordinary Gentlemen,5.7,Drama|Romance
+,Despicable Me 2,7,Drama
+,Independence Day,6.7,Action|Drama
+,The Lost World: Jurassic Park,6.2,Horror|Sci-Fi
+,Madagascar,6.6,Comedy|Mystery|Romance
+,Children of Men,7.4,Comedy
+,X-Men,6.8,Drama|Romance
+,Wanted,6.4,Comedy|Drama
+,The Rock,6.9,Action|Drama|Mystery
+,Ice Age: The Meltdown,6.5,Comedy
+,50 First Dates,6.6,Action|Crime|Drama|Sci-Fi|Thriller
+,Hairspray,6.5,Comedy
+,Exorcist: The Beginning,4.7,Crime|Thriller
+,Inspector Gadget,4.3,Action|Drama
+,Now You See Me,7.3,Drama
+,Grown Ups,6,Drama
+,The Terminal,7,Drama
+,Hotel for Dogs,5.7,Drama
+,Vertical Limit,5.9,Drama|War
+,Charlie Wilson's War,6.5,Comedy|Drama
+,Shark Tale,5.8,Drama
+,Dreamgirls,6.6,Drama
+,Be Cool,5.4,Children|Drama
+,Munich,6.9,Comedy|Crime|Horror
+,Tears of the Sun,6.4,Action|Adventure|Fantasy|Mystery
+,Killers,5.7,Drama|Romance
+,The Man from U.N.C.L.E.,7.1,Drama
+,Spanglish,5.8,Drama
+,Monster House,6.3,Drama
+,Bandits,6.2,Drama
+,First Knight,5.9,Comedy|Drama|Romance
+,Anna and the King,6.4,Thriller
+,Immortals,5.7,Action|Sci-Fi|Thriller
+,Hostage,6.2,Comedy|Drama|Romance
+,Titan A.E.,6.3,Comedy|Romance|Thriller
+,Hollywood Homicide,5,Action|Crime
+,Soldier,6.1,Drama
+,Carriers,5.8,Action|Adventure|Children|Comedy|Fantasy|Sci-Fi
+,Monkeybone,4.3,Action|Adventure|Thriller
+,Flight of the Phoenix,5.7,Action|Mystery|Thriller
+,Unbreakable,6.9,Drama|Musical
+,Minions,6.4,Comedy|Romance
+,Sucker Punch,5.9,Animation|Children|Fantasy|Musical
+,Snake Eyes,5.8,Action|Adventure|Comedy|Romance
+,Sphere,5.8,Action|Drama|Western
+,The Angry Birds Movie,5.9,Crime|Drama|Thriller
+,Fool's Gold,5.4,Crime|Thriller
+,Funny People,5.7,Documentary
+,The Kingdom,6.5,Action|Adventure|Animation|Children|Fantasy
+,Talladega Nights: The Ballad of Ricky Bobby,6.2,Comedy
+,Dr. Dolittle 2,4.9,Drama
+,Braveheart,7.7,Drama|Thriller
+,Jarhead,6.6,Comedy|Drama
+,The Simpsons Movie,6.9,Drama|Romance
+,The Majestic,6.6,Comedy
+,Driven,4.5,Drama|Horror
+,Two Brothers,6.9,Comedy|Romance
+,The Village,6.2,Comedy|Drama
+,Doctor Dolittle,5.4,Comedy|Drama
+,Signs,6.4,Comedy|Drama
+,Shrek 2,6.7,Comedy|Drama
+,Cars,6.6,Drama|Romance
+,Runaway Bride,5.7,Drama
+,xXx,5.8,Drama
+,The SpongeBob Movie: Sponge Out of Water,5.8,Comedy|Drama
+,Ransom,6.4,Children|Comedy
+,Inglourious Basterds,7.9,Comedy
+,Hook,6.6,Adventure|Children|Drama
+,Die Hard 2,6.6,Crime|Thriller
+,S.W.A.T.,5.8,Drama
+,Vanilla Sky,6.5,Documentary
+,Lady in the Water,5.3,Comedy|Drama
+,AVP: Alien vs. Predator,5.5,Comedy|Drama
+,Alvin and the Chipmunks: The Squeakquel,5.4,Drama|Romance
+,We Were Soldiers,6.7,Comedy
+,Olympus Has Fallen,6.2,Children|Comedy
+,Star Trek: Insurrection,6.3,Comedy|Drama|Fantasy|Romance|Thriller
+,Battle: Los Angeles,5.5,Adventure|Animation|Children|Comedy|Musical
+,Big Fish,7.6,Action|Sci-Fi
+,Wolf,6,Adventure|Drama|Western
+,War Horse,7,Action|Drama|Thriller
+,The Monuments Men,5.8,Action|Crime|Thriller
+,The Abyss,7.1,Crime|Horror|Thriller
+,Wall Street: Money Never Sleeps,5.8,Animation|Children|Drama|Fantasy|Musical
+,Dracula Untold,6.2,Animation|Children|Fantasy|Musical|Romance|IMAX
+,The Siege,6,Animation|Children|Fantasy|Musical
+,Stardust,7.1,Comedy|Romance
+,Seven Years in Tibet,7,Comedy|Fantasy
+,The Dilemma,5.2,Adventure|Western
+,Bad Company,5.4,Action|Comedy|Crime
+,Doom,5,Drama
+,I Spy,5.2,Documentary
+,Underworld: Awakening,6.1,Comedy
+,Rock of Ages,6,Documentary
+,Hart's War,5.9,Drama|Romance
+,Killer Elite,6.1,Fantasy|Horror
+,Rollerball,3.4,Drama
+,Ballistic: Ecks vs. Sever,4.3,Comedy|Crime|Drama|Thriller
+,Hard Rain,5.5,Adventure|Children
+,Osmosis Jones,5.9,Action|Adventure|Animation|Horror|Sci-Fi
+,Legends of Oz: Dorothy's Return,5.9,Action|Horror|Sci-Fi
+,Blackhat,5.1,Comedy
+,Sky Captain and the World of Tomorrow,5.7,Drama|Romance
+,Basic Instinct 2,4.6,Drama|Thriller
+,Escape Plan,6.7,Comedy|Drama
+,The Legend of Hercules,4.4,Animation|Children
+,The Sum of All Fears,5.9,Comedy|Drama
+,The Twilight Saga: Eclipse,5.8,Comedy|Romance
+,The Score,6.7,Comedy
+,Despicable Me,7.1,Drama
+,Money Train,5.4,Drama
+,Ted 2,6.2,Romance
+,Agora,6.9,Action|Drama|Thriller
+,Mystery Men,5.7,Drama
+,Hall Pass,5.4,Comedy
+,The Insider,7.3,Drama|Thriller
+,The Finest Hours,6.3,Crime|Drama|Mystery|Thriller
+,Body of Lies,6.5,Drama
+,Dinner for Schmucks,5.5,Drama|Romance
+,Abraham Lincoln: Vampire Hunter,5.5,Adventure|Animation|Children|Fantasy|Musical|Romance
+,Entrapment,6,Drama|War
+,The X Files,6.6,Comedy
+,The Last Legion,5,Comedy
+,Saving Private Ryan,7.9,Comedy|Drama
+,Need for Speed,6.1,Drama
+,What Women Want,6.1,Comedy
+,Ice Age,7.1,Romance
+,Dreamcatcher,5.3,Comedy|Drama
+,Lincoln,6.7,Drama|Thriller
+,The Matrix,7.9,Adventure|Children|Comedy
+,Apollo 13,7.3,Drama
+,The Santa Clause 2,5.5,Comedy
+,Les Misérables,7.1,Comedy
+,You've Got Mail,6.3,Drama
+,Step Brothers,6.5,Action|Crime|Drama|War
+,The Mask of Zorro,6.3,Action|Adventure|Mystery|Thriller
+,Due Date,6.2,Comedy|Drama
+,Unbroken,7.3,Drama
+,Space Cowboys,6.3,Comedy
+,Cliffhanger,6.1,Horror|Mystery|Thriller
+,Broken Arrow,5.7,Action|Adventure|Fantasy
+,The Kid,6,Drama|Romance
+,World Trade Center,5.9,Comedy
+,Mona Lisa Smile,6.5,Comedy
+,The Dictator,5.9,Comedy|Drama
+,Eyes Wide Shut,7.1,Drama|Musical
+,Annie,6,Crime|Drama|Thriller
+,Focus,6.7,Drama
+,This Means War,5.9,Adventure|Animation|Children|Fantasy|Musical
+,Blade: Trinity,5.7,Thriller
+,Red Dawn,6.4,Comedy
+,Primary Colors,6.1,Comedy
+,Resident Evil: Retribution,5.6,Comedy|Drama|War
+,Death Race,6,Drama|Romance|War
+,The Long Kiss Goodnight,6.5,Action
+,Proof of Life,6,Drama
+,Zathura: A Space Adventure,6.1,Drama
+,Fight Club,8.3,Comedy|Sci-Fi
+,We Are Marshall,6.7,Drama
+,Hudson Hawk,5.4,Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi
+,Lucky Numbers,4.9,Adventure|Comedy|Sci-Fi
+,"I, Frankenstein",5,Action|Drama|Thriller
+,Oliver Twist,6.7,Comedy|Horror|Sci-Fi
+,Elektra,4.8,Drama|Thriller
+,Sin City: A Dame to Kill For,6.3,Drama
+,Random Hearts,5.3,Drama|Mystery|Romance|Sci-Fi|Thriller
+,Everest,6.7,Crime
+,Perfume: The Story of a Murderer,7.1,Documentary|Drama
+,Austin Powers in Goldmember,5.9,Documentary
+,Astro Boy,6.1,Drama
+,Jurassic Park,7.6,Drama
+,Wyatt Earp,6.5,Drama|Romance
+,Clear and Present Danger,6.4,Action|Adventure|Comedy|War
+,Dragon Blade,5.9,Drama|Romance
+,Little Man,5.3,Comedy|Romance
+,U-571,6.1,Action|Sci-Fi|Thriller
+,The American President,6.5,Drama
+,The Love Guru,4.3,Action|Crime|Drama
+,3000 Miles to Graceland,5.8,Mystery|Thriller
+,The Hateful Eight,7.6,Drama|Thriller
+,Blades of Glory,5.9,Drama|Romance
+,Hop,5.5,Drama
+,300,7,Drama
+,Meet the Fockers,6.1,Comedy
+,Marley & Me,6.9,Drama
+,The Green Mile,8.2,Drama
+,Wild Hogs,5.6,Drama
+,Chicken Little,5.6,Action|Adventure
+,Gone Girl,7.9,Comedy
+,The Bourne Identity,7.3,Drama
+,GoldenEye,6.6,Crime|Drama|Thriller
+,The General's Daughter,6.1,Comedy|Romance
+,The Truman Show,7.8,Adventure|Animation|Children|Comedy|Musical
+,The Prince of Egypt,6.8,Comedy
+,Daddy Day Care,5.6,Adventure|Children
+,2 Guns,6.6,Crime|Drama|Romance|Thriller
+,Cats & Dogs,5,Drama
+,The Italian Job,6.6,Drama|Mystery|Western
+,Two Weeks Notice,5.9,Drama|Romance
+,Antz,6,Crime
+,Couples Retreat,5.3,Comedy
+,Days of Thunder,5.9,Comedy|Fantasy|Sci-Fi
+,Cheaper by the Dozen 2,5.7,Comedy
+,Maze Runner: The Scorch Trials,6.4,Adventure|Animation|Comedy
+,Eat Pray Love,5.8,Drama
+,The Family Man,6.5,Documentary
+,RED,6.6,Drama
+,Any Given Sunday,6.8,Drama|Fantasy|Horror|Thriller
+,The Horse Whisperer,6.7,Comedy
+,Collateral,7,Drama
+,The Scorpion King,5.3,Documentary
+,Ladder 49,6.2,Comedy
+,Jack Reacher,6.3,Drama
+,Deep Blue Sea,5.6,Drama
+,This Is It,6.7,Crime|Thriller
+,Contagion,6.2,Crime
+,Kangaroo Jack,4.3,Action|Adventure|Thriller
+,Coraline,7.3,Comedy
+,The Happening,4.9,Horror
+,Man on Fire,7.3,Action|Adventure|Romance|Thriller
+,The Shaggy Dog,4.5,Action|Sci-Fi
+,Starsky & Hutch,5.6,Drama
+,Jingle All the Way,5.5,Comedy
+,Hellboy,6.5,Animation|Sci-Fi
+,A Civil Action,6.1,Horror|Thriller
+,ParaNorman,6.7,Comedy
+,The Jackal,6.1,Drama
+,Paycheck,5.9,Animation|Children|Comedy
+,Up Close & Personal,5.9,Film-Noir
+,The Tale of Despereaux,5.8,Comedy
+,The Tuxedo,5.3,Action|Sci-Fi|Thriller
+,Under Siege 2: Dark Territory,5.6,Drama
+,Jack Ryan: Shadow Recruit,5.9,Comedy|War
+,Joy,6.4,Comedy|Horror
+,London Has Fallen,5.8,Comedy|Documentary|Romance
+,Alien: Resurrection,5.9,Comedy|Drama|Romance
+,Shooter,6.9,Adventure|Children
+,The Boxtrolls,6.6,Children|Drama
+,Practical Magic,6.3,Documentary
+,The Lego Movie,7.5,Drama
+,Miss Congeniality 2: Armed and Fabulous,5.3,Drama
+,Reign of Fire,6,Documentary
+,Gangster Squad,6.2,Drama|War
+,Year One,4.6,Action|Adventure
+,Invictus,7,Comedy|Crime
+,State of Play,6.7,Comedy|Drama
+,Duplicity,5.7,Drama|Romance
+,My Favorite Martian,5.1,Comedy|Drama
+,The Sentinel,5.8,Drama
+,Planet 51,5.6,Comedy|Drama
+,Star Trek: Nemesis,6.1,Drama
+,Intolerable Cruelty,5.8,Documentary
+,Trouble with the Curve,6.6,Drama
+,Edge of Darkness,6.2,Comedy|Drama
+,The Relic,5.8,Comedy
+,Analyze That,5.7,Drama
+,Righteous Kill,5.9,Drama
+,Mercury Rising,6,Horror|Mystery
+,The Soloist,6.6,Comedy|Drama
+,The Legend of Bagger Vance,6.3,War
+,Almost Famous,7.4,Comedy|Crime|Drama
+,Garfield: A Tail of Two Kitties,5.1,Drama|Romance
+,xXx: State of the Union,4.7,Action|Adventure|Sci-Fi|Thriller
+,Priest,5.4,Drama
+,Sinbad: Legend of the Seven Seas,6.6,Drama|Thriller
+,Event Horizon,6.5,Animation|Children|Drama|Musical|Romance
+,Dragonfly,6.1,Comedy|Thriller
+,The Black Dahlia,5.7,Comedy
+,Flyboys,6.3,Action|Drama|Thriller
+,The Last Castle,7,Documentary
+,Supernova,4.9,Comedy|Fantasy|Romance|Sci-Fi
+,Winter's Tale,6,Drama
+,The Mortal Instruments: City of Bones,6.2,Drama
+,Meet Dave,5,Documentary
+,Dark Water,5.3,Fantasy
+,Edtv,5.7,Drama
+,Inkheart,6,Comedy|Drama
+,The Spirit,4.7,Drama
+,Mortdecai,5.4,Drama
+,In the Name of the King: A Dungeon Siege Tale,4.1,Comedy
+,Beyond Borders,6.7,Action|Adventure|Drama|Thriller
+,The Monkey King 2,6,Comedy|Horror|Thriller
+,The Great Raid,6.8,Drama|Mystery|Western
+,Deadpool,7.4,Children|Comedy
+,Holy Man,4.9,Drama|Romance
+,American Sniper,7.4,Comedy|Drama|Romance
+,Goosebumps,6.2,Comedy|Romance
+,Just Like Heaven,6.5,Drama|Thriller
+,The Flintstones in Viva Rock Vegas,4.4,Crime|Drama
+,Rambo III,5.7,Comedy|Romance
+,Leatherheads,5.7,Adventure|Children
+,The Ridiculous 6,4.9,Action|Adventure
+,Did You Hear About the Morgans?,5.1,Children|Comedy|Fantasy
+,The Internship,6.1,Drama
+,Resident Evil: Afterlife,5.8,Comedy
+,Red Tails,5.9,Drama
+,The Devil's Advocate,7.2,Action|Mystery|Thriller
+,That's My Boy,5.5,Drama
+,DragonHeart,6.4,Comedy
+,After the Sunset,6,Comedy|Drama
+,Ghost Rider: Spirit of Vengeance,4.7,Drama
+,Captain Corelli's Mandolin,5.5,Drama|Romance
+,The Pacifier,5.8,Drama|Romance|War
+,Walking Tall,6,Drama
+,Forrest Gump,8.2,Drama|Mystery
+,Alvin and the Chipmunks,5.5,Comedy|Romance
+,Meet the Parents,6.6,Drama
+,Pocahontas,6.7,Drama
+,Superman,6.9,Adventure|Children
+,The Nutty Professor,5.4,Comedy|Fantasy|Musical
+,Hitch,6.4,Comedy
+,George of the Jungle,5.4,Drama
+,American Wedding,6,Crime|Thriller
+,Captain Phillips,7.6,Comedy
+,Date Night,5.9,Comedy
+,Casper,6,Drama
+,The Equalizer,7.1,Action|Adventure|Thriller
+,Maid in Manhattan,5.6,Children|Comedy|Fantasy
+,Crimson Tide,7,Comedy|Drama|Romance
+,The Pursuit of Happyness,7.7,Action|Thriller
+,Flightplan,6.1,Children|Comedy
+,Disclosure,5.9,Horror
+,City of Angels,6.4,Comedy|Horror
+,Kill Bill: Vol. 1,7.7,Drama
+,Bowfinger,6,Drama
+,Kill Bill: Vol. 2,7.6,Drama
+,Tango & Cash,6.1,Drama
+,Death Becomes Her,6.3,Comedy|Drama
+,Shanghai Noon,6.2,Drama
+,Executive Decision,5.8,Action|Adventure|Sci-Fi|Thriller
+,Mr. Popper's Penguins,5.7,Crime|Drama
+,The Forbidden Kingdom,6.3,Drama
+,Free Birds,5.7,Comedy|Drama|Romance
+,Alien³,6.2,Drama
+,Evita,5.9,Drama
+,Ronin,6.7,Drama
+,The Ghost and the Darkness,6.4,Comedy
+,Paddington,7,Drama
+,The Watch,5.3,Crime|Drama
+,The Hunted,6,Documentary
+,Instinct,6.2,Comedy
+,Stuck on You,5.1,Action|Comedy|Crime|Thriller
+,Semi-Pro,5.4,Drama
+,The Pirates! In an Adventure with Scientists!,6.4,Comedy|Drama
+,Changeling,7.3,Drama
+,Chain Reaction,5.3,Crime|Drama|Romance|Thriller
+,The Fan,5.7,Comedy|Crime
+,The Phantom of the Opera,7,Comedy
+,Elizabeth: The Golden Age,6.6,Crime|Drama|Musical|Thriller
+,Æon Flux,5.4,Comedy
+,Gods and Generals,6.1,Comedy
+,Turbulence,5.2,Drama
+,Imagine That,5.7,Drama
+,Muppets Most Wanted,6.2,Crime|Drama
+,Thunderbirds,4.2,Action|Crime|Drama
+,Burlesque,6.9,Action|Comedy|Crime|Thriller
+,A Very Long Engagement,7.1,Comedy|Drama
+,Lolita,7.3,Drama
+,D-Tox,5.3,Horror|Thriller
+,Blade II,6.2,Sci-Fi|Thriller
+,Seven Pounds,7.5,Children|Comedy
+,Bullet to the Head,5.2,Drama|Thriller
+,The Godfather: Part III,7.1,Drama
+,Elizabethtown,6.1,Children|Drama|Fantasy
+,"You, Me and Dupree",5.4,Action|Comedy|Crime
+,Superman II,6.5,Drama
+,Gigli,3.5,Adventure|Animation|Children|Musical
+,All the King's Men,5.7,Drama|Romance
+,Shaft,5.5,Thriller
+,Anastasia,7.4,Horror|Thriller
+,Moulin Rouge!,7.4,Comedy|Drama|Romance
+,Domestic Disturbance,5.4,Drama
+,Black Mass,6.3,Romance
+,Flags of Our Fathers,6.7,Drama
+,Law Abiding Citizen,7.2,Drama
+,Grindhouse,6.8,Adventure|Drama|Romance|War
+,Beloved,5.9,Comedy|Drama|Romance
+,Lucky You,5.4,Comedy|Musical|Romance
+,Catch Me If You Can,7.7,Musical|Romance
+,Zero Dark Thirty,6.7,Comedy|Musical
+,The Break-Up,5.6,Drama|Romance
+,Mamma Mia!,6.4,Drama|Mystery|Romance|Thriller
+,Valentine's Day,5.7,Mystery|Thriller
+,The Dukes of Hazzard,5.1,Comedy|Romance
+,The Thin Red Line,7.2,Drama|Thriller
+,The Change-Up,5.9,Comedy|Musical|Romance
+,Man on the Moon,6.9,Action|Adventure|Mystery|Romance|Thriller
+,Casino,7.8,Comedy|Drama|Romance
+,From Paris with Love,6.1,Comedy|Crime
+,Bulletproof Monk,5.1,Comedy|Crime|Mystery|Romance|Thriller
+,"Me, Myself & Irene",6.1,Drama|Romance
+,Barnyard,5.3,Film-Noir|Mystery
+,Deck the Halls,5.1,Comedy|Drama|Musical|Romance
+,The Twilight Saga: New Moon,5.6,Comedy|Romance
+,Shrek,7.3,Comedy|Drama|Romance
+,The Adjustment Bureau,6.5,Children|Drama
+,Robin Hood: Prince of Thieves,6.6,Musical
+,Jerry Maguire,6.7,Adventure|Children|Fantasy|Musical
+,Ted,6.3,Drama|Romance|War
+,As Good as It Gets,7.2,Comedy
+,Patch Adams,7,Drama|Film-Noir|Romance
+,Anchorman 2: The Legend Continues,6,Drama|Mystery
+,Mr. Deeds,5.6,Adventure|Drama|Sci-Fi
+,Super 8,6.6,Adventure|Romance|War
+,Erin Brockovich,7.1,Drama
+,How to Lose a Guy in 10 Days,6.3,Comedy
+,22 Jump Street,7,Drama|Mystery|Romance|Thriller
+,Interview with the Vampire,7.2,Drama|Film-Noir|Mystery|Thriller
+,Yes Man,6.4,Film-Noir|Romance|Thriller
+,Central Intelligence,6.2,Mystery|Romance|Thriller
+,Stepmom,6.9,Drama|Romance
+,Daddy's Home,5.8,Crime|Mystery|Romance|Thriller
+,Into the Woods,5.6,Comedy
+,Inside Man,7.3,Comedy|Musical
+,Payback,6.7,Comedy|Romance
+,Congo,5,Comedy|Romance
+,We Bought a Zoo,6.5,Musical
+,Knowing,5.9,Comedy|Drama
+,Failure to Launch,5.5,Action|Adventure|Romance
+,The Ring Two,5.4,Adventure
+,"Crazy, Stupid, Love.",7,Crime|Film-Noir|Mystery
+,Garfield,5.2,Drama|Fantasy|Romance
+,Christmas with the Kranks,5.2,Drama
+,Moneyball,7,Comedy|Musical|Romance
+,Outbreak,6.3,Comedy|Drama|War
+,Non-Stop,6.8,Comedy|Romance
+,Race to Witch Mountain,5.5,Drama|Romance|Western
+,V for Vendetta,7.7,Drama
+,Shanghai Knights,6,Comedy|Crime
+,Curious George,6.2,Comedy|Romance
+,Herbie Fully Loaded,5.1,Adventure|Comedy
+,Don't Say a Word,6,Drama|Fantasy|Romance
+,Hansel & Gretel: Witch Hunters,5.7,Drama
+,Unfaithful,6.3,Comedy|Romance
+,I Am Number Four,5.9,Drama|Romance
+,Syriana,6.3,Drama
+,13 Hours: The Secret Soldiers of Benghazi,7,Comedy|Mystery
+,The Book of Life,7.3,Drama
+,Firewall,5.6,Crime|Drama
+,Absolute Power,6.4,Drama
+,G.I. Jane,6,Crime|Drama
+,The Game,7.5,Musical
+,Silent Hill,6.3,Romance|Western
+,The Replacements,6.1,Drama|Mystery|Thriller
+,American Reunion,6.1,War
+,The Negotiator,6.8,Western
+,Into the Storm,5.8,Horror|Sci-Fi|Thriller
+,Beverly Hills Cop III,5.5,Adventure|Comedy|Romance|War
+,Gremlins 2: The New Batch,6.2,Adventure|Comedy|Crime|Drama|Romance
+,The Judge,7.2,Drama
+,The Peacemaker,5.8,Drama
+,Resident Evil: Apocalypse,6.1,Comedy|Drama
+,Bridget Jones: The Edge of Reason,6.1,Drama|Romance
+,Out of Time,6.1,Comedy|Musical
+,On Deadly Ground,4.5,Romance|War
+,The Adventures of Sharkboy and Lavagirl,4.4,Mystery
+,The Beach,6.3,Drama|War
+,Raising Helen,5.9,Action
+,Ninja Assassin,6.2,Drama
+,For Love of the Game,6.3,Drama
+,Striptease,4.4,Romance
+,Marmaduke,5,Comedy|Drama
+,Hereafter,5.8,Documentary
+,Murder by Numbers,6,Adventure|Children
+,Assassins,6,Drama|Romance
+,Hannibal Rising,6,Comedy|Drama
+,The Story of Us,5.9,Drama
+,The Host,6,Action|Adventure|Thriller
+,Basic,6.2,Drama
+,Blood Work,6.1,Thriller
+,The International,6,Drama
+,Escape from L.A.,5.6,Comedy|Drama
+,The Iron Giant,7.6,Action|Crime|Drama|Thriller
+,The Life Aquatic with Steve Zissou,7.1,Drama|Thriller
+,Free State of Jones,6.6,Action|Crime
+,The Life of David Gale,7.3,Crime|Film-Noir
+,Man of the House,5.4,Crime
+,Run All Night,6.3,Comedy
+,Eastern Promises,7.2,Comedy|Romance
+,Into the Blue,5.8,Drama|Thriller
+,The Messenger: The Story of Joan of Arc,6.2,Action|Thriller
+,Your Highness,5.2,Children|Comedy
+,Dream House,5.8,Drama
+,Mad City,5.9,Children|Comedy|Western
+,Baby's Day Out,5.8,Adventure|Western
+,The Scarlet Letter,5.5,Adventure|Children|Fantasy
+,Fair Game,6.5,Children|Comedy
+,Domino,6,Adventure|Children|Comedy
+,Jade,5.2,Children|Drama
+,Gamer,5.6,Children|Comedy|Romance
+,Beautiful Creatures,5.6,Children|Comedy|Drama
+,Death to Smoochy,5.9,Adventure|Children|Drama
+,Zoolander 2,4.7,Children|Comedy
+,The Big Bounce,5,Adventure|Children
+,What Planet Are You From?,5.4,Children|Comedy|Mystery
+,Drive Angry,5.3,Adventure|Drama|Sci-Fi
+,Street Fighter: The Legend of Chun-Li,3.9,Comedy
+,The One,5.7,Children|Comedy
+,The Adventures of Ford Fairlane,6.2,Animation|Children|Fantasy|Musical|Romance
+,The Boat That Rocked,7.2,Animation|Children|Musical
+,Traffic,6.9,Animation|Children|Musical
+,Indiana Jones and the Last Crusade,7.6,Animation|Children|Fantasy|Musical
+,Anna Karenina,6.5,Children|Drama
+,Chappie,6.6,Adventure|Drama
+,The Bone Collector,6.5,Children|Comedy|Fantasy|Musical
+,Panic Room,6.5,Animation|Children|Drama|Musical
+,The Tooth Fairy,4.3,Adventure|Animation|Children|Musical
+,Three Kings,6.6,Adventure|Children|Musical
+,Child 44,6.1,Adventure|Animation|Children|Fantasy|Musical
+,Rat Race,6,Animation|Children|Drama
+,K-PAX,7.1,Comedy|Crime|Drama|Thriller
+,Kate & Leopold,6,Musical|Romance
+,Bedazzled,5.6,Action|Crime|Thriller
+,The Cotton Club,6.6,Action|Horror|Sci-Fi|Thriller
+,3:10 to Yuma,6.9,Drama
+,Taken 3,6.1,Documentary
+,Out of Sight,6.5,Drama
+,The Cable Guy,5.7,Drama
+,Earth,6.6,Comedy|Drama
+,Dick Tracy,5.9,Drama|Romance
+,The Thomas Crown Affair,6.6,Drama
+,Riding in Cars with Boys,6.5,Comedy|Drama
+,First Blood,7.2,Drama|Romance
+,Solaris,7.7,Action|Drama|Thriller
+,Happily N'Ever After,4.6,Action|Adventure
+,Mary Reilly,5.7,Documentary|Drama
+,My Best Friend's Wedding,6.3,Drama
+,America's Sweethearts,5.5,Drama
+,Insomnia,6.8,Crime|Drama|Romance
+,Star Trek: First Contact,7,Drama
+,Jonah Hex,4.4,Thriller
+,Courage Under Fire,6.2,Drama
+,Liar Liar,6.4,Comedy|Musical|Romance
+,The Infiltrator,6.6,Drama
+,Inchon,6.5,Drama|Romance
+,The Flintstones,5,Comedy|Drama
+,Taken 2,6.1,Thriller
+,Scary Movie 3,5.8,Drama
+,Miss Congeniality,6.1,Drama
+,Journey to the Center of the Earth,5.8,Animation|Children|Comedy|Fantasy|Musical|Romance
+,The Princess Diaries 2: Royal Engagement,6,Mystery
+,The Pelican Brief,6.3,Comedy|Musical|Romance
+,The Client,6.4,Comedy|Musical|Romance
+,The Bucket List,7,Crime|Film-Noir
+,Patriot Games,6.3,Crime|Film-Noir|Thriller
+,Monster-in-Law,5.6,Adventure
+,Prisoners,7.9,Romance|War
+,Training Day,7.3,Children|Comedy|Fantasy|Musical
+,Galaxy Quest,6.9,Comedy|Romance
+,Scary Movie 2,5.4,Drama|Horror|Thriller
+,The Muppets,6.5,Comedy|Sci-Fi
+,Blade,6.5,Comedy|War
+,Coach Carter,7.3,Comedy|Crime
+,Changing Lanes,5.9,Comedy
+,Anaconda,4.7,Comedy|Musical|Romance
+,Coyote Ugly,5.8,Drama
+,Love Actually,7,Comedy|Musical
+,A Bug's Life,6.8,Crime|Drama
+,From Hell,6.6,Adventure|Drama
+,The Specialist,5.5,Crime|Mystery|Thriller
+,Tin Cup,5.9,Musical
+,"Yours, Mine and Ours",6.2,Drama|Musical|Romance
+,Kicking & Screaming,5.6,Crime|Mystery|Thriller
+,The Hitchhiker's Guide to the Galaxy,6.6,Drama|War
+,Fat Albert,4.3,Comedy
+,Resident Evil: Extinction,6.1,Crime|Mystery|Thriller
+,Blended,6.6,Drama
+,Last Holiday,6.4,Drama|Romance|Thriller
+,The River Wild,6.1,Drama
+,The Indian in the Cupboard,5.9,Drama
+,Savages,6.2,Children|Drama|Sci-Fi
+,Cellular,6.1,Comedy
+,Johnny English,6,Children|Drama|Fantasy
+,The Ant Bully,5.5,Action|Drama|Romance
+,Dune,6.5,Action|Romance
+,Across the Universe,7.1,Action
+,Revolutionary Road,6.7,Drama
+,16 Blocks,6.2,Drama
+,Babylon A.D.,5.4,Horror
+,The Glimmer Man,4.7,Documentary
+,Multiplicity,5.5,Comedy
+,Aliens in the Attic,5.3,Drama
+,The Pledge,6.5,Action
+,The Producers,6.1,Documentary
+,The Phantom,4.7,Action|Comedy|Drama
+,All the Pretty Horses,5.8,Comedy
+,Nixon,7.1,Crime|Drama
+,The Ghost Writer,6.7,Drama
+,Deep Rising,6,Drama
+,Miracle at St. Anna,6.3,Drama
+,Curse of the Golden Flower,6.6,Action|Adventure|Crime|Drama|Western
+,Bangkok Dangerous,5,Drama
+,Big Trouble,6.3,Comedy|Drama
+,Love in the Time of Cholera,6.4,Drama
+,Shadow Conspiracy,4,Documentary
+,Johnny English Reborn,6,Documentary
+,Foodfight!,2.3,Drama
+,Argo,7.1,Comedy|Crime
+,The Fugitive,7.2,Comedy|Fantasy
+,The Bounty Hunter,5.5,Action|Adventure|Sci-Fi|Thriller
+,Sleepers,7.3,Horror
+,Rambo: First Blood Part II,6.3,Action|Adventure|Sci-Fi|Thriller
+,The Juror,5.5,Horror|Mystery
+,Pinocchio,6.9,Drama|Mystery
+,Heaven's Gate,6.4,Drama
+,Underworld: Evolution,6.4,Comedy|Drama
+,Victor Frankenstein,5.6,Action|Drama
+,Finding Forrester,7,Comedy
+,28 Days,6,Adventure|Comedy|Fantasy
+,Unleashed,6.6,Romance
+,The Sweetest Thing,5.3,Drama
+,The Firm,6.6,Drama
+,Charlie St. Cloud,6.8,Drama
+,The Mechanic,6.3,Drama
+,21 Jump Street,6.7,Drama
+,Notting Hill,7,Comedy
+,Chicken Run,6.5,Documentary
+,Along Came Polly,5.8,Documentary
+,Boomerang,5.4,Comedy|Drama
+,The Heat,6.5,Documentary
+,Cleopatra,6.7,Animation|Children|Comedy|Crime
+,Here Comes the Boom,6,Documentary|Drama
+,High Crimes,6.1,Drama
+,The Mirror Has Two Faces,6.5,Animation|Comedy|Thriller
+,The Mothman Prophecies,6.1,Crime|Film-Noir|Thriller
+,Brüno,5.4,Film-Noir
+,Licence to Kill,5.9,Film-Noir
+,Red Riding Hood,5.6,Drama
+,15 Minutes,5.7,Drama
+,Super Mario Bros.,4,Drama
+,Lord of War,7,Comedy
+,Hero,7.2,Romance
+,One for the Money,5.3,Comedy
+,The Interview,6.1,Drama|War
+,The Warrior's Way,6.3,Comedy|Drama
+,Micmacs,6.8,Drama
+,8 Mile,6.8,Drama
+,Why I Did (Not) Eat My Father,5.3,Drama|Thriller
+,A Knight's Tale,6.6,Comedy
+,The Medallion,5.3,Comedy
+,The Sixth Sense,7.7,Action|Adventure|Horror
+,Man on a Ledge,6.2,Documentary
+,The Big Year,5.6,Action
+,The Karate Kid,6.9,Comedy
+,American Hustle,6.8,Drama
+,The Proposal,6.7,Comedy|Drama
+,Double Jeopardy,6.2,Comedy
+,Back to the Future Part II,7.4,Comedy|Drama|Romance
+,Lucy,6.3,Drama|Fantasy|Romance
+,Fifty Shades of Grey,5.2,Drama|Romance
+,Spy Kids 3-D: Game Over,4.7,Drama|War
+,A Time to Kill,7,Crime|Drama|Film-Noir
+,Cheaper by the Dozen,6,Comedy
+,Lone Survivor,7.4,Western
+,A League of Their Own,6.7,Drama|Romance|War
+,The Conjuring 2,7,Comedy|Drama
+,The Social Network,7.1,Drama
+,He's Just Not That Into You,6.2,Drama
+,Scary Movie 4,5.3,Drama
+,Scream 3,5.7,Comedy|Romance
+,Back to the Future Part III,7.1,Documentary
+,Get Hard,5.9,Crime|Drama|Romance
+,Dracula,7.1,Documentary|Musical
+,Julie & Julia,6.6,Documentary
+,42,6.8,Drama
+,The Talented Mr. Ripley,7,Comedy
+,Dumb and Dumber To,5.4,Action|Adventure|Sci-Fi
+,Eight Below,6.7,Action|Adventure|Comedy|Fantasy|Romance
+,The Intern,7.1,Action|Adventure
+,Ride Along 2,6.1,Fantasy|Sci-Fi
+,The Last of the Mohicans,7.1,Action|Adventure|Horror|Sci-Fi
+,Ray,7.2,Action|Adventure|Western
+,Sin City,7.2,Comedy
+,Vantage Point,6.2,Drama
+,"I Love You, Man",6.5,Adventure|Drama|War
+,Shallow Hal,5.7,Crime|Drama|Sci-Fi|Thriller
+,JFK,7.5,Drama
+,Big Momma's House 2,5.4,Action|Drama|War
+,The Mexican,5.8,Action|Drama|Western
+,17 Again,6.1,Action|Adventure|Sci-Fi
+,The Other Woman,6.2,Drama|Fantasy|Romance
+,The Final Destination,5.4,Film-Noir|Mystery|Thriller
+,Bridge of Spies,7.2,Crime|Drama
+,Behind Enemy Lines,6,Horror|Sci-Fi
+,Get Him to the Greek,5.9,Action|Adventure|Comedy|Fantasy|Horror
+,Shall We Dance?,5.9,Adventure|Drama|Romance
+,Small Soldiers,6.2,Drama|War
+,Spawn,5,Action|Crime|Drama|Thriller
+,The Count of Monte Cristo,7.3,Crime|Horror
+,The Lincoln Lawyer,7,Action|Comedy|Musical
+,Unknown,6.5,Crime|Drama
+,The Prestige,8,Drama|War
+,Horrible Bosses 2,6.1,Adventure|Animation|Children|Comedy|Sci-Fi
+,Escape from Planet Earth,5.7,Action|Drama|Romance|War
+,Apocalypto,7.3,Drama
+,The Living Daylights,6.2,Drama|Romance
+,Predators,6,Crime|Drama
+,Legal Eagles,5.8,Drama
+,Secret Window,6.4,Comedy|Romance
+,The Lake House,6.5,Drama
+,The Skeleton Key,6.4,Drama|Mystery|Sci-Fi
+,The Odd Life of Timothy Green,6.5,Action|Drama|War
+,Made of Honor,6,Comedy|Crime
+,Jersey Boys,6.8,Comedy|Drama|Romance
+,The Rainmaker,6.7,Comedy|Drama|Romance
+,Gothika,5.8,Drama
+,Amistad,6.8,Comedy
+,Medicine Man,5.8,Action|Sci-Fi|Thriller
+,Aliens vs Predator: Requiem,4.9,Comedy|Fantasy|Horror
+,Ri¢hie Ri¢h,5.4,Drama|War
+,Autumn in New York,5.7,Comedy|Drama
+,Music and Lyrics,6.2,Comedy|Drama|Romance
+,Paul,6.5,Crime|Drama|Film-Noir|Thriller
+,The Guilt Trip,5.4,Drama
+,Scream 4,6.1,Comedy|Drama|Romance
+,8MM,6.1,Crime|Film-Noir|Thriller
+,The Doors,6.7,Action|Crime|Romance|Thriller
+,Sex Tape,5.3,Adventure|Drama|War
+,Hanging Up,5,Drama|Fantasy
+,Final Destination 5,5.9,Crime|Film-Noir|Mystery|Thriller
+,Mickey Blue Eyes,5.3,Drama|Sci-Fi|Thriller
+,Pay It Forward,7,Action|Adventure|Drama|Western
+,Fever Pitch,5.9,Comedy|Horror|Sci-Fi
+,Drillbit Taylor,5.5,Comedy|Musical|War
+,A Million Ways to Die in the West,5.8,Comedy|Romance
+,The Shadow,5.4,Horror
+,Extremely Loud & Incredibly Close,6.9,Adventure|Drama
+,Morning Glory,6.1,Crime|Film-Noir|Thriller
+,Get Rich or Die Tryin',6.3,Action|Comedy|Fantasy|Horror
+,The Art of War,5.6,Action|Adventure|Drama|War
+,Rent,6.7,Drama|War
+,Bless the Child,4.9,Action|Drama|Mystery|Romance|Thriller
+,The Out-of-Towners,5,Comedy|Fantasy|Romance
+,The Island of Dr. Moreau,4.6,Drama|Western
+,The Musketeer,5.2,Crime|Thriller|War
+,The Other Boleyn Girl,6.4,Comedy|Drama
+,Sweet November,6.4,Comedy|Mystery|Thriller
+,The Reaping,5.4,Adventure|Comedy|Sci-Fi
+,Mean Streets,7.2,Comedy|Crime|Drama
+,Renaissance Man,5.9,Drama|War
+,Colombiana,6.5,Comedy|Drama|Film-Noir
+,Quest for Camelot,6.9,Action|Adventure|Animation|Sci-Fi
+,City By The Sea,5.7,Action|Adventure|Fantasy
+,At First Sight,5.9,Drama
+,Torque,4.7,Comedy|Drama|Romance
+,City Hall,6,Comedy|Fantasy
+,Showgirls,4.9,Comedy|Drama
+,Marie Antoinette,6.5,Drama
+,Kiss of Death,5.7,Comedy|Drama|War
+,Get Carter,4.8,Animation|Children|Fantasy|Musical
+,The Impossible,7,Drama|Western
+,Ishtar,4.2,Crime|Film-Noir|Mystery
+,Fantastic Mr. Fox,7.5,Comedy
+,Life or Something Like It,5.7,Drama|Romance
+,Memoirs of an Invisible Man,5.7,Action|Adventure|Drama
+,Amélie,7.8,Comedy
+,New York Minute,5.5,Documentary
+,Alfie,5.6,Drama|Romance
+,Big Miracle,6.6,Action|Adventure
+,The Deep End of the Ocean,5.9,Comedy|Drama
+,FearDotCom,3.2,Drama
+,Cirque du Freak: The Vampire's Assistant,5.5,Drama
+,Duplex,5.9,Drama|Romance
+,Soul Men,6.3,Comedy
+,Raise the Titanic,5.2,Drama|Musical
+,Universal Soldier: The Return,4.2,Drama|War
+,Pandorum,6.5,Comedy|Drama
+,Impostor,6.1,Drama|Sci-Fi
+,Extreme Ops,5,Children|Drama|Fantasy
+,Just Visiting,4.8,Adventure|Drama
+,Sunshine,7,Action|Western
+,A Thousand Words,6,Drama|Romance
+,Delgo,5.4,Adventure|Drama|Sci-Fi
+,The Gunman,5.5,Comedy|Romance
+,Stormbreaker,5.1,Comedy
+,Disturbia,6.6,Drama|Romance
+,Hackers,6.2,Documentary
+,The Hunting Party,6.6,Comedy
+,The Hudsucker Proxy,7.1,Drama
+,The Warlords,6.3,Crime
+,Nomad: The Warrior,4.3,Romance
+,Snowpiercer,6.7,Documentary
+,A Monster in Paris,6.5,Drama
+,The Last Shot,5.9,Comedy
+,The Crow,7.3,Comedy|Drama
+,Baahubali: The Beginning,7.5,Documentary
+,The Time Traveler's Wife,6.7,Action|Horror|Sci-Fi|Thriller
+,Because I Said So,5.8,Comedy|Horror|Thriller
+,Frankenweenie,6.6,Horror
+,Serenity,7.4,Horror
+,Against the Ropes,4.5,Horror
+,Superman III,5.3,Horror
+,Grudge Match,6,Horror
+,Red Cliff,7.1,Drama|Horror|Mystery|Thriller
+,Sweet Home Alabama,6,Horror
+,The Ugly Truth,6.4,Horror
+,Sgt. Bilko,5.5,Horror
+,Spy Kids 2: The Island of Lost Dreams,5.3,Horror
+,Star Trek: Generations,6.4,Horror|Thriller
+,The Grandmaster,6.3,Horror|Thriller
+,Water for Elephants,6.7,Horror|Sci-Fi
+,Dragon Nest: Warriors' Dawn,6.8,Horror|Mystery
+,The Hurricane,7.2,Horror|Thriller
+,Enough,6.2,Drama|Horror|Thriller
+,Heartbreakers,5.7,Fantasy|Horror|Romance|Thriller
+,Paul Blart: Mall Cop 2,5,Drama|Horror|Sci-Fi
+,Angel Eyes,5.6,Horror
+,Joe Somebody,5.5,Horror|Thriller
+,The Ninth Gate,6.3,Thriller
+,Extreme Measures,5.7,Crime|Drama|Thriller
+,Rock Star,6,Drama|Fantasy|Horror|Thriller
+,Precious,6.9,Drama|Fantasy|Horror
+,White Squall,6.3,Horror|Thriller
+,The Thing,7.8,Horror
+,Riddick,6.2,Horror
+,Switchback,5.8,Horror|Mystery|Thriller
+,Texas Rangers,5.4,Crime|Drama|Thriller
+,City of Ember,6.2,Crime|Thriller
+,The Master,7,Comedy|Drama|Romance
+,Virgin Territory,4.3,Drama|Mystery
+,The Express,7.1,Horror|Thriller
+,The 5th Wave,5.6,Action|Adventure|Sci-Fi|Thriller
+,Creed,7.3,Drama|Romance
+,The Town,7,Drama
+,What to Expect When You're Expecting,5.8,Children|Comedy
+,Burn After Reading,6.5,Drama
+,Nim's Island,5.6,Documentary
+,Rush,7.7,Drama
+,Magnolia,7.5,Drama
+,Cop Out,5.3,Drama
+,How to Be Single,5.9,Drama
+,Dolphin Tale,6.7,Adventure|Children|Comedy
+,Twilight,5.8,Drama
+,John Q,7,Drama|Thriller
+,Blue Streak,6.1,Action|Adventure|Thriller
+,We're the Millers,6.8,Adventure|Sci-Fi
+,The Inhabited Island,5.3,Action|Mystery|Sci-Fi
+,Breakdown,6.6,Action|Sci-Fi
+,Never Say Never Again,5.8,Action|Adventure|Sci-Fi|Thriller
+,Hot Tub Time Machine,6,Action|Adventure|Sci-Fi
+,Dolphin Tale 2,6.7,Adventure|Comedy|Sci-Fi
+,Reindeer Games,5.4,Action|Crime
+,A Man Apart,5.8,Action|Comedy|Western
+,Aloha,5.2,Action|Western
+,Ghosts of Mississippi,6.2,Comedy|Musical|Romance
+,Snow Falling on Cedars,6.3,Comedy|Musical|Romance
+,The Rite,5.8,Action|Drama
+,Gattaca,7.5,Action|Sci-Fi
+,Isn't She Great,4.6,Drama
+,Space Chimps,5.2,Action|Drama|Thriller
+,Head of State,5.3,Western
+,The Hangover,7.2,Action|Horror
+,Ip Man 3,6.5,Horror|Thriller
+,Austin Powers: The Spy Who Shagged Me,6.2,Action|Horror
+,Batman,7,Comedy
+,There Be Dragons,5.9,Action|Comedy|Sci-Fi
+,Lethal Weapon 3,6.4,Comedy|Drama
+,The Blind Side,7.2,Drama|Romance
+,Spy Kids,5.5,Comedy
+,Horrible Bosses,6.5,Comedy|Drama
+,True Grit,7.2,Action|Comedy|Crime|Drama|Sci-Fi
+,The Devil Wears Prada,7,Drama
+,Star Trek: The Motion Picture,6.2,Romance|War
+,Identity Thief,5.6,Drama
+,Cape Fear,7,Drama
+,21,6.5,Drama
+,Trainwreck,5.9,Crime|Drama
+,Guess Who,5.5,Adventure|Animation|Comedy|Crime
+,The English Patient,7,Drama
+,L.A. Confidential,7.7,Comedy|Horror|Mystery|Thriller
+,Sky High,5.8,Action|Romance|War|Western
+,In & Out,6.3,Comedy|Drama|Fantasy|Romance
+,Species,5.5,Comedy|Drama
+,A Nightmare on Elm Street,7.2,Crime|Drama|Romance
+,The Cell,6,Drama
+,The Man in the Iron Mask,6.3,Drama
+,Secretariat,6.8,Comedy
+,TMNT,6,Crime|Drama|Romance
+,Radio,6.8,Drama|Musical
+,Friends with Benefits,6.5,Drama
+,Neighbors 2: Sorority Rising,5.6,Adventure|Drama
+,Saving Mr. Banks,7.3,Documentary
+,Malcolm X,7.2,Documentary
+,This Is 40,5.6,Crime|Drama|Mystery|Thriller
+,Old Dogs,5.2,Drama
+,Underworld: Rise of the Lycans,6.2,Action
+,License to Wed,5.2,Comedy
+,The Benchwarmers,5.2,Children
+,Must Love Dogs,5.8,Action|Thriller
+,Donnie Brasco,7.4,Drama
+,Resident Evil,6.4,Action|Adventure|Comedy|Thriller
+,Poltergeist,7,Comedy|Thriller
+,The Ladykillers,6,Action|Comedy
+,Max Payne,5.2,Action|Comedy|Crime|Drama|Thriller
+,In Time,6.7,Comedy|Horror|Sci-Fi|Thriller
+,The Back-Up Plan,5.7,Action
+,Something Borrowed,5.9,Comedy
+,Black Knight,5.1,Drama
+,The Bad News Bears,6.9,Action|Thriller
+,Street Fighter,4.1,Comedy
+,The Pianist,8,Comedy
+,The Nativity Story,6.4,Comedy|Romance
+,House of Wax,5.5,Drama
+,Closer,6.7,Documentary
+,J. Edgar,6,Comedy
+,Mirrors,6,Comedy|War
+,Queen of the Damned,5.4,Comedy|Drama
+,Predator 2,5.9,Crime
+,Untraceable,5.9,Documentary
+,Blast from the Past,6.3,Comedy
+,Flash Gordon,6.1,War
+,Jersey Girl,5.8,Comedy|Romance
+,Alex Cross,5.1,Comedy|Drama
+,Midnight in the Garden of Good and Evil,6.3,Comedy|Romance
+,Heist,5.6,Comedy
+,Nanny McPhee and the Big Bang,6,Comedy|Drama|Romance
+,Hoffa,6.1,Drama|Fantasy|Romance
+,The X Files: I Want to Believe,5.5,Mystery|Thriller
+,Ella Enchanted,5.9,Children|Comedy|Mystery
+,Concussion,7,Comedy
+,Abduction,5.6,Documentary
+,Valiant,5.2,Comedy|Romance
+,Wonder Boys,6.9,Crime|Drama|Fantasy|Film-Noir|Mystery|Romance
+,Superhero Movie,4.9,Action|Drama
+,Broken City,5.7,Crime|Drama
+,Cursed,5.1,Comedy|Drama
+,Premium Rush,6.2,Comedy|Romance
+,Hot Pursuit,5.4,Documentary
+,The Four Feathers,6.5,Drama
+,Parker,5.7,Crime|Thriller
+,Wimbledon,6,Action|Comedy|Crime|Drama
+,Furry Vengeance,4.6,Children|Comedy
+,Bait,5.3,Romance
+,Krull,5.8,Comedy|Drama
+,Lions for Lambs,6,Romance
+,Flight of the Intruder,5.7,Action|Romance|Sci-Fi|Thriller
+,Walk Hard: The Dewey Cox Story,6.6,Drama|Thriller
+,The Shipping News,6.4,Comedy|Drama
+,American Outlaws,5.7,Drama|Thriller
+,The Young Victoria,7,Comedy|Drama|Mystery|Romance
+,Whiteout,5.3,Comedy
+,The Tree of Life,6.5,Drama
+,Knock Off,4.7,Drama|Musical
+,Sabotage,5.5,Action|Drama|Thriller
+,The Order,4.8,Animation|Children|Musical
+,Punisher: War Zone,5.6,Comedy
+,Zoom,4.9,Romance
+,The Walk,6.9,Action|Adventure|Children
+,Warriors of Virtue,4.7,Drama|Romance
+,A Good Year,6.5,Action
+,Radio Flyer,6.6,Drama|Romance
+,Bound by Honor,7.7,Action|Adventure|Thriller
+,Smilla's Sense of Snow,6.6,Comedy|Crime|Romance
+,Femme Fatale,6.2,Crime
+,Lion of the Desert,7.4,Drama|Romance
+,The Horseman on the Roof,6.7,Comedy
+,Ride with the Devil,6.6,Drama
+,Biutiful,7,Drama|War
+,Bandidas,5.8,Drama
+,Black Water Transit,0,Drama
+,The Maze Runner,7,Drama
+,Unfinished Business,5,Comedy|Romance
+,The Age of Innocence,7,Comedy
+,The Fountain,6.8,Romance
+,Chill Factor,5.3,Action|Drama|Thriller
+,Stolen,5.1,Comedy
+,Ponyo,7.5,Action|Adventure|Comedy
+,The Longest Ride,7.3,Action|Thriller
+,The Astronaut's Wife,5.4,Drama
+,I Dreamed of Africa,5.3,Romance
+,Playing for Keeps,5.4,Drama
+,Mandela: Long Walk to Freedom,6.5,Action|Crime|Romance
+,Reds,7.1,Drama
+,A Few Good Men,7.1,Action|Adventure|Children|Fantasy
+,Exit Wounds,5.3,Comedy
+,Big Momma's House,5.6,Action|Adventure|Comedy|Sci-Fi
+,Thunder and the House of Magic,6.3,Comedy
+,The Darkest Hour,4.8,Comedy|Drama
+,Step Up Revolution,6.7,Drama
+,Snakes on a Plane,5.1,Comedy
+,The Watcher,4.9,Drama
+,The Punisher,6.1,Drama
+,Goal!: The Dream Begins,6.6,Drama|Romance
+,Safe,6.3,Comedy|Drama|Romance
+,Pushing Tin,5.7,Adventure|Children
+,Return of the Jedi,7.9,Comedy|Crime
+,Doomsday,5.8,Comedy|Romance
+,The Reader,7.2,Comedy|Drama|Romance
+,Wanderlust,5.3,Drama
+,Elf,6.4,Action|Adventure|Sci-Fi|Thriller
+,Phenomenon,6.2,Drama
+,Snow Dogs,5.3,Comedy
+,Scrooged,6.7,Children|Drama
+,Nacho Libre,5.6,Drama
+,Bridesmaids,6.5,Drama|Romance
+,This Is the End,6.3,Comedy|Romance
+,Stigmata,6,Adventure|Children|Drama
+,Men of Honor,7,Action|Adventure|Thriller
+,Takers,6,Comedy
+,The Big Wedding,5.7,Drama|Romance
+,"Big Mommas: Like Father, Like Son",5.3,Drama
+,Source Code,7.1,Action|Romance|Thriller
+,Alive,6.7,Drama
+,The Number 23,6.3,Comedy
+,The Young and Prodigious T.S. Spivet,6.7,Drama
+,1941,5.6,Comedy
+,Dreamer: Inspired By a True Story,6.3,Action|Adventure|Fantasy|Thriller
+,A History of Violence,6.9,Drama
+,Transporter 2,6.2,Comedy|Drama|Romance
+,The Quick and the Dead,6.3,Comedy|Thriller
+,Laws of Attraction,5.6,Adventure|Animation|Children|Comedy|Musical
+,Bringing Out the Dead,6.6,Drama
+,Repo Men,6.2,Crime|Drama|Mystery
+,Dragon Wars: D-War,4,Comedy|Romance
+,Bogus,5.4,Horror|Sci-Fi
+,The Incredible Burt Wonderstone,5.3,Comedy|Romance
+,Cats Don't Dance,7.1,Drama
+,Cradle Will Rock,7.2,Action|Crime|Drama|Thriller
+,The Good German,5.9,Romance
+,George and the Dragon,5,Drama
+,Apocalypse Now,8,Drama
+,Going the Distance,6,Crime
+,Mr. Holland's Opus,6.9,Drama
+,Criminal,5.7,Action|Comedy|Sci-Fi
+,Out of Africa,7,Comedy
+,Flight,6.5,Adventure|Children
+,Moonraker,5.9,Children|Fantasy
+,The Grand Budapest Hotel,8,Drama|Sci-Fi
+,Hearts in Atlantis,6.4,Comedy
+,Arachnophobia,6.2,Action|Drama
+,Frequency,7,Action|Adventure|Fantasy
+,Vacation,6.2,Children|Comedy
+,Get Shorty,6.4,Action|Crime|Drama|Thriller
+,Chicago,6.9,Horror|Sci-Fi|Thriller
+,Big Daddy,6.1,Action|Adventure|Sci-Fi|Thriller
+,American Pie 2,6,Children|Comedy
+,Toy Story,7.7,Comedy|Romance
+,Speed,6.8,Comedy|Drama
+,The Vow,7,Adventure|Children|Drama
+,Extraordinary Measures,6,Drama
+,Remember the Titans,7.4,Drama|Mystery|Romance|Thriller
+,The Hunt for Red October,7.2,Crime|Drama|Thriller
+,The Butler,7.2,Action
+,DodgeBall: A True Underdog Story,6.2,Drama|Romance
+,The Addams Family,6.7,Crime|Drama|Film-Noir
+,Ace Ventura: When Nature Calls,6.1,Comedy
+,The Princess Diaries,6.5,Horror|Sci-Fi|Thriller
+,The First Wives Club,6.5,Action|Comedy
+,Se7en,8.1,Adventure|Romance
+,District 9,7.3,Action|Adventure
+,The SpongeBob SquarePants Movie,6.7,Action|Thriller
+,Mystic River,7.6,Drama|Thriller
+,Million Dollar Baby,7.7,Action|Adventure|Thriller
+,Analyze This,6.4,Drama|Romance
+,The Notebook,7.7,Comedy
+,27 Dresses,6.1,Drama
+,Hannah Montana: The Movie,6,Comedy
+,Rugrats in Paris: The Movie,6,Adventure|Drama
+,The Prince of Tides,5.9,Action|Thriller|War
+,Legends of the Fall,7.2,Crime|Film-Noir|Mystery|Thriller
+,Up in the Air,6.7,Adventure|Drama|War
+,About Schmidt,6.7,Crime|Drama|Mystery|Thriller
+,Warm Bodies,6.4,Drama
+,Looper,6.6,Comedy|Drama
+,Down to Earth,4.9,Horror
+,Babe,6,Drama
+,Hope Springs,5.8,Drama|Mystery|Thriller
+,Forgetting Sarah Marshall,6.4,Action|Drama|Thriller
+,Four Brothers,6.7,Crime|Drama|Mystery
+,Baby Mama,5.8,Drama
+,Hope Floats,5.8,Comedy|Romance
+,Bride Wars,5.9,Comedy|Drama
+,Without a Paddle,5.3,Action|Thriller
+,13 Going on 30,6.3,Comedy|Romance
+,Midnight in Paris,7.4,Drama
+,The Nut Job,5.5,Drama
+,Blow,7.4,Action|Thriller
+,Message in a Bottle,5.8,Comedy|Drama|Romance
+,Star Trek V: The Final Frontier,5.6,Comedy
+,Like Mike,5.7,Comedy|Drama
+,The Naked Gun 33⅓: The Final Insult,6.3,Comedy|Drama
+,A View to a Kill,6,Drama|Romance
+,The Curse of the Were-Rabbit,6.8,Horror|Mystery|Thriller
+,P.S. I Love You,6.9,Drama|Mystery|Thriller
+,Racing Stripes,5.1,Children|Comedy|Romance|Sci-Fi
+,Atonement,7.4,Crime|Drama|Thriller
+,Letters to Juliet,6.6,Comedy|Drama
+,Black Rain,6.2,Documentary
+,The Three Stooges,4.9,Drama
+,Corpse Bride,7.2,Drama
+,Glory Road,7.2,Documentary
+,Sicario,7.2,Drama|Sci-Fi|Thriller
+,Southpaw,7.3,Children|Drama|Fantasy
+,Drag Me to Hell,6.2,Drama|Horror|Thriller
+,The Age of Adaline,7.4,Drama|Romance
+,Secondhand Lions,6.9,Comedy|Documentary
+,Step Up 3D,6.6,Romance|Thriller
+,Blue Crush,5.6,Drama
+,Stranger Than Fiction,7.1,Drama
+,30 Days of Night,6.2,Crime|Mystery|Thriller
+,The Cabin in the Woods,6.5,Crime
+,Meet the Spartans,3.7,Comedy|War
+,Midnight Run,7.2,Drama
+,The Running Man,6.4,Comedy
+,Little Shop of Horrors,6.6,Romance
+,Hanna,6.5,Action|Drama
+,Mortal Kombat: Annihilation,3.8,Drama
+,Larry Crowne,5.7,Romance
+,Carrie,5.8,Drama|War
+,Take the Lead,6.6,Crime|Drama|Thriller
+,Gridiron Gang,6.5,Drama
+,What's the Worst That Could Happen?,5.1,Drama
+,9,6.6,Drama|Romance|Thriller
+,Side Effects,6.4,Crime|Thriller
+,The Prince & Me,5.9,Action|Sci-Fi
+,Winnie the Pooh,6.8,Comedy|Drama
+,Dumb and Dumberer: When Harry Met Lloyd,4.1,Drama|Romance
+,Bulworth,6.3,Comedy
+,Get on Up,6.4,Drama|Romance
+,One True Thing,6.2,Action|Adventure|Fantasy
+,Virtuosity,5.4,Comedy|Drama|Sci-Fi
+,My Super Ex-Girlfriend,4.8,Drama|Romance
+,Deliver Us from Evil,5.9,Drama|Romance
+,Sanctum,5.8,Drama|Romance
+,Little Black Book,5.2,Crime|Thriller
+,The Five-Year Engagement,5.7,Action|Thriller
+,Mr. 3000,5,Adventure|Animation|Children|Drama|Musical
+,The Next Three Days,6.9,Comedy|Crime|Thriller
+,Ultraviolet,4.8,Action|Horror|Sci-Fi
+,Assault on Precinct 13,6,Horror|Sci-Fi
+,The Replacement Killers,6,Drama|Mystery
+,Fled,5.2,Drama
+,Eight Legged Freaks,5.4,Drama
+,Love & Other Drugs,6.6,Drama|War
+,88 Minutes,5.7,Crime|Drama
+,North Country,6.8,Comedy
+,The Whole Ten Yards,5.5,Comedy|Drama
+,Splice,5.5,Comedy|Drama
+,Howard the Duck,5.1,Children|Comedy|Fantasy
+,Pride and Glory,6.3,Comedy
+,The Cave,5.1,Drama|Romance
+,Alex & Emma,5,Drama
+,Wicker Park,6.7,Drama
+,Fright Night,6,Children|Comedy
+,The New World,6.4,Drama
+,Wing Commander,4,Thriller
+,In Dreams,5.4,Drama
+,Dragonball Evolution,2.9,Crime|Drama|Mystery
+,The Last Stand,5.7,Children|Comedy
+,Godsend,4.7,Romance
+,Chasing Liberty,6.1,Thriller
+,Hoodwinked Too! Hood VS. Evil,4.8,Drama
+,An Unfinished Life,6.7,Comedy|Horror|Mystery|Thriller
+,The Imaginarium of Doctor Parnassus,6.3,Thriller
+,Barney's Version,7.2,Drama
+,Runner Runner,5.5,Action|Adventure|Sci-Fi
+,Antitrust,5.8,Drama|Romance
+,Glory,7.4,Action|Adventure|Thriller
+,Once Upon a Time in America,8.2,Comedy|Drama
+,Dead Man Down,5.9,Drama
+,The Merchant of Venice,6.7,Drama
+,The Good Thief,6,Action|Adventure|Drama|Sci-Fi
+,Supercross,5.4,Drama|Romance
+,Miss Potter,6.3,Drama
+,The Promise,5,Crime|Drama|Thriller
+,DOA: Dead or Alive,5,Drama
+,The Assassination of Jesse James by the Coward Robert Ford,7,Comedy
+,1911,5,Comedy|Crime
+,Little Nicholas,5.9,Drama|Romance
+,Wild Card,5.4,Comedy|Drama
+,Machine Gun Preacher,6.4,Drama|Romance
+,Animals United,5.5,Comedy
+,Goodbye Bafana,7,Action|Children|Comedy
+,United Passions,3,Action|Drama
+,Grace of Monaco,5.8,Crime
+,Savva. Heart of the Warrior,6.4,Documentary
+,Ripley's Game,6.6,Action|Adventure|Thriller
+,Sausage Party,5.6,Comedy
+,Pitch Perfect 2,6.8,Comedy
+,Walk the Line,7.3,Adventure|Film-Noir|Sci-Fi|Thriller
+,Keeping the Faith,5.9,Romance
+,The Borrowers,5.8,Adventure|Children|Fantasy|Sci-Fi
+,Frost/Nixon,7.2,Action|Crime|Thriller
+,Confessions of a Dangerous Mind,6.6,Comedy
+,Serving Sara,5,Crime|Drama|Fantasy|Thriller
+,The Boss,5.5,Comedy|Romance
+,Cry Freedom,6.9,Horror
+,Mumford,6.3,Drama|Romance
+,Seed of Chucky,4.9,Drama
+,The Jacket,6.8,Comedy
+,Aladdin,7.4,Action|Horror|Sci-Fi
+,Straight Outta Compton,7.7,Comedy|Thriller
+,Indiana Jones and the Temple of Doom,7.1,Crime|Drama
+,The Rugrats Movie,5.7,Drama|Romance
+,Along Came a Spider,6.1,Drama
+,Florence Foster Jenkins,6.6,Action|Crime|Thriller
+,Once Upon a Time in Mexico,6.2,Crime|Romance|Thriller
+,Die Hard,7.5,Horror
+,Role Models,6.4,Action|Comedy|Musical
+,The Big Short,7.3,Action|Drama
+,Taking Woodstock,6.2,Comedy|Drama
+,Miracle,7,Drama
+,Dawn of the Dead,6.8,Comedy|Romance
+,The Wedding Planner,5.5,Sci-Fi|Thriller
+,Space Pirate Captain Harlock,6.5,Documentary
+,The Royal Tenenbaums,7.4,Drama
+,Identity,7.1,Comedy|Romance
+,Last Vegas,6.4,Crime|Drama|Mystery|Romance|Thriller
+,For Your Eyes Only,6.3,Comedy|Drama|Romance
+,Serendipity,6.6,Crime|Thriller
+,Timecop,5.5,Documentary
+,Zoolander,6.1,Action|Drama
+,Safe Haven,6.9,Drama
+,Hocus Pocus,6.4,Crime|Drama|Thriller
+,No Reservations,6.1,Action|Crime|Thriller
+,Kick-Ass,7.1,Comedy
+,30 Minutes or Less,5.6,Comedy|Drama
+,Dracula 2000,4.6,Drama
+,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",6.1,Action|Drama
+,Pride & Prejudice,7.7,Documentary|IMAX
+,Blade Runner,7.9,Thriller
+,Rob Roy,6.5,Comedy|Crime|Drama|Mystery|Thriller
+,3 Days to Kill,6,Action|Adventure|Drama
+,We Own the Night,6.5,Crime|Drama
+,Lost Souls,4.5,Crime|Drama|Mystery|Thriller
+,Winged Migration,7,Adventure|Children|Comedy
+,Just My Luck,5.8,Drama
+,"Mystery, Alaska",6,Crime|Drama
+,The Spy Next Door,5.5,Comedy|Drama
+,A Simple Wish,5.5,Drama
+,Ghosts of Mars,4.8,Children|Comedy|Drama
+,Our Brand Is Crisis,5.8,Drama
+,Pride and Prejudice and Zombies,5.5,Drama
+,Kundun,6.8,Comedy|Drama
+,How to Lose Friends & Alienate People,6.2,Drama|Romance
+,Kick-Ass 2,6.3,Documentary|Musical
+,Alatriste,5.6,Drama|Romance
+,Brick Mansions,5.7,Comedy|Romance
+,Octopussy,6.2,Children|Comedy
+,Knocked Up,6.2,Comedy|Thriller
+,My Sister's Keeper,7.1,Comedy|Drama
+,Welcome Home Roscoe Jenkins,5.7,Adventure|Children
+,A Passage to India,6.9,Comedy|Documentary
+,Notes on a Scandal,6.9,Drama|Romance
+,Rendition,6.2,Comedy
+,Star Trek VI: The Undiscovered Country,6.7,Action|Adventure|Sci-Fi
+,Divine Secrets of the Ya-Ya Sisterhood,5.6,Action|Drama
+,Kiss the Girls,6.2,Action|Drama|Thriller
+,The Blues Brothers,7.5,Crime|Drama|Mystery|Thriller
+,The Sisterhood of the Traveling Pants 2,6,Drama|Fantasy|Romance
+,Joyful Noise,6.7,Comedy|Drama
+,About a Boy,6.6,Comedy
+,Lake Placid,5.5,Comedy
+,Lucky Number Slevin,7.4,Drama
+,The Right Stuff,7.3,Drama|Thriller
+,Anonymous,6.3,Crime|Drama
+,The NeverEnding Story,7,Children|Comedy
+,Dark City,7.2,Drama|Romance
+,The Duchess,6.7,Comedy|Mystery|Thriller
+,Return to Oz,6.7,Drama
+,The Newton Boys,5.9,Adventure|Children|Comedy|Fantasy
+,Case 39,6.1,Adventure
+,Suspect Zero,5.5,Drama|Romance
+,Martian Child,6.8,Drama|Romance
+,Spy Kids: All the Time in the World,4.4,Drama|Thriller
+,Money Monster,6.5,Comedy
+,The 51st State,5.9,Comedy|Romance
+,Flawless,5.9,Comedy
+,Mindhunters,6.3,Documentary
+,What Just Happened,5.2,Comedy
+,The Statement,5.9,Action|Comedy
+,The Magic Flute,6.9,Drama
+,Paul Blart: Mall Cop,5.2,Drama
+,Freaky Friday,6,Comedy|Thriller
+,The 40 Year Old Virgin,6.2,Horror|Sci-Fi
+,Shakespeare in Love,6.8,Comedy
+,A Walk Among the Tombstones,6.2,Comedy
+,Kindergarten Cop,5.8,Documentary
+,Pineapple Express,6.6,Action|Comedy|Crime
+,Ever After: A Cinderella Story,6.8,Action|Adventure
+,Open Range,7,Action|Thriller
+,Flatliners,6.3,Comedy|Drama
+,A Bridge Too Far,6.9,Comedy|Drama
+,Red Eye,6.2,Drama
+,Final Destination 2,5.9,Crime|Drama|Romance|War
+,"O Brother, Where Art Thou?",7.3,Comedy|Romance
+,Legion,5.2,Comedy
+,Pain & Gain,6.1,Drama|Sci-Fi|Thriller
+,In Good Company,5.9,Drama
+,Clockstoppers,4.9,Comedy|Romance
+,Silverado,7.1,Drama|Romance
+,Brothers,6.8,Drama
+,Agent Cody Banks 2: Destination London,5.2,Adventure|Animation|Children|Fantasy|Musical
+,New Year's Eve,5.7,Action|Sci-Fi|Thriller
+,Original Sin,5.8,Comedy|Drama|Romance
+,The Raven,6.1,Adventure|Comedy|Drama
+,Welcome to Mooseport,4.8,Comedy|Drama|Romance
+,Highlander: The Final Dimension,4.5,Comedy
+,Blood and Wine,5.5,Adventure|Comedy|Western
+,Snow White: A Tale of Terror,6,Comedy|Drama|Romance
+,The Curse of the Jade Scorpion,6.5,Drama|Mystery|Thriller
+,Accidental Love,3.9,Drama
+,Flipper,5.3,Horror|Thriller
+,Self/less,6.3,Thriller
+,The Constant Gardener,6.8,Drama
+,The Passion of the Christ,6.9,Adventure|Comedy|Romance
+,Mrs. Doubtfire,7,Comedy|Drama|Romance
+,Rain Man,7.6,Comedy
+,Gran Torino,7.8,Drama|Romance
+,W.,6.1,Drama|War
+,Taken,7.2,Adventure|Drama
+,The Best of Me,7.2,Comedy|Drama
+,The Bodyguard,6.1,Documentary
+,Schindler's List,8.3,Drama|Romance
+,The Help,7.8,Comedy
+,The Fifth Estate,5.7,Comedy|Drama
+,Scooby-Doo 2: Monsters Unleashed,5.4,Drama
+,Forbidden Kingdom,4.9,Comedy|Romance
+,Freddy vs. Jason,5.8,Adventure|Animation|Children|Comedy|Drama|Musical|Romance
+,The Face of an Angel,4.7,Drama|Thriller
+,Jimmy Neutron: Boy Genius,5.6,Action|Crime|Mystery|Sci-Fi|Thriller
+,Cloverfield,6.4,Comedy|Crime|Drama
+,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,5.8,Comedy
+,The Untouchables,7.6,Comedy|Crime|Drama|Romance|Thriller
+,No Country for Old Men,7.7,Drama|Mystery
+,Ride Along,6.1,Comedy|Drama
+,Bridget Jones's Diary,6.5,Drama
+,Chocolat,6.8,Drama|Romance
+,"Legally Blonde 2: Red, White & Blonde",5.1,Action|Romance|Sci-Fi|Thriller
+,Parental Guidance,5.7,Action|Comedy|Crime|Thriller
+,No Strings Attached,6.1,Children|Comedy
+,Tombstone,7.4,Animation|Children|Fantasy|War
+,Romeo Must Die,6,Drama|Sci-Fi|Thriller
+,The Omen,7.2,Drama
+,Final Destination 3,5.8,Comedy|Romance
+,The Lucky One,6.8,Horror|Sci-Fi
+,Bridge to Terabithia,7,Action|Drama|Romance|War
+,Finding Neverland,7.2,Musical
+,A Madea Christmas,7,Action|Drama|War
+,The Grey,6.4,Drama|Western
+,Hide and Seek,6.1,Drama|Romance
+,Anchorman: The Legend of Ron Burgundy,6.7,Drama|Romance|War
+,GoodFellas,8.2,Adventure|Drama
+,Agent Cody Banks,5,Drama|Musical
+,Nanny McPhee,6.4,Drama
+,Scarface,8,Comedy|Romance
+,Nothing to Lose,6.3,Drama|Musical|Romance
+,The Last Emperor,7.4,Drama|War
+,Contraband,6.1,Comedy|Drama|Musical
+,Money Talks,5.9,Drama
+,There Will Be Blood,7.9,Drama|War
+,The Wild Thornberrys Movie,5.8,Drama
+,Rugrats Go Wild,5.6,Drama
+,Undercover Brother,5.5,Drama
+,The Sisterhood of the Traveling Pants,6.3,Drama
+,Kiss of the Dragon,6.4,Drama|Romance|War
+,The House Bunny,5.6,Crime|Drama
+,Beauty Shop,5.4,Drama|Romance
+,Million Dollar Arm,6.6,Drama|Musical|Romance
+,The Giver,6.4,Adventure|Comedy|Romance
+,What a Girl Wants,5.8,Drama
+,Jeepers Creepers 2,5.5,Drama|Mystery
+,Good Luck Chuck,5.5,Drama|Musical
+,Cradle 2 the Grave,5.8,Drama
+,The Hours,7,Action|Crime|Thriller
+,She's the Man,6.4,Drama
+,Mr. Bean's Holiday,6.1,Drama
+,Anacondas: The Hunt for the Blood Orchid,4.9,Drama
+,Blood Ties,6,Drama
+,August Rush,7.1,Comedy|Drama
+,Elizabeth,7.1,Drama|Romance
+,Bride of Chucky,5.5,Drama
+,Tora! Tora! Tora!,6.9,Drama
+,Spice World,4.7,Drama
+,The Sitter,5.4,Comedy|Crime
+,Dance Flick,4.7,Drama|Mystery
+,The Shawshank Redemption,8.5,Comedy|Sci-Fi
+,Crocodile Dundee in Los Angeles,4.7,Comedy
+,Kingpin,6.7,Adventure|Fantasy|Musical
+,The Gambler,5.7,Comedy|Drama
+,August: Osage County,6.9,Horror
+,Ice Princess,5.9,Horror|Thriller
+,A Lot Like Love,6.5,Horror|Thriller
+,Eddie the Eagle,7.2,Horror
+,He Got Game,6.7,Horror
+,Don Juan DeMarco,6.2,Horror|Mystery|Thriller
+,Dear John,6.6,Horror
+,The Losers,6.2,Horror
+,Don't Be Afraid of the Dark,5.4,Horror
+,War,6,Horror
+,Punch-Drunk Love,6.9,Horror
+,EuroTrip,6.5,Horror
+,Half Past Dead,4.6,Horror
+,Unaccompanied Minors,5.4,Horror
+,"Bright Lights, Big City",4.7,Horror
+,The Adventures of Pinocchio,5,Horror
+,The Greatest Game Ever Played,6.9,Horror
+,The Box,5.4,Horror
+,The Ruins,5.6,Horror
+,The Next Best Thing,4.3,Horror
+,My Soul to Take,5.2,Horror
+,The Girl Next Door,6.3,Horror
+,Maximum Risk,5.2,Horror|Thriller
+,Stealing Harvard,4.4,Horror|Thriller
+,Legend,6.7,Comedy|Horror|Thriller
+,Hot Rod,6.3,Horror|Thriller
+,Shark Night,4.9,Horror|Thriller
+,Angela's Ashes,7,Horror|Thriller
+,Draft Day,6.5,Horror|Mystery
+,Lifeforce,6.2,Horror
+,The Conspirator,6.2,Horror
+,Lords of Dogtown,7,Action|Comedy|Crime|Drama
+,The 33,6,Action|Comedy|Crime|Drama
+,Big Trouble in Little China,7.1,Action|Comedy|Crime|Drama
+,Fly Me to the Moon,5.6,Comedy|Horror
+,Warrior,7.7,Comedy|Horror
+,Michael Collins,6.7,Action|Adventure|Children|Comedy|Fantasy
+,Gettysburg,6.6,Action|Comedy|Romance
+,Stop-Loss,6.1,Comedy
+,Abandon,4.6,Crime|Drama|Film-Noir
+,Brokedown Palace,6.2,Drama|Mystery|Sci-Fi|Thriller
+,The Possession,5.8,Drama|Sci-Fi
+,Mrs. Winterbourne,5.3,Adventure|Comedy|Sci-Fi
+,Straw Dogs,5.5,Adventure|Comedy|Sci-Fi|Western
+,The Hoax,6.4,Action|Adventure|Drama
+,Stone Cold,5.7,Children|Comedy|Fantasy
+,The Road,6.8,Children|Comedy|Fantasy
+,Sheena,5,Children|Comedy|Western
+,Underclassman,5.5,Children|Fantasy|Musical
+,Say It Isn't So,4.8,Animation|Children|Drama
+,The World's Fastest Indian,7.3,Action|Adventure|Drama
+,Tank Girl,5.5,Drama|Romance
+,King's Ransom,5.1,Adventure|Sci-Fi
+,Blindness,6.4,Drama
+,BloodRayne,3.5,Crime|Drama|Mystery|Thriller
+,Carnage,7,Drama|Mystery
+,Where the Truth Lies,5.9,Drama|Romance
+,Cirque du Soleil: Worlds Away,6.1,Horror|Thriller
+,Without Limits,6.2,Comedy|Crime
+,Me and Orson Welles,6.6,Action|Drama|War
+,The Best Offer,7.7,Comedy|Romance
+,The Bad Lieutenant: Port of Call - New Orleans,6,Drama
+,A Turtle's Tale: Sammy's Adventures,5.6,Children|Comedy
+,Little White Lies,7.1,Children|Comedy
+,Love Ranch,6,Adventure|Animation|Children|Fantasy
+,The True Story of Puss 'n Boots,3.8,Children|Sci-Fi
+,Space Dogs,6.3,Children|Comedy
+,The Counselor,5,Children|Comedy
+,Ironclad,6.2,Adventure|Children|Comedy
+,Waterloo,7,Children|Comedy|Sci-Fi
+,Kung Fu Jungle,6.5,Adventure|Children
+,Red Sky,4.1,Children|Comedy
+,Dangerous Liaisons,7,Action|Adventure|Children|Comedy
+,On the Road,5.5,Children|Comedy
+,Star Trek IV: The Voyage Home,6.9,Adventure|Children|Fantasy
+,Rocky Balboa,6.5,Comedy|Fantasy
+,Scream 2,6.1,Adventure|Children|Drama|Romance
+,Jane Got a Gun,5.4,Adventure|Children|Sci-Fi
+,Think Like a Man Too,6.4,Adventure|Children|Fantasy|Musical
+,The Whole Nine Yards,6.2,Action|Animation|Children|Crime
+,Footloose,6.4,Comedy|Musical
+,Old School,6.6,Adventure|Children|Comedy
+,The Fisher King,7.2,Adventure|Children|Comedy
+,I Still Know What You Did Last Summer,5.1,Children|Comedy|Fantasy|Horror
+,Return to Me,6.1,Children|Comedy|Sci-Fi
+,Zack and Miri Make a Porno,6.1,Adventure|Children|Comedy|Fantasy|Sci-Fi
+,Nurse Betty,5.9,Action|Comedy|Western
+,The Men Who Stare at Goats,5.9,Adventure|Children
+,Double Take,5.5,Adventure|Children
+,"Girl, Interrupted",7.6,Action|Crime|Drama|Mystery|Thriller
+,Win a Date with Tad Hamilton!,5.5,Children|Comedy|Romance
+,Muppets from Space,5.8,Comedy
+,The Wiz,5.9,Documentary
+,Ready to Rumble,4.7,Drama|Romance
+,Play It to the Bone,5.7,Drama|Romance
+,I Don't Know How She Does It,5,Documentary
+,Piranha 3D,5.3,Comedy|Drama|Fantasy|Romance
+,Beyond the Sea,6.5,Film-Noir
+,Meet the Deedles,4.1,Drama|Romance|War
+,The Thief and the Cobbler,6.8,Drama|Fantasy|Mystery
+,The Bridge of San Luis Rey,5.4,Drama
+,Faster,6.1,Drama|Romance|Western
+,Howl's Moving Castle,8.2,Drama
+,Zombieland,7.2,Comedy
+,The Waterboy,5.9,Comedy
+,The Empire Strikes Back,8.2,Crime|Drama|Romance
+,Bad Boys,6.5,Drama|War
+,The Naked Gun 2½: The Smell of Fear,6.6,Drama|Mystery|Thriller
+,Final Destination,6.4,Adventure|Children
+,The Ides of March,6.5,Animation|Children|Comedy|Musical
+,Pitch Black,6.7,Adventure|Children|Drama
+,Someone Like You...,6,Animation|Children|Comedy|Romance
+,Her,7.9,Animation|Children|Comedy|Musical|Romance
+,Joy Ride,6.3,Children|Comedy
+,The Adventurer: The Curse of the Midas Box,5.1,Children|Comedy|Musical
+,Anywhere But Here,5.9,Children|Musical
+,The Crew,6.4,Adventure|Animation|Children
+,Haywire,5.6,Drama|Fantasy
+,Jaws: The Revenge,3.5,Animation|Children|Fantasy|Musical
+,Marvin's Room,6.6,Adventure|Comedy|Musical
+,The Longshots,6.5,Adventure|Animation|Children
+,The End of the Affair,6.6,Adventure|Animation|Children|Crime|Drama
+,Harley Davidson and the Marlboro Man,6.1,Children|Sci-Fi
+,In the Valley of Elah,6.6,Adventure|Animation|Children|Fantasy|Musical|Romance
+,Coco Before Chanel,6.6,Adventure|Children|Fantasy
+,Forsaken,5.8,Action|Adventure|Sci-Fi
+,Cheri,5.9,Children|Comedy
+,Vanity Fair,5.5,Animation|Children|Musical
+,Bodyguards and Assassins,6.5,Children|Drama|Fantasy|Mystery|Thriller
+,1408,6.5,Children|Comedy
+,Spaceballs,6.7,Adventure|Animation|Children|Musical
+,The Water Diviner,6.8,Comedy|Fantasy|Romance
+,Ghost,6.9,Adventure|Drama
+,There's Something About Mary,6.5,Animation|Children|Comedy|Musical
+,The Santa Clause,6.3,Adventure|Children|Fantasy|Western
+,The Rookie,6.5,Drama
+,The Game Plan,6,Action|Adventure|Sci-Fi
+,The Bridges of Madison County,7.3,Drama|War
+,The Animal,4.6,Horror|Thriller
+,Gandhi,7.4,Comedy|Romance
+,The Hundred-Foot Journey,7.3,Comedy
+,The Net,5.6,Comedy|Crime|Thriller
+,I Am Sam,7.2,Comedy
+,Son of God,5.9,Crime|Drama
+,Underworld,6.6,Horror|Thriller
+,Derailed,6.1,Drama
+,The Informant!,6,Action|Adventure|Fantasy
+,Shadowlands,6.8,Adventure|Animation|Children|Fantasy
+,Deuce Bigalow: European Gigolo,4.7,Drama|Sci-Fi
+,Delivery Man,6.2,Thriller
+,Our Kind of Traitor,6,Horror
+,Saving Silverman,5.4,Drama|Horror
+,Diary of a Wimpy Kid: Dog Days,6,Horror|Thriller
+,Summer of Sam,6.3,Horror|Thriller
+,Jay and Silent Bob Strike Back,6.4,Animation|Children|Comedy|Drama|Fantasy
+,The Glass House,5.4,Children|Comedy|Fantasy
+,"Hail, Caesar!",5.7,Comedy|Drama|Romance
+,Josie and the Pussycats,5.3,Action|Crime|Mystery|Thriller
+,Homefront,6.4,Drama|Romance
+,The Little Vampire,6.1,Comedy
+,I Heart Huckabees,6.2,Documentary
+,RoboCop 3,4.2,Crime|Drama|Romance
+,Megiddo: The Omega Code 2,3.6,Drama
+,Darling Lili,4.9,Drama
+,Dudley Do-Right,3.8,Adventure|Comedy
+,The Transporter Refueled,5.2,Comedy|Fantasy|Sci-Fi
+,The Libertine,5.9,Adventure|Children|Musical
+,Black Book,7.2,Comedy|Sci-Fi
+,Joyeux Noël,7.2,Animation|Children
+,Hit & Run,5.5,Adventure|Animation|Children|Drama|Fantasy
+,Mad Money,5.9,Adventure|Animation|Children|Drama
+,Before I Go to Sleep,6.2,Adventure|Fantasy
+,Sorcerer,7.4,Adventure|Animation|Children|Comedy
+,Stone,5.2,Adventure|Animation|Children|Musical|Western
+,Moliere,6.7,Adventure|Fantasy|Romance
+,Out of the Furnace,6.5,Comedy|Romance
+,Michael Clayton,6.5,Comedy|Drama|Romance
+,My Fellow Americans,6.3,Drama|Romance
+,Arlington Road,7,Adventure|Drama|Fantasy
+,Underdogs,6,Comedy|Fantasy|Horror
+,To Rome with Love,5.6,Comedy|Fantasy|Horror
+,Firefox,5.5,Adventure|Comedy
+,"South Park: Bigger, Longer & Uncut",7.1,Comedy
+,Death at a Funeral,6.9,Children|Comedy
+,Teenage Mutant Ninja Turtles III,5.1,Action|Adventure
+,Hardball,6.3,Drama|Romance
+,Silver Linings Playbook,6.9,Comedy|Drama
+,Freedom Writers,7.5,Comedy|Drama|Romance
+,For Colored Girls,7,Romance
+,The Transporter,6.6,Crime|Horror
+,Never Back Down,6.4,Crime|Horror|Thriller
+,The Rage: Carrie 2,5.1,Drama|Horror|Thriller
+,Away We Go,6.7,Adventure|Children|Fantasy
+,Swing Vote,5.8,Adventure|Children|Fantasy
+,Moonlight Mile,6.5,Comedy|Horror
+,Tinker Tailor Soldier Spy,6.6,Action|Comedy|Drama|Horror
+,Molly,5.5,Comedy|Drama
+,The Beaver,6.3,Crime|Drama|Romance|Thriller
+,The Best Little Whorehouse in Texas,5.9,Action|Horror|Thriller
+,eXistenZ,6.7,Drama|Romance
+,Raiders of the Lost Ark,7.7,Comedy
+,Home Alone 2: Lost in New York,6.3,Action|Comedy
+,Close Encounters of the Third Kind,7.2,Comedy|Drama|Romance
+,Pulse,5,Comedy|Drama
+,Beverly Hills Cop II,6.1,Adventure|Fantasy|Sci-Fi
+,Bringing Down the House,5.4,Comedy|Fantasy
+,The Silence of the Lambs,8.1,Drama|Romance
+,Wayne's World,6.5,Crime|Drama|Thriller
+,Jackass 3D,6.4,Comedy|Thriller
+,Jaws 2,5.9,Thriller
+,Beverly Hills Chihuahua,4.9,Thriller
+,The Conjuring,7.4,Thriller
+,Are We There Yet?,5.2,Drama|Mystery|Romance|Thriller
+,Tammy,5,Drama|Film-Noir|Thriller
+,School of Rock,6.7,Adventure|Drama|Mystery|Thriller
+,Mortal Kombat,5.4,Comedy|Mystery
+,White Chicks,6.3,Thriller
+,The Descendants,6.7,Crime|Drama|Film-Noir|Thriller
+,Holes,6.7,Mystery|Romance|Thriller
+,The Last Song,6.9,Drama
+,12 Years a Slave,7.9,Animation|Comedy|Fantasy|Sci-Fi
+,Drumline,6.2,Drama
+,Why Did I Get Married Too?,6.1,Comedy
+,Edward Scissorhands,7.5,Thriller
+,Me Before You,7.6,Action|Adventure|Fantasy
+,Madea's Witness Protection,5.9,Action|Crime|Drama
+,The French Connection,7.4,Comedy
+,Bad Moms,6.3,Action
+,Date Movie,3.6,Drama
+,Return to Never Land,6.1,Documentary
+,Selma,7.4,Crime|Drama
+,The Jungle Book 2,5.6,Drama
+,Boogeyman,4.6,Drama
+,Premonition,5.8,Drama|War
+,The Tigger Movie,6.3,Crime|Drama|Thriller
+,Orphan,6.7,Mystery|Thriller
+,Max,6.8,Comedy|Romance
+,Epic Movie,3.2,Film-Noir|Mystery|Thriller
+,Spotlight,7.8,Drama
+,Lakeview Terrace,5.9,Drama|Mystery|Thriller
+,The Grudge 2,5.2,Crime|Thriller
+,How Stella Got Her Groove Back,6,Thriller
+,Bill & Ted's Bogus Journey,5.9,Thriller
+,Man of the Year,5.8,Drama|Thriller
+,The Black Hole,6.1,Comedy|Musical
+,The American,5.8,Thriller
+,Selena,7,Comedy|Romance
+,Vampires Suck,4.2,Drama
+,Babel,6.9,Comedy|Musical
+,This Is Where I Leave You,6.5,Drama
+,Doubt,7,Mystery|Thriller
+,Team America: World Police,6.6,Drama
+,Texas Chainsaw 3D,5.3,Drama|Thriller
+,Copycat,6.4,Comedy
+,Scary Movie 5,4.6,Comedy
+,Paint Your Wagon,6.2,Drama
+,Milk,7.1,Drama
+,Risen,5.7,Drama
+,Ghost Ship,5.3,Crime|Drama|Thriller
+,A Very Harold & Kumar Christmas,6,Drama
+,Wild Things,6.3,Comedy
+,The Stepfather,5.4,Drama
+,The Debt,6.3,Horror|Mystery|Sci-Fi|Thriller
+,High Fidelity,7,Drama
+,One Missed Call,4.7,Drama
+,Eye for an Eye,5.8,Drama|War
+,The Bank Job,6.6,Drama
+,Eternal Sunshine of the Spotless Mind,7.9,Drama
+,You Again,6,Comedy|Drama
+,Street Kings,6.3,Comedy|Drama
+,The World's End,6.7,Drama
+,Nancy Drew,5.8,Comedy
+,Daybreakers,6,Drama
+,She's Out of My League,5.9,Comedy|Drama|Romance
+,Monte Carlo,6,Comedy|Romance
+,Stay Alive,5.3,Comedy|Drama|Romance
+,Quigley Down Under,6.5,Action|Comedy|Romance
+,Alpha and Omega,5.3,Comedy
+,The Covenant,5.2,Comedy|Drama|Romance
+,Stick It,6.3,Comedy
+,Shorts,5.1,Drama
+,To Die For,6.7,Comedy
+,Nerve,7.1,Comedy|Drama
+,Appaloosa,6.3,Comedy|Fantasy
+,Vampires,5.8,Drama
+,Psycho,8.2,Comedy
+,My Best Friend's Girl,5.4,Horror|Sci-Fi
+,Endless Love,6.7,Comedy|Romance
+,Georgia Rule,5.6,Action
+,Under the Rainbow,4.9,Comedy|Romance
+,Ladyhawke,6.8,Crime|Drama
+,Simon Birch,6.5,Comedy
+,Reign Over Me,7.1,Comedy|Drama|Romance
+,Into the Wild,7.8,Drama|Fantasy|Thriller
+,School for Scoundrels,5.6,Comedy|Crime
+,Silent Hill: Revelation 3D,5,Adventure|Comedy
+,From Dusk Till Dawn,6.9,Comedy|Romance
+,Pooh's Heffalump Movie,6.4,Mystery|Thriller
+,Home for the Holidays,6.3,Crime|Drama|Thriller
+,Kung Fu Hustle,7.2,Drama|Romance
+,The Country Bears,4.3,Documentary
+,The Kite Runner,7.3,Drama
+,21 Grams,7.2,Drama
+,Paparazzi,5.8,Action|Comedy|Crime|Thriller
+,A Guy Thing,5.3,Drama
+,Loser,5,Action|Adventure|Sci-Fi
+,Capitalism: A Love Story,7,Drama
+,The Greatest Story Ever Told,6.5,Comedy|Drama
+,Secret in Their Eyes,6.2,Action|Crime|Thriller
+,Disaster Movie,3,Horror|Thriller
+,Armored,5.5,Crime
+,The Man Who Knew Too Little,6.5,Action|Crime|Drama
+,What's Your Number?,6.2,Comedy|Drama
+,Lockout,5.8,Drama
+,Envy,4.8,Drama
+,Crank: High Voltage,5.9,Drama
+,Bullets Over Broadway,7,Comedy
+,One Night with the King,6.1,Horror|Sci-Fi|Thriller
+,The Quiet American,6.4,Action|Horror|Sci-Fi|Thriller
+,The Weather Man,6,Comedy|Crime|Drama
+,Undisputed,6.1,Comedy|Drama
+,Ghost Town,6.4,Drama|Fantasy|Romance
+,12 Rounds,5.7,Comedy|Romance
+,Let Me In,6.7,Drama
+,3 Ninjas Kick Back,4.5,Adventure|Animation|Children|Comedy|Fantasy
+,Be Kind Rewind,6.2,Comedy
+,Mrs Henderson Presents,6.4,Comedy
+,Triple 9,5.6,Adventure|Drama|Fantasy|Romance
+,Deconstructing Harry,7.3,Thriller
+,Three to Tango,5.4,Comedy
+,Burnt,6.3,Comedy
+,We're No Angels,5.6,Comedy|Musical
+,Everyone Says I Love You,6.5,Comedy
+,Death Sentence,6.5,Drama|Musical
+,Everybody's Fine,6.5,Drama
+,Superbabies: Baby Geniuses 2,1.9,Drama
+,The Man,5.4,Comedy
+,Code Name: The Cleaner,4.7,Action|Crime
+,Connie and Carla,6.4,Action|Crime
+,Sweet Charity,6.5,Drama|Mystery
+,Inherent Vice,6.5,Drama
+,Doogal,3.2,Sci-Fi
+,Battle of the Year,5.9,Drama
+,An American Carol,4.1,Drama
+,Machete Kills,5.3,Drama
+,Willard,5.8,Comedy|Horror|Thriller
+,Strange Wilderness,4.7,Drama|Fantasy|Mystery|Romance
+,Topsy-Turvy,6.7,Comedy
+,Little Boy,7,Comedy|Drama
+,A Dangerous Method,6.2,Comedy|Drama
+,A Scanner Darkly,6.8,Drama|Thriller
+,Chasing Mavericks,7,Comedy|Drama|Fantasy
+,Alone in the Dark,3.1,Action|Sci-Fi|War
+,Bandslam,5.4,Documentary
+,Birth,5.9,Comedy|Drama|Romance|War
+,A Most Violent Year,6.5,Comedy
+,Passchendaele,6.3,Drama|Thriller
+,Flash of Genius,6.3,Fantasy|Horror|Thriller
+,I'm Not There.,6.6,Horror|Western
+,The Cold Light of Day,4.8,Crime|Drama
+,The Brothers Bloom,6.8,Comedy|Documentary
+,"Synecdoche, New York",7.4,Comedy|Drama|Romance
+,Princess Mononoke,8.2,Crime|Drama
+,Bon voyage,5.7,Drama
+,Can't Stop the Music,4.9,Action|Thriller
+,The Proposition,7.1,Comedy
+,My All American,6.8,Drama
+,Marci X,3.3,Drama
+,Equilibrium,6.9,Horror|Mystery|Thriller
+,The Children of Huang Shi,6.5,Comedy|Romance
+,The Yards,6,Romance
+,The Oogieloves in the Big Balloon Adventure,2.2,Drama
+,By the Sea,5.4,Comedy|Drama
+,Steamboy,6.4,Drama
+,The Game of Their Lives,5.8,Action|Adventure|Drama|Thriller
+,All Good Things,5.9,Drama
+,Rapa Nui,6.2,Mystery|Sci-Fi|Thriller
+,CJ7,6.1,Drama
+,The Visitors II: The Corridors of Time,5.8,Drama
+,Dylan Dog: Dead of Night,4.5,Comedy|Thriller
+,People I Know,5.5,Comedy
+,The Tempest,6,Drama
+,Regression,5.3,Comedy|Drama
+,Three Kingdoms: Resurrection of the Dragon,6.6,Action|Thriller
+,Butterfly on a Wheel,6.3,Animation|Children|Comedy
+,Zambezia,5.3,Adventure|Animation|Children|Comedy
+,Ramanujan,5,Comedy
+,Dwegons,0.5,Drama
+,Hands of Stone,6.1,Drama|War
+,Survivor,5.4,Comedy
+,The Frozen Ground,6.1,Drama
+,The Painted Veil,7.1,Comedy
+,The Baader Meinhof Complex,7.1,Drama
+,Dances with Wolves,7.6,Drama|Horror|Sci-Fi
+,Bad Teacher,5.4,Action|Horror|Sci-Fi|Thriller
+,Sea of Love,6.7,Action|Sci-Fi
+,A Cinderella Story,6.1,Action|Adventure|Fantasy|Horror
+,Scream,7,Adventure|Fantasy|Romance|Sci-Fi|Thriller
+,Thir13en Ghosts,5.4,Adventure|Sci-Fi
+,The Shining,8.1,Comedy|Drama|Romance
+,Back to the Future,8,Action|Adventure|Drama
+,House on Haunted Hill,5.5,Comedy|Crime|Mystery
+,I Can Do Bad All By Myself,6,Comedy
+,Fight Valley,3.9,Action|Adventure|Fantasy
+,The Switch,5.9,Comedy|Drama
+,Just Married,5.3,Comedy
+,The Devil's Double,6.5,Action|Adventure|Thriller
+,Thomas and the Magic Railroad,4.6,Horror|Sci-Fi
+,The Crazies,6.2,Comedy|Crime
+,Spirited Away,8.3,Comedy|Crime
+,Firestorm,5.9,Comedy|Crime
+,The Bounty,6.5,Comedy|Crime
+,The Book Thief,7.4,Comedy|Crime
+,Sex Drive,6,Comedy|Crime
+,Leap Year,6.4,Adventure|Children|Drama
+,The Fall of the Roman Empire,6,Comedy|Romance
+,Take Me Home Tonight,6.2,Comedy|Drama
+,Won't Back Down,5.8,Comedy|Crime
+,The Nutcracker,5.6,Drama|Romance
+,Kansas City,6.1,Crime|Horror|Thriller
+,Indignation,6.8,Comedy
+,The Amityville Horror,6,Crime|Drama|Thriller
+,Adaptation.,7.3,Children|Comedy|Drama
+,Land of the Dead,6,Action|Drama|Romance|Sci-Fi
+,Out of Inferno,5.8,Animation|Musical
+,Fear and Loathing in Las Vegas,7.2,Comedy|Drama
+,The Invention of Lying,6,Comedy|Drama|Romance
+,Neighbors,6.2,Drama
+,The Mask,6.6,Comedy|Drama
+,Big,6.9,Adventure|Children|Fantasy
+,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,6.5,Children|Drama|Fantasy
+,Legally Blonde,6.1,Western
+,Star Trek III: The Search for Spock,6.4,Action|Adventure|Thriller
+,The Exorcism of Emily Rose,6.3,Action|Adventure|Drama|Thriller
+,Deuce Bigalow: Male Gigolo,5.5,Action|Adventure|Thriller|War
+,Left Behind,3.7,Action|Adventure|Comedy|Romance
+,The Family Stone,6.2,Action|Adventure|Comedy|Romance
+,Barbershop 2:  Back in Business,5.6,Comedy|Sci-Fi
+,Bad Santa,6.5,Comedy|Sci-Fi
+,Austin Powers: International Man of Mystery,6.5,Action|Drama
+,My Big Fat Greek Wedding 2,5.5,Action|Drama
+,Diary of a Wimpy Kid: Rodrick Rules,6.3,Action|Drama
+,Predator,7.3,Action|Drama
+,Amadeus,7.8,Comedy|Crime|Mystery|Thriller
+,Prom Night,4.8,Action|Adventure|Children|Fantasy|Mystery|Thriller
+,Mean Girls,6.9,Drama|Romance
+,Under the Tuscan Sun,6.4,Comedy
+,Gosford Park,6.8,Comedy|Drama
+,Peggy Sue Got Married,5.9,Comedy
+,Birdman,7.4,Drama|Thriller
+,Blue Jasmine,7,Drama
+,United 93,6.9,Action|Adventure|Drama
+,Honey,6,Action|Adventure|Children|Drama
+,Spy Hard,4.9,Comedy
+,The Fog,6.4,Comedy|Romance
+,Soul Surfer,6.9,Crime
+,Catch-22,6.7,Comedy|Drama|Romance
+,Observe and Report,5.6,Action|Drama|War
+,Conan the Destroyer,5.8,Horror|Sci-Fi
+,Raging Bull,7.7,Action|Adventure|Drama|Fantasy|Thriller
+,Love Happens,5.6,Adventure|Children|Drama
+,Young Sherlock Holmes,6.7,Comedy|Drama
+,Fame,5.5,Drama
+,127 Hours,7,Drama
+,Small Time Crooks,6.4,Drama
+,Center Stage,6.8,Drama
+,Love the Coopers,5.4,Comedy|Drama|War
+,Catch That Kid,4.9,Drama
+,Life as a House,7.2,Comedy|Drama|Thriller
+,Steve Jobs,6.8,Drama
+,"I Love You, Beth Cooper",5.1,Drama
+,Youth in Revolt,5.9,Drama|Romance|Western
+,The Legend of the Lone Ranger,3.7,Drama
+,The Tailor of Panama,6.2,Drama|Romance
+,Blow Out,7.3,Comedy|Drama
+,Getaway,4.9,Drama
+,The Ice Storm,6.9,Horror|Thriller
+,And So It Goes,5.7,Comedy|Drama
+,Troop Beverly Hills,5.6,Horror|Sci-Fi
+,Being Julia,6.4,Adventure|Children|Comedy
+,Nine 1/2 Weeks,5.8,Adventure|Comedy|Sci-Fi
+,Dragonslayer,6.5,Horror
+,The Last Station,6.7,Horror
+,Ed Wood,7.3,Drama|Fantasy
+,Labor Day,6.7,Horror|Mystery|Sci-Fi
+,Mongol: The Rise of Genghis Khan,6.5,Drama|Horror|Sci-Fi|Thriller
+,RockNRolla,6.9,Horror|Sci-Fi
+,Megaforce,3.5,Action|Comedy
+,Hamlet,7.3,Comedy|Crime
+,Mao's Last Dancer,6.8,Horror
+,Midnight Special,6.2,Horror
+,Anything Else,6.2,Comedy|Horror|Thriller
+,The Railway Man,6.7,Horror
+,The White Ribbon,7.2,Comedy
+,Restoration,5.3,Horror
+,The Wraith,5.9,Horror
+,Salton Sea,7,Drama
+,Metallica: Through the Never,6.7,Crime|Drama|Mystery|Thriller
+,The Informers,4.4,Action|Comedy|Romance|Thriller
+,Carlos,6.7,Comedy|Drama
+,I Come with the Rain,5.6,Adventure|Comedy
+,One Man's Hero,9.3,Action|Adventure|Comedy
+,Day of the Dead,6.9,Comedy
+,I Am Wrath,4.5,Comedy
+,Renaissance,6.7,Drama
+,Red Sonja,5,Action|Mystery|Thriller
+,Red Lights,6,Action|War
+,Superbad,7,Adventure
+,Madea Goes to Jail,6.4,Comedy|Western
+,Wolves,5.7,Drama|Thriller
+,Step Up 2: The Streets,6.5,Drama
+,Hoodwinked!,5.9,Drama|Romance
+,Hotel Rwanda,7.5,Comedy|Romance
+,Hitman,5.9,Adventure|Comedy|Thriller
+,Black Nativity,5.8,Comedy|Crime|Drama
+,The Prince,4.6,Comedy|Romance
+,City of Ghosts,5.4,Comedy|Drama
+,The Others,7.4,Action|Comedy
+,Aliens,7.7,Drama|Horror|Thriller
+,My Fair Lady,7.4,Drama
+,I Know What You Did Last Summer,5.6,Action|Thriller
+,Let's Be Cops,6.4,Comedy|Romance
+,Sideways,6.9,Comedy|Romance
+,Beerfest,5.8,Drama
+,Halloween,7.4,Documentary
+,Good Boy!,4.7,Animation|Sci-Fi
+,The Best Man Holiday,6.7,Comedy|Romance
+,Smokin' Aces,6.4,Romance
+,Saw: The Final Chapter,5.8,Comedy|Sci-Fi
+,40 Days and 40 Nights,5.2,Comedy
+,A Night at the Roxbury,5.9,Comedy
+,Beastly,6,Drama
+,The Hills Have Eyes,6.1,Comedy|Crime
+,Dickie Roberts: Former Child Star,5.1,Drama
+,"McFarland, USA",7.4,Comedy|Drama
+,Lottery Ticket,5.6,Drama|Mystery|Thriller
+,ATL,6,Comedy|Drama|Romance
+,Pitch Perfect,7.3,Comedy|Sci-Fi
+,Summer Catch,4.8,Comedy
+,A Simple Plan,6.9,Comedy
+,They,4.6,Comedy|Romance
+,Larry the Cable Guy: Health Inspector,3.3,Crime|Film-Noir
+,The Adventures of Elmo in Grouchland,6.3,Drama
+,Brooklyn's Finest,6.2,Horror
+,55 Days at Peking,6.3,Comedy|Horror
+,Evil Dead,6.4,Horror
+,My Life in Ruins,5.6,Horror
+,American Dreamz,4.9,Horror
+,Superman IV: The Quest for Peace,4.1,Comedy
+,How She Move,3,Drama|Horror|Thriller
+,Running Scared,7,Drama
+,Bobby Jones: Stroke of Genius,5.5,Action|Drama|Thriller
+,Shanghai Surprise,2.9,Drama
+,The Illusionist,7.1,Drama|Thriller
+,Roar,5.6,Action|Adventure|Drama|Thriller
+,Veronica Guerin,6.8,Action|Horror|Sci-Fi
+,Escobar: Paradise Lost,6.1,Sci-Fi
+,Southland Tales,5.2,Action|Sci-Fi|Thriller|Western
+,Dragon Hunters,6.5,Action|Adventure|Sci-Fi
+,Damnation Alley,5,Action|Drama|Sci-Fi
+,The Apparition,4.5,Action|Sci-Fi
+,My Girl,7,Action|Sci-Fi
+,Fur: An Imaginary Portrait of Diane Arbus,5.8,Action|Sci-Fi
+,Wall Street,7,Action|Sci-Fi
+,Sense and Sensibility,7.2,Action
+,Becoming Jane,6.9,Action|Drama|Thriller
+,Sydney White,6,Drama
+,House of Sand and Fog,7,Adventure
+,Dead Poets Society,8.1,Documentary
+,Dumb and Dumber,6.5,Comedy
+,When Harry Met Sally...,7.3,Action|Crime|Drama|Thriller
+,The Verdict,7.4,Drama
+,Road Trip,5.9,Comedy|Crime|Thriller
+,Varsity Blues,6,Comedy
+,The Artist,7.3,Drama|Romance
+,The Unborn,4.8,Comedy
+,Moonrise Kingdom,7.6,Drama
+,The Texas Chainsaw Massacre: The Beginning,5.9,Drama
+,The Young Messiah,6.4,Horror
+,The Master of Disguise,3.7,Action|Sci-Fi
+,Pan's Labyrinth,7.6,Horror|Thriller
+,See Spot Run,4.8,Drama|Horror|Thriller
+,Baby Boy,7.4,Comedy
+,The Roommate,5.3,Horror|Sci-Fi|Thriller
+,Joe Dirt,5.5,Horror|Sci-Fi|Thriller
+,Double Impact,5.3,Comedy
+,Hot Fuzz,7.4,Comedy|Drama|Romance
+,The Women,4.6,Drama|Thriller
+,Vicky Cristina Barcelona,6.7,Comedy|Romance
+,Arn: The Knight Templar,6.4,Animation|Children
+,Boys and Girls,5.4,Horror|Thriller
+,White Oleander,7.2,Crime|Thriller
+,Jennifer's Body,5.3,Drama
+,Drowning Mona,5.4,Drama
+,Radio Days,7,Drama
+,Remember Me,6.9,Drama|Musical|Romance
+,How to Deal,5.7,Animation|Children
+,My Stepmother is an Alien,5.3,Comedy
+,Philadelphia,7.6,Action|Crime
+,The Thirteenth Floor,6.8,Comedy|Drama|Romance
+,The Cookout,4.6,Drama|Romance
+,Meteor,5.1,Action|Sci-Fi|Thriller
+,Duets,5.5,Comedy|Romance
+,Hollywood Ending,6.4,Drama|Musical
+,Detroit Rock City,6.7,Comedy
+,Highlander,6.8,Drama
+,Things We Lost in the Fire,6.7,Drama
+,Steel,4.3,Comedy|Drama
+,The Immigrant,6.2,Sci-Fi
+,The White Countess,6.9,Crime|Mystery|Thriller
+,Trance,6.5,Comedy|Crime
+,Soul Plane,4.7,Comedy|Romance
+,Welcome to the Sticks,6.8,Action|Comedy
+,Good,6.3,Comedy|Drama
+,Enter the Void,7.2,Comedy
+,Vamps,4.8,Drama|Romance
+,Hachi: A Dog's Tale,7.7,Comedy|Crime|Thriller
+,Zulu,6.7,Comedy|Crime|Drama
+,The Homesman,6.4,Animation
+,Juwanna Mann,4.2,Comedy|Drama|Romance
+,Ararat,5.7,Drama
+,Madison,5.3,Comedy|Drama|Romance
+,Slow Burn,5.5,Drama
+,Wasabi,6.2,Comedy
+,Slither,6.3,Drama|Romance|Sci-Fi|Thriller
+,Beverly Hills Cop,6.8,Documentary
+,Home Alone,7.1,Comedy|Drama
+,Three Men and a Baby,5.8,Comedy|Romance
+,Tootsie,6.9,Comedy
+,Top Gun,6.7,Comedy
+,"Crouching Tiger, Hidden Dragon",7.2,Action|Sci-Fi|Thriller
+,American Beauty,7.9,Comedy
+,The King's Speech,7.6,Action|Adventure|Horror|Sci-Fi
+,Twins,5.7,Drama
+,The Yellow Handkerchief,6.4,Documentary
+,The Color Purple,7.7,Crime|Thriller
+,Tidal Wave,6.5,Comedy|Horror
+,The Imitation Game,8,Drama|Romance
+,Private Benjamin,6,Thriller
+,Coal Miner's Daughter,7.2,Drama
+,Diary of a Wimpy Kid,5.9,Drama
+,Mama,6,Drama
+,National Lampoon's Vacation,7.1,Drama|Film-Noir
+,Bad Grandpa,6,Comedy|Horror|Sci-Fi
+,The Queen,6.8,Action|Horror|Sci-Fi
+,Beetlejuice,7.1,Adventure|Sci-Fi
+,Why Did I Get Married?,6.1,Action|Crime
+,Little Women,7,Action|Adventure|Comedy|Fantasy|Horror|Thriller
+,The Woman in Black,6.1,Comedy
+,When a Stranger Calls,5.4,Drama
+,Big Fat Liar,5.6,Drama|Romance
+,The Deer Hunter,7.8,Drama
+,Wag the Dog,6.7,Comedy|Fantasy
+,The Lizzie McGuire Movie,5.7,Comedy
+,Snitch,5.8,Drama|Fantasy
+,Krampus,5.9,Action|Adventure|Crime|Sci-Fi|Thriller
+,The Faculty,6.2,Comedy|Drama|Romance
+,What's Love Got to Do with It,6.9,Documentary|Drama
+,Cop Land,6.6,Action|Adventure|Sci-Fi
+,Not Another Teen Movie,5.5,Comedy|Romance
+,End of Watch,7.2,Drama
+,The Skulls,5.8,Comedy|Film-Noir|Thriller
+,The Theory of Everything,7.8,Adventure|Drama|Mystery
+,Malibu's Most Wanted,4.7,Horror|Romance
+,Where the Heart Is,6.9,Horror
+,Lawrence of Arabia,7.8,Horror
+,Halloween II,5.1,Horror
+,Wild,7,Horror
+,The Last House on the Left,6.2,Horror
+,The Wedding Date,6.2,Drama
+,Halloween: Resurrection,4.5,Action|Adventure|Sci-Fi
+,The Princess Bride,7.6,Action|Sci-Fi
+,The Great Debaters,6.9,Action|Adventure|Sci-Fi
+,Drive,7.4,Action|Adventure|Sci-Fi
+,Confessions of a Teenage Drama Queen,5.1,Horror
+,The Object of My Affection,5.6,Horror
+,28 Weeks Later,6.5,Horror
+,When the Game Stands Tall,6.3,Drama|Horror|Sci-Fi
+,Because of Winn-Dixie,6.1,Horror
+,Love & Basketball,7.4,Horror
+,Grosse Pointe Blank,6.9,Horror
+,All About Steve,4.7,Horror
+,Book of Shadows: Blair Witch 2,4.3,Horror
+,The Craft,6.3,Drama|Fantasy|Horror
+,Match Point,7.3,Horror
+,Ramona and Beezus,6.1,Horror|Sci-Fi
+,The Remains of the Day,7.5,Comedy|Horror|Musical|Sci-Fi
+,Boogie Nights,7.5,Sci-Fi
+,Nowhere to Run,5.5,Comedy|Documentary
+,Flicka,6.1,Horror|Sci-Fi
+,The Hills Have Eyes 2,5.2,Sci-Fi
+,Urban Legends: Final Cut,4.4,Action|Drama|Sci-Fi
+,Tuck Everlasting,6.4,Sci-Fi
+,The Marine,5,Horror|Sci-Fi|Thriller
+,Keanu,6,Sci-Fi
+,Country Strong,5.9,Sci-Fi
+,Disturbing Behavior,5.5,Horror|Sci-Fi
+,The Place Beyond the Pines,6.8,Horror|Sci-Fi
+,The November Man,6,War
+,Eye of the Beholder,5.3,War
+,The Hurt Locker,7.2,Comedy|Romance
+,Firestarter,5.9,Drama|Sci-Fi|Thriller
+,Killing Them Softly,5.8,Drama
+,A Most Wanted Man,6.5,Drama|Fantasy
+,Freddy Got Fingered,4.6,Comedy|Drama|Romance
+,VeggieTales: The Pirates Who Don't Do Anything,5.9,Drama|Thriller
+,U2 3D,6.7,Documentary|Musical
+,Highlander: Endgame,4.4,Comedy
+,Idlewild,5.1,Comedy|Drama|Romance
+,One Day,7,Drama
+,Whip It,6.7,Comedy|Romance|Sci-Fi
+,Knockaround Guys,5.9,Drama
+,Confidence,6.4,Action|Adventure|Comedy
+,The Muse,5.3,Comedy|Drama
+,De-Lovely,6.3,Comedy|Drama
+,New York Stories,6.2,Drama|Mystery
+,Barney's Great Adventure,2.9,Adventure|Animation|Children|Drama
+,The Man with the Iron Fists,5.2,Crime|Drama|Mystery|Thriller
+,Home Fries,4.8,Documentary
+,Here On Earth,5.4,Comedy|Romance
+,Brazil,7.5,Drama
+,Raise Your Voice,6,Action|Crime
+,The Big Lebowski,7.8,Documentary
+,Black Snake Moan,6.6,Comedy
+,Dark Blue,6.5,Drama
+,A Mighty Heart,6.7,Comedy
+,Whatever It Takes,5,Comedy|Drama|Romance
+,Boat Trip,4.7,Sci-Fi
+,The Importance of Being Earnest,6.7,Comedy|Horror
+,The Love Letter,4.7,Animation|Comedy|Musical
+,Hoot,5.5,Action|Comedy|Sci-Fi|Western
+,In Bruges,7.4,Drama
+,Peeples,5.6,Drama
+,The Rocker,5.6,Drama|Romance
+,Post Grad,5,Drama
+,Promised Land,6,Comedy|Romance
+,Whatever Works,6.8,Thriller
+,The In Crowd,4.7,Romance
+,The Three Burials of Melquiades Estrada,7,Children|Comedy
+,Jakob the Liar,6,Drama|Horror|Thriller
+,Kiss Kiss Bang Bang,7.2,Drama
+,Idle Hands,6.1,Drama|Mystery|Thriller
+,Mulholland Drive,7.6,Horror|Thriller
+,Blood and Chocolate,5.4,Drama
+,You Will Meet a Tall Dark Stranger,5.8,Comedy|Romance
+,Never Let Me Go,6.8,Action|Comedy|Sci-Fi
+,The Company,7,Comedy|Fantasy|Sci-Fi
+,Transsiberian,6.5,Comedy
+,The Clan of the Cave Bear,4.8,Horror|Thriller
+,Crazy in Alabama,6.5,Action|Adventure|Children|Comedy
+,Funny Games,6.3,Comedy|Romance
+,Listening,5.5,Action|Horror|Sci-Fi|Thriller
+,Felicia's Journey,6.6,Action|Comedy|Fantasy
+,Metropolis,8,Comedy|Romance
+,District B13,6.5,Drama
+,Things to Do in Denver When You're Dead,6.7,Crime|Film-Noir
+,The Assassin,6.6,Crime|Film-Noir
+,Buffalo Soldiers,6.5,Action|Drama|Romance|War
+,The Return,7.4,Drama|Romance
+,Ong Bak 2,6,Drama|Romance|War
+,Centurion,5.9,Crime|Drama
+,Silent Trigger,5,Drama|Romance
+,The Midnight Meat Train,6,Adventure|Comedy|Romance
+,Winnie Mandela,5.2,Adventure|Drama|Thriller
+,The Son of No One,4.8,Action|Adventure|Comedy|Fantasy|Mystery
+,All The Queen's Men,6.1,Comedy
+,The Good Night,5.7,Action|Drama|Thriller
+,Bathory: Countess of Blood,5.6,Comedy|Drama
+,Khumba,5.8,Drama
+,Automata,5.6,Horror|Sci-Fi
+,Dungeons & Dragons: Wrath of the Dragon God,4.8,Action|Crime|Thriller
+,Chiamatemi Francesco - Il Papa della gente,7.3,Comedy|Drama
+,Shinjuku Incident,6.7,Drama
+,Pandaemonium,4.5,Drama
+,Groundhog Day,7.4,Drama
+,Magic Mike XXL,6.3,Comedy|Horror|Musical
+,Romeo + Juliet,6.7,Comedy|Horror
+,Sarah's Key,7.2,Action|Adventure|Comedy
+,Freedom,5.8,Drama|Mystery
+,Unforgiven,7.7,Comedy|Drama
+,Manderlay,6.9,Comedy|Drama
+,Slumdog Millionaire,7.6,Comedy|Mystery
+,Fatal Attraction,6.6,Thriller
+,Pretty Woman,7,Horror
+,Crocodile Dundee II,5.5,Drama
+,Broken Horses,5,Action
+,Born on the Fourth of July,6.7,Drama
+,Cool Runnings,6.8,Drama
+,My Bloody Valentine,5.3,Comedy
+,Stomp the Yard,6.1,Drama
+,The Spy Who Loved Me,6.6,Adventure|Animation|Children|Drama|Sci-Fi
+,Urban Legend,5.6,Drama|Horror|Mystery
+,Good Deeds,6.2,Action|Mystery
+,White Fang,6.5,Crime|Drama|Romance|Thriller
+,Superstar,5.1,Comedy|Drama
+,The Iron Lady,6.2,Comedy|Drama
+,Jonah: A VeggieTales Movie,6.4,Comedy
+,Poetic Justice,6.9,Comedy
+,All About the Benjamins,5.8,Crime|Drama
+,Vampire in Brooklyn,4.5,Comedy
+,Exorcist II: The Heretic,4.5,Drama
+,An American Haunting,5.3,Comedy
+,My Boss's Daughter,4.4,Drama
+,A Perfect Getaway,6.2,Comedy|Romance
+,Our Family Wedding,5.7,Drama
+,Dead Man on Campus,5.6,Documentary
+,Tea with Mussolini,5.8,Drama
+,Thinner,5.5,Crime|Drama|Romance|Thriller
+,"New York, New York",6.1,Comedy
+,Crooklyn,6.7,Comedy|Horror
+,I Think I Love My Wife,5,Horror
+,Jason X,4.5,Horror
+,Bobby,6.4,Horror
+,Head Over Heels,5.3,Horror
+,Fun Size,5.5,Horror
+,The Diving Bell and the Butterfly,7.4,Comedy
+,Little Children,6.9,Horror
+,Gossip,5.5,Comedy
+,A Walk on the Moon,6.2,Horror
+,Catch a Fire,6.4,Horror|Thriller
+,Soul Survivors,4.4,Comedy
+,Jefferson in Paris,5.2,Comedy
+,Easy Virtue,6.3,Comedy|Horror|Romance|Thriller
+,Caravans,5.8,Adventure|Comedy|Romance
+,Mr. Turner,6.3,Comedy
+,Wild Grass,5.8,Comedy
+,Amen.,7.1,Comedy|Drama|Fantasy|Romance
+,Reign of Assassins,6.7,Children|Comedy
+,The Lucky Ones,6.3,Comedy
+,Margaret,6.1,Adventure|Animation|Children|Drama|Fantasy
+,Stan Helsing,4,Drama|Romance
+,Flipped,7.4,Action|Drama|Romance|Thriller
+,Brokeback Mountain,7.5,Crime|Drama|Mystery|Romance|Thriller
+,Clueless,6.9,Children|Comedy
+,Far from Heaven,6.9,Comedy|Romance
+,Hot Tub Time Machine 2,5,Comedy|Thriller
+,Quills,6.8,Action|Sci-Fi
+,Seven Psychopaths,6.7,Action|Sci-Fi
+,The Caveman's Valentine,6,Comedy
+,Downfall,7.7,Animation|Horror|Mystery|Thriller
+,The Sea Inside,7.2,Comedy
+,Under the Skin,6,Action|Thriller
+,"Good Morning, Vietnam",7.1,Documentary
+,The Last Godfather,4.7,Horror
+,Justin Bieber: Never Say Never,4.8,Action|War
+,Black Swan,7.3,Action|War
+,The Godfather: Part II,8.3,Action
+,Save the Last Dance,6.3,Action|War
+,A Nightmare on Elm Street 4: The Dream Master,5.8,Drama|Mystery|Romance|Thriller
+,Miracles from Heaven,6.7,Drama
+,"Dude, Where’s My Car?",5.2,Adventure|Drama
+,Young Guns,6.6,Adventure|Romance
+,St. Vincent,7.1,Action|Adventure|Drama
+,About Last Night,6,Documentary|Drama
+,10 Things I Hate About You,7.3,Drama
+,The New Guy,5.7,Action|Adventure|Fantasy
+,National Lampoon's Loaded Weapon 1,5.7,Horror|Sci-Fi|Thriller
+,The Shallows,6.2,Children|Comedy
+,The Butterfly Effect,7.3,Comedy
+,Snow Day,4.8,Drama
+,This Christmas,7.1,Drama
+,Baby Geniuses,3.3,Drama
+,The Big Hit,6.1,Romance|War
+,Harriet the Spy,5.7,Comedy|Romance
+,Child's Play 2,5.8,Action|Adventure|Comedy|Thriller
+,No Good Deed,5.6,Comedy
+,The Mist,6.7,Comedy|Romance
+,Ex Machina,7.6,Comedy|Crime|Thriller
+,Being John Malkovich,7.3,Drama
+,Two Can Play That Game,6.6,Drama|Thriller
+,Earth to Echo,5.7,Horror|Mystery|Thriller
+,Crazy/Beautiful,6.6,Crime|Drama
+,Letters from Iwo Jima,7.2,Comedy|Romance
+,The Astronaut Farmer,6.2,Drama|Mystery
+,Woo,5.5,Comedy|Drama
+,Room,8.1,Adventure|Children|Comedy|Drama
+,Dirty Work,6.5,Adventure|Drama|Romance
+,Serial Mom,6.4,Drama
+,Dick,5.7,Comedy|Drama
+,Light It Up,6.6,Drama|Thriller
+,54,5.5,Adventure|Sci-Fi|Thriller
+,Bubble Boy,5.1,Drama
+,Birthday Girl,6.1,Horror|Mystery
+,21 & Over,5.7,Horror
+,"Paris, je t'aime",6.8,Horror
+,Resurrecting the Champ,5.9,Thriller
+,Admission,5.4,Adventure|Animation|Comedy|Fantasy|Musical
+,The Widow of Saint-Pierre,6.7,Comedy|Drama
+,Chloe,5.9,Documentary|Musical
+,Faithful,4.8,Comedy
+,Find Me Guilty,6.5,Comedy|Drama
+,The Perks of Being a Wallflower,7.7,Drama
+,Excessive Force,4.5,Adventure|Comedy|Musical
+,Infamous,6.4,Comedy
+,The Claim,5.6,Comedy
+,The Vatican Tapes,4.6,Drama
+,Attack the Block,6.3,Comedy|Horror|Thriller
+,In the Land of Blood and Honey,5.8,Horror
+,The Call,6.6,Drama
+,Operation Chromite,5.8,Comedy
+,The Crocodile Hunter: Collision Course,5.3,Adventure|Drama|Thriller
+,I Love You Phillip Morris,6.4,Adventure|Fantasy
+,Quest for Fire,7.1,Drama|Mystery|Romance
+,Antwone Fisher,6.7,Comedy|Musical|Romance
+,The Emperor's Club,6.9,Drama|Mystery|Romance
+,True Romance,7.5,Animation|Children|Fantasy
+,Womb,5.9,Drama|Musical
+,Glengarry Glen Ross,7.5,Horror
+,The Killer Inside Me,6,Action|Adventure|Comedy
+,Cat People,6,Action|Adventure|Comedy
+,Sorority Row,5.4,Action|Crime|Drama|Thriller
+,The Prisoner of Zenda,8.4,Drama
+,Lars and the Real Girl,7.1,Comedy|Drama
+,The Boy in the Striped Pyjamas,7.7,Comedy|Romance
+,Dancer in the Dark,7.6,Drama|Romance
+,Oscar and Lucinda,6.2,Children|Comedy
+,The Funeral,7.3,Action|Comedy
+,Solitary Man,5.8,Comedy|Romance
+,Machete,6.3,Children|Comedy
+,Casino Jack,6,Action|Adventure|Comedy|Drama|War
+,The Land Before Time,7,Comedy
+,Tae Guk Gi: The Brotherhood of War,7.4,Action|Drama
+,The Perfect Game,6.3,Action|Adventure|Drama
+,The Exorcist,7.5,Drama|Romance
+,Jaws,7.5,Adventure|Drama
+,American Pie,6.4,Western
+,Ernest & Celestine,7.6,Comedy|War
+,The Golden Child,5.6,Horror|Mystery
+,Think Like a Man,6.9,Adventure|Animation|Children
+,Barbershop,6.2,Horror|Sci-Fi
+,Star Trek II: The Wrath of Khan,7.3,Horror|Sci-Fi
+,Ace Ventura: Pet Detective,6.4,Horror|Mystery|Thriller
+,WarGames,7,Horror|Thriller
+,Witness,7,Drama
+,Act of Valor,6.3,Action|Adventure|Drama
+,Step Up,6.7,Drama|Romance
+,Beavis and Butt-Head Do America,6.5,Comedy
+,Jackie Brown,7.3,Drama
+,Harold & Kumar Escape from Guantanamo Bay,6.2,Documentary
+,Chronicle,6.6,Drama|Romance
+,Yentl,6.2,Drama
+,Time Bandits,6.6,Crime|Drama|Thriller
+,Crossroads,4.7,Comedy|Sci-Fi
+,Project X,6.5,Comedy|Drama
+,Patton,7.3,Comedy
+,One Hour Photo,6.6,Action|Adventure|Sci-Fi|Thriller
+,Quarantine,5.5,Crime|Thriller
+,The Eye,5.5,Comedy
+,Johnson Family Vacation,4.7,Drama|Romance|War
+,How High,6.3,Drama|Romance
+,The Muppet Christmas Carol,7.2,Western
+,Frida,7.3,Crime|Drama|Western
+,Katy Perry: Part of Me,6.5,Comedy
+,The Fault in Our Stars,7.6,Action|Comedy
+,Rounders,6.9,Drama
+,Top Five,6.3,Comedy|Drama
+,Prophecy,5.4,Drama|Romance
+,Stir of Echoes,6.5,Drama
+,Philomena,7.4,Drama|Romance
+,The Upside of Anger,6.4,Documentary
+,The Boys from Brazil,6.6,Comedy|Crime|Drama|Fantasy
+,Aquamarine,5.8,Drama
+,Paper Towns,6.1,Drama
+,My Baby's Daddy,4.3,Drama|Musical
+,Nebraska,7.4,Comedy|Romance
+,Tales from the Crypt: Demon Knight,6.7,Adventure|Comedy|Romance
+,Max Keeble's Big Move,5.4,Comedy
+,Young Adult,5.6,Drama|Sci-Fi
+,Crank,6.6,Drama|Thriller
+,Def Jam's How to Be a Player,5.3,Drama|Film-Noir|Mystery|Romance
+,Living Out Loud,5.3,Musical|Romance|War
+,Just Wright,6.1,Drama|Romance
+,Rachel Getting Married,6.1,Drama|Romance
+,The Postman Always Rings Twice,6.4,Action|Drama|War
+,Girl with a Pearl Earring,6.4,Mystery
+,Das Boot,7.9,Comedy|Musical
+,Sorority Boys,4.6,Action|Adventure|Thriller
+,About Time,7.8,Action|Adventure|Thriller
+,House of Flying Daggers,7.1,Action|Adventure|Thriller
+,Arbitrage,6.1,Adventure|Drama|Romance
+,Project Almanac,6.4,Action|Western
+,Cadillac Records,6.9,Crime|Drama|Thriller
+,Screwed,4.9,Children|Comedy
+,Fortress,5.7,Drama
+,For Your Consideration,5.9,Drama
+,Celebrity,6,Action|Crime|Thriller
+,Running with Scissors,5.8,Drama
+,From Justin to Kelly,3,Drama
+,Girl 6,5.7,Action|Crime|Drama|Thriller
+,In the Cut,4.6,Drama
+,Two Lovers,6.6,Comedy|Drama
+,Last Orders,6,Comedy|Romance
+,The Host,6.7,Crime|Drama
+,The Pursuit of D.B. Cooper,6.8,Drama
+,Ravenous,6.9,Action
+,Charlie Bartlett,6.5,Adventure|Drama
+,The Great Beauty,7.3,Drama|Thriller
+,The Dangerous Lives of Altar Boys,6.4,Adventure|Comedy|Fantasy|Sci-Fi
+,Stoker,6.5,Drama|Romance
+,2046,6.9,Adventure|Drama
+,Married Life,6.1,Drama|Fantasy|Musical
+,Duma,6.9,Drama|War
+,Ondine,6.5,Comedy|Crime|Drama
+,Brother,6.8,Horror|Thriller
+,Welcome to Collinwood,6.2,Comedy|Drama
+,Critical Care,6.1,Drama
+,The Life Before Her Eyes,6.1,Comedy|Drama
+,Darling Companion,5.3,Comedy|Romance
+,Trade,6.8,Drama
+,Fateless,6.5,Comedy|Drama
+,Breakfast of Champions,5.2,Documentary
+,"A Woman, a Gun and a Noodle Shop",4.8,Horror|Thriller
+,Cypher,6.7,Thriller
+,City of Life and Death,7.6,Documentary
+,Legend of a Rabbit,3,Action|Crime|Drama|Sci-Fi|Thriller
+,Space Battleship Yamato,6.3,Action|Crime|Sci-Fi|Thriller
+,5 Days of War,5.8,Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery
+,Triangle,6.9,Drama
+,10 Days in a Madhouse,4.3,Action|Adventure|Thriller
+,Heaven is for Real,6,Action|Adventure|Thriller
+,Snatch,7.7,Action|Adventure|Thriller
+,Dancin' It's On,4.3,Horror|Thriller
+,Pet Sematary,6.4,Action|Adventure|Thriller
+,Madadayo,7.5,Drama
+,The Cry of the Owl,5.5,Horror|Thriller
+,A Tale of Three Cities,6.3,Drama
+,Gremlins,6.9,Comedy|Drama|Fantasy
+,Star Wars,8.1,Drama|Romance
+,Dirty Grandpa,5.7,Comedy
+,Doctor Zhivago,7.4,Action|Adventure|Animation|Drama|Fantasy
+,Trash,7.1,Drama
+,High School Musical 3: Senior Year,6.2,Documentary
+,The Fighter,7.2,Comedy|Drama|Romance|War
+,Jackass Number Two,6.4,Comedy|Romance
+,My Cousin Vinny,7.3,Thriller
+,If I Stay,7.3,Drama|Thriller
+,Drive Hard,3.9,Documentary
+,Major League,6.6,Drama|Sci-Fi
+,St. Trinian's,5.6,Drama
+,Phone Booth,6.7,Drama
+,A Walk to Remember,7.5,Drama
+,Dead Man Walking,7.3,Comedy
+,Cruel Intentions,6.6,Comedy|Horror
+,Saw VI,6,Comedy
+,History of the World: Part I,6.5,Thriller
+,The Secret Life of Bees,7.4,Horror
+,Corky Romano,4.1,Horror
+,Raising Cain,5.9,Comedy|Horror|Sci-Fi
+,F.I.S.T.,6.4,Crime|Drama
+,Invaders from Mars,5.5,Action|Drama
+,Brooklyn,7.2,Horror
+,Barry Lyndon,7.7,Comedy|War
+,Out Cold,5.8,Comedy|Romance
+,The Ladies Man,5.7,Horror|Sci-Fi
+,Quartet,6.3,Western
+,Tomcats,4.9,Comedy|Horror
+,Frailty,7,Comedy
+,Woman in Gold,7.3,Action|Drama
+,Kinsey,6.6,Action|Adventure
+,Army of Darkness,7.3,Comedy
+,Slackers,5.4,Action|Drama|Sci-Fi|Thriller
+,What's Eating Gilbert Grape,7.5,Comedy|Sci-Fi
+,The Visual Bible: The Gospel of John,8.2,Adventure|Animation|Children|Comedy|Musical
+,Vera Drake,6.8,Comedy|Drama|War
+,The Guru,5.1,Adventure|Drama
+,The Perez Family,6.6,Western
+,Inside Llewyn Davis,7.2,Drama
+,O,5.8,Comedy
+,Return to the Blue Lagoon,5.1,Comedy
+,The Molly Maguires,5.9,Comedy
+,Romance & Cigarettes,6,Comedy
+,Copying Beethoven,6.2,Comedy
+,Brighton Rock,5.6,Mystery|Romance|Thriller
+,Saw V,5.9,Comedy|Drama
+,Machine Gun McCain,7.3,Comedy|Romance
+,LOL,5.9,Drama
+,Jindabyne,5.7,Comedy
+,Kabhi Alvida Naa Kehna,6.1,Comedy|War
+,An Ideal Husband,6.3,Drama
+,The Last Days on Mars,5.2,Comedy|Drama
+,Darkness,5.6,Adventure|Comedy|Fantasy
+,2001: A Space Odyssey,7.9,Drama|War
+,E.T. the Extra-Terrestrial,7.3,Adventure|Animation|Children|Fantasy|Sci-Fi
+,In the Land of Women,5.8,Thriller
+,The Blue Butterfly,6.8,Crime|Drama|Thriller
+,There Goes My Baby,8.5,Comedy
+,Housefull,5.2,Horror|Sci-Fi
+,September Dawn,5,Drama
+,For Greater Glory - The True Story of Cristiada,6.4,Comedy|Drama|Musical
+,The Bélier Family,7,Comedy|Musical
+,Good Will Hunting,7.9,Action|Drama|War
+,Misconduct,5.3,Drama|Thriller
+,Saw III,6.1,Drama|Thriller
+,Stripes,6.5,Drama
+,Bring It On,5.8,Action|Drama|War
+,The Purge: Election Year,6.1,Comedy|Drama
+,She's All That,5.7,Drama|Mystery
+,Saw IV,5.9,Drama
+,White Noise,5.6,Adventure|Comedy|Sci-Fi
+,Madea's Family Reunion,6,Comedy|Drama
+,The Color of Money,6.7,Comedy|Romance
+,The Longest Day,7.2,Drama|Romance
+,The Mighty Ducks,6.4,Western
+,The Grudge,5.8,Drama|Horror
+,Happy Gilmore,6.5,Comedy
+,Jeepers Creepers,6.1,Documentary
+,Bill & Ted's Excellent Adventure,6.7,Drama
+,Oliver!,7,Comedy|Drama|Romance
+,The Best Exotic Marigold Hotel,6.9,Drama|Sci-Fi
+,Recess: School's Out,6.6,Fantasy|Horror|Mystery|Romance
+,Mad Max Beyond Thunderdome,5.9,Action|Adventure|Thriller
+,Commando,6.4,Drama
+,The Boy,5.8,Documentary
+,Devil,5.8,Horror
+,Friday After Next,6,Children|Comedy|Fantasy
+,Insidious: Chapter 3,6.2,Comedy|Fantasy|Romance
+,The Last Dragon,6.4,Comedy|Fantasy
+,The Lawnmower Man,5.4,Drama
+,Nick and Norah's Infinite Playlist,6.4,Drama
+,Dogma,6.8,Drama|War
+,The Banger Sisters,5.5,Drama
+,Twilight Zone: The Movie,6.2,Drama|Western
+,Road House,6.3,Drama|Romance
+,A Low Down Dirty Shame,6,Drama
+,Swimfan,5,Comedy
+,Employee of the Month,5.3,Comedy|Drama|Romance
+,Can't Hardly Wait,6.1,Drama
+,The Outsiders,6.9,Comedy|Drama|Romance
+,Pete's Dragon,6.2,Drama
+,The Dead Zone,6.9,Drama|Thriller
+,Sinister 2,5.4,Crime|Romance|Thriller
+,Sparkle,5.8,Drama|Romance
+,Valentine,5,Action|Comedy|Crime|Thriller
+,The Fourth Kind,5.8,Drama|Mystery
+,A Prairie Home Companion,6.4,Drama|Romance
+,Sugar Hill,5.2,Action|Drama
+,Invasion U.S.A.,5.3,Comedy|Drama|Fantasy|Romance
+,Roll Bounce,6.1,Drama
+,Rushmore,7.5,Drama
+,Skyline,4.7,Drama
+,The Second Best Exotic Marigold Hotel,6.3,Drama
+,Kit Kittredge: An American Girl,6.4,Action|Fantasy|Horror|Mystery|Thriller
+,The Perfect Man,5.5,Adventure|Animation|Children|Comedy|Fantasy
+,Mo' Better Blues,6.3,Drama
+,Kung Pow: Enter the Fist,6.1,Drama
+,Tremors,6.6,Drama|Romance|War
+,Wrong Turn,6,Drama
+,The Long Riders,6.6,Horror
+,The Corruptor,6,Comedy
+,Mud,7,Drama|Film-Noir
+,Reno 911!: Miami,5.6,Drama|Romance|Western
+,One Direction: This Is Us,8,Comedy
+,"The Goods: Live Hard, Sell Hard",5.4,Comedy|Drama
+,Hey Arnold! The Movie,5.6,Drama
+,My Week with Marilyn,6.6,Drama
+,The Matador,6.2,Comedy|Drama
+,Love Jones,8.1,Drama
+,The Gift,6.7,Comedy|Drama
+,End of the Spear,6.1,Comedy|Crime|Drama
+,Get Over It,5.5,Comedy
+,Office Space,7.4,Comedy|Drama
+,Drop Dead Gorgeous,6.4,Comedy|Western
+,Big Eyes,6.8,Drama|War
+,Very Bad Things,6.2,Drama
+,Sleepover,5.3,Documentary
+,Body Double,6.4,Action|War
+,MacGruber,5.1,Drama
+,Dirty Pretty Things,6.8,Action|Adventure
+,Movie 43,4.4,Comedy
+,Over Her Dead Body,5.3,Drama
+,Seeking a Friend for the End of the World,6.3,Documentary|Musical
+,Cedar Rapids,5.9,Drama|War
+,American History X,8.2,Comedy|Romance
+,The Collection,5.9,Drama
+,Teacher's Pet,5.5,Comedy
+,The Red Violin,7.3,Crime|Drama
+,The Straight Story,7.7,Drama
+,Deuces Wild,5.5,Mystery
+,Bad Words,6.4,Drama|Thriller
+,"Run, Fatboy, Run",6.2,Crime|Drama|Mystery
+,Heartbeeps,3.8,Drama
+,Black or White,6.5,Action|Adventure|Fantasy
+,On the Line,4.1,Drama|War
+,Rescue Dawn,6.9,Drama|Romance
+,Danny Collins,6.6,Drama|Romance|Sci-Fi
+,"Jeff, Who Lives at Home",6.1,Children|Comedy|Fantasy
+,I Am Love,6.9,Drama
+,Atlas Shrugged Part II,5.4,Animation|Children|Musical|IMAX
+,Romeo Is Bleeding,5.7,Drama
+,The Limey,6.6,Drama|Romance
+,Crash,7.2,Comedy|Drama
+,The House of Mirth,6.4,Comedy|Drama|Musical
+,Malone,6.8,Drama
+,Peaceful Warrior,7.3,Action|Drama
+,Bucky Larson: Born to Be a Star,4.4,Adventure
+,Bamboozled,6.3,Comedy|Drama
+,The Forest,4.8,Adventure|Drama
+,Sphinx,6,Drama|Thriller
+,While We're Young,5.8,Western
+,A Better Life,7,Drama
+,Spider,6.4,Adventure
+,Gun Shy,5.4,Drama
+,Nicholas Nickleby,6.8,Comedy|Drama
+,The Iceman,6.4,Adventure|Comedy|Sci-Fi
+,Krrish,5.5,Drama|Mystery|Thriller
+,Cecil B. Demented,6.2,Comedy
+,Killer Joe,6.5,Drama
+,The Joneses,6.1,Drama
+,Owning Mahowny,6.8,Comedy|Drama
+,The Brothers Solomon,4.9,Drama
+,My Blueberry Nights,6,Documentary
+,Illuminata,6.3,Drama
+,Swept Away,4.8,Action|Comedy|Crime|Drama
+,"War, Inc.",5.6,Drama
+,Shaolin Soccer,6.6,Drama
+,The Brown Bunny,5.5,Drama
+,The Swindle,6.4,Documentary
+,Rosewater,6.5,Children|Drama
+,The Chambermaid on the Titanic,5.3,Adventure|Sci-Fi|Thriller
+,Coriolanus,5.9,Drama
+,Imaginary Heroes,6.3,Drama
+,High Heels and Low Lifes,6.4,Documentary
+,World's Greatest Dad,6.5,Drama|Romance
+,Severance,6.4,Drama
+,Edmond,6,Drama|War
+,Welcome to the Rileys,6.4,Action|Crime|Romance|Thriller
+,Police Academy: Mission to Moscow,4.1,Crime|Drama
+,Blood Done Sign My Name,6,Comedy|Drama|Musical|Romance
+,Cinco de Mayo: La Batalla,5.8,Comedy|Drama
+,Elsa & Fred,6.2,Drama
+,"An Alan Smithee Film: Burn, Hollywood, Burn",3,Drama|Horror
+,The Open Road,4.8,Thriller
+,The Good Guy,5.4,Action|Mystery|Thriller
+,Motherhood,4.7,Horror
+,Free Style,5.8,Romance
+,Strangerland,5.1,Adventure
+,Janky Promoters,7,Action|Comedy
+,Blonde Ambition,3.9,Drama
+,The Oxford Murders,5.7,Comedy|Drama|Romance
+,The Reef,5.4,Drama
+,Eulogy,6.4,Drama
+,White Noise 2: The Light,5.6,Animation|Children
+,Beat the World,4.3,Drama
+,Fifty Dead Men Walking,6.1,Drama
+,Jungle Shuffle,6.5,Fantasy|Horror|Thriller
+,Adam Resurrected,6.4,Drama
+,Of Horses and Men,6.9,Drama
+,It's a Wonderful Afterlife,4.3,Mystery|Thriller
+,The Devil's Tomb,4,Drama
+,Partition,6.4,Drama
+,Good Intentions,5,Drama
+,"The Good, The Bad, The Weird",7.1,Drama
+,Nurse 3-D,4.9,Drama
+,Gunless,6.7,Comedy|Romance
+,Adventureland,6.4,Documentary
+,The Lost City,6,Comedy|Drama|Thriller
+,Next Friday,6.4,Comedy
+,American Heist,4.3,Crime|Drama
+,You Only Live Twice,6.5,Thriller
+,Plastic,6.1,Comedy
+,Amour,7.5,Comedy
+,Poltergeist III,4.5,Comedy
+,Re-Kill,4.9,Comedy|Fantasy|Musical
+,"It's a Mad, Mad, Mad, Mad World",7,Comedy
+,Volver,7.3,Comedy|Musical|Western
+,Heavy Metal,6.2,Documentary
+,Gentlemen Broncos,6.2,Thriller
+,Richard III,6.9,Comedy
+,Into the Grizzly Maze,5.1,Comedy
+,Kites,6,Comedy
+,Melancholia,7,Comedy
+,Red Dog,7.1,Comedy
+,Jab Tak Hai Jaan,7.3,Comedy|Romance
+,Alien,7.9,Drama
+,The Texas Chain Saw Massacre,7.2,Drama
+,The Runaways,6.3,Comedy|Crime
+,Fiddler on the Roof,7.4,Comedy
+,Thunderball,6.5,Drama|Thriller
+,Detention,5.7,Drama
+,Loose Cannons,7,Drama|Mystery
+,Set It Off,6.9,Drama
+,The Best Man,6.8,Comedy
+,Child's Play,6.3,Comedy
+,Sicko,7.3,Comedy|Drama
+,The Purge: Anarchy,6.6,Action|Thriller
+,Down to You,4.9,Drama|Romance|Thriller
+,Harold & Kumar Go to White Castle,6.6,Comedy|Fantasy
+,The Contender,6.7,Adventure|Drama|Romance
+,Boiler Room,6.5,Drama
+,Trading Places,7.1,Comedy|Drama|Romance
+,Black Christmas,4.8,Crime|Drama|Mystery|Thriller
+,Breakin' All the Rules,5.8,Comedy|Drama
+,Henry V,7.4,Action|Comedy|Horror
+,The Savages,6.8,Action|Crime|Drama|Thriller
+,Chasing Papi,6.3,Comedy|Crime|Drama|Thriller
+,The Way of the Gun,6.4,Action|Crime|Thriller|Western
+,Igby Goes Down,6.5,Action|Comedy
+,PCU,6,Drama|Romance|Sci-Fi
+,The Ultimate Gift,6.8,Comedy|Drama|Romance
+,The Ice Pirates,5.7,Drama
+,Gracie,6,Crime|Drama
+,Trust the Man,5.5,Comedy|Horror|Mystery|Thriller
+,Hamlet 2,6.1,Drama|Thriller
+,Velvet Goldmine,6.9,Action|Crime|Drama|Thriller
+,The Wailing,7.2,Comedy
+,Glee: The Concert Movie,6.8,Drama
+,The Legend of Suriyothai,5.1,Documentary
+,Two Evil Eyes,6,Action|Drama
+,Barbecue,5.8,Horror
+,All or Nothing,7,Documentary
+,Princess Kaiulani,4.8,Comedy
+,Opal Dream,6.1,Action
+,Flame & Citron,6.8,Comedy|Mystery|Romance
+,Undiscovered,4.5,Adventure|Drama
+,Red Riding: In the Year of Our Lord 1974,7,Comedy
+,The Girl on the Train,5.6,Animation|Children
+,Veronika Decides to Die,5.8,Drama
+,Crocodile Dundee,6.3,Drama
+,"Ultramarines: A Warhammer 40,000 Movie",5.2,Comedy
+,The I Inside,5.9,Thriller
+,Beneath Hill 60,7.3,Film-Noir
+,Polisse,7.9,Drama|Sci-Fi
+,Awake,6.3,Horror
+,Star Wars: Clone Wars: Volume 1,8,Drama
+,Skin Trade,5.6,Drama
+,The Lost Boys,6.8,Documentary
+,Crazy Heart,6.8,Crime|Drama|Thriller
+,The Rose,6.8,Comedy|Drama
+,Baggage Claim,5.6,Horror|Sci-Fi|Thriller
+,Barbarella,5.7,Comedy|Crime
+,Shipwrecked,6.1,Comedy
+,Election,6.7,Documentary
+,The Namesake,6.8,Crime|Drama
+,The DUFF,6.8,Film-Noir|Horror
+,Glitter,3.4,Comedy
+,The Haunting in Connecticut 2: Ghosts of Georgia,5.6,Comedy|Drama|Romance
+,Silmido,6.6,Comedy|Drama
+,Bright Star,6.8,Comedy
+,My Name Is Khan,7.7,Comedy|Drama
+,All Is Lost,6.6,Western
+,Limbo,7,Drama
+,Namastey London,6.6,Comedy
+,The Wind That Shakes the Barley,7.1,Action|Drama
+,Yeh Jawaani Hai Deewani,7.2,Musical
+,Quo Vadis,7,Action|Thriller
+,Repo! The Genetic Opera,6.7,Comedy|Drama
+,Valley of the Wolves: Iraq,4.3,Drama|Thriller
+,Pulp Fiction,8.3,Drama
+,The Muppet Movie,7,Comedy|Drama|Romance
+,Nightcrawler,7.6,Comedy
+,Club Dread,5.1,Comedy
+,The Sound of Music,7.4,Comedy|Crime
+,Splash,6.1,Comedy
+,Little Miss Sunshine,7.5,Comedy|Drama
+,Stand by Me,7.8,Comedy|Sci-Fi
+,28 Days Later,7.1,Documentary
+,You Got Served,4.8,Crime|Drama
+,Escape from Alcatraz,7.2,Drama
+,Brown Sugar,7,Drama|Romance
+,A Thin Line Between Love and Hate,5.7,Drama
+,50/50,7,Adventure|Children
+,Shutter,5.3,Drama
+,That Awkward Moment,6.1,Crime|Drama|Film-Noir|Thriller
+,Modern Problems,5.6,Crime|Drama
+,Kicks,7.5,Drama|Fantasy|War
+,Much Ado About Nothing,7.2,Comedy|Drama
+,On Her Majesty's Secret Service,6.5,Documentary
+,New Nightmare,6.4,War
+,Drive Me Crazy,5.8,Horror|Sci-Fi
+,Akeelah and the Bee,6.7,Comedy
+,Half Baked,6.4,Drama|War
+,New in Town,5.2,Comedy|Drama|Romance
+,American Psycho,7.3,Horror
+,The Good Girl,6.1,Adventure|Children
+,Bon Cop Bad Cop,6.5,Horror
+,The Boondock Saints II: All Saints Day,5.9,Adventure|Drama
+,The City of Your Final Destination,5.7,Crime|Thriller
+,Enough Said,6.6,Comedy
+,Easy A,6.7,Drama
+,The Inkwell,3.9,Horror
+,Shadow of the Vampire,6.6,Drama
+,Prom,5.7,Comedy|Romance
+,The Pallbearer,4.6,Sci-Fi
+,Held Up,4.9,Fantasy|Horror|Mystery|Thriller
+,Woman on Top,5.5,Documentary
+,Howards End,6.9,Drama|Romance
+,Anomalisa,7,Comedy|Drama|Fantasy|Romance
+,Another Year,7,Comedy|Drama
+,8 Women,6.9,Drama|Romance
+,Showdown in Little Tokyo,5.7,Comedy|Drama|Romance
+,Clay Pigeons,6.3,Crime|Drama
+,It's Kind of a Funny Story,6.9,Comedy|Drama
+,Made in Dagenham,6.6,Crime|Film-Noir
+,When Did You Last See Your Father?,6.9,Drama|Western
+,Prefontaine,6.7,War
+,The Wicked Lady,4.3,Romance|Western
+,The Secret of Kells,7.3,Crime
+,Begin Again,7.3,Drama|Thriller
+,Down in the Valley,5.9,Drama
+,Brooklyn Rules,5.8,Action|War
+,Restless,4.9,Western
+,The Singing Detective,5.9,Drama
+,The Land Girls,7,Sci-Fi
+,Fido,6.6,Romance
+,The Wendell Baker Story,5.2,Drama|War
+,Wild Target,6.4,Drama
+,Pathology,5.6,Drama
+,Wuthering Heights,6.9,Film-Noir
+,10th & Wolf,6.3,Comedy|Drama
+,Dear Wendy,5.6,Drama
+,Aloft,5.1,Drama|Musical
+,Akira,7.8,Action|Crime
+,The Death and Life of Bobby Z,5.8,Comedy
+,The Rocket: The Legend of Rocket Richard,6.1,Drama|Mystery|Thriller
+,Swelter,4.6,Comedy|Mystery
+,My Lucky Star,4.3,Children|Comedy
+,Imagine Me & You,7,Action|Adventure
+,Mr. Church,7,Adventure|Crime|Drama|Romance
+,Swimming Pool,6.4,Comedy
+,Green Street Hooligans: Underground,5.4,Comedy
+,The Blood of Heroes,5.9,Comedy|Fantasy|Romance
+,Code of Honor,4.1,Comedy|Romance
+,Driving Miss Daisy,7,Comedy
+,Soul Food,6.6,Adventure|Children|Comedy|Musical
+,Rumble in the Bronx,6.5,Children|Comedy
+,Far from Men,6.6,Children|Comedy|Musical
+,Thank You for Smoking,7.1,Children|Comedy
+,Hostel: Part II,5.6,Adventure|Animation|Children|Fantasy
+,An Education,6.8,Adventure|Sci-Fi
+,Shopgirl,5.7,Comedy|Drama|Romance
+,The Hotel New Hampshire,5.8,Drama|Thriller
+,Narc,6.8,Action|Drama
+,Men with Brooms,4.5,Action|Drama
+,Witless Protection,4,Action|Adventure|Drama|War
+,The Work and the Glory,6.1,Comedy|Drama
+,Extract,5.7,Drama
+,Masked and Anonymous,5.2,Drama|Thriller
+,Betty Fisher and Other Stories,7,Comedy|Drama
+,Code 46,6.2,Drama
+,Outside Bet,5.8,Adventure|Children|Drama
+,Albert Nobbs,6.2,Crime|Drama
+,Black November,6.4,Drama|Romance|War
+,Ta Ra Rum Pum,6,Drama
+,Persepolis,7.7,Adventure|Comedy
+,The Hole,5.6,Adventure|Crime|Drama
+,The Wave,7.5,Comedy|Crime
+,The Neon Demon,6.4,Drama|Thriller
+,Harry Brown,6.7,Comedy
+,The Omega Code,4.4,Comedy|Romance
+,Juno,7,Drama
+,Pound of Flesh,5.5,Drama
+,Diamonds Are Forever,6.3,Drama|Musical
+,The Godfather,8.4,Drama|Romance
+,Flashdance,6.1,Crime
+,(500) Days of Summer,7.2,Drama
+,The Piano,7.1,Animation|Comedy
+,Magic Mike,6.1,Action|Crime|Drama
+,Darkness Falls,4.9,Action|Drama
+,Live and Let Die,6.4,Action|Drama
+,My Dog Skip,6.5,Action|Drama
+,"Definitely, Maybe",6.7,Action|Drama
+,Jumping the Broom,6,Crime|Drama|Film-Noir
+,"Good Night, and Good Luck.",6.8,Drama|Romance
+,Capote,6.8,Drama
+,Desperado,6.8,Action|Children|Comedy|Fantasy|Sci-Fi
+,Logan's Run,6.6,Action|Children|Fantasy
+,The Man with the Golden Gun,6.3,Action|Adventure|Children|Comedy|Fantasy
+,Action Jackson,4.9,Action|Drama|War
+,The Descent,6.8,Action|Crime|Drama
+,Michael Jordan to the Max,7.5,Action|Drama|Thriller
+,Devil's Due,4.4,Action
+,Flirting with Disaster,6.3,Mystery|Thriller
+,The Devil's Rejects,6.6,Comedy|Drama
+,Dope,7.2,Drama
+,In Too Deep,6.2,Comedy|Drama|War
+,House of 1000 Corpses,6,Drama
+,Alien Zone,4,Comedy
+,A Serious Man,6.6,Drama
+,Get Low,6.5,Action|Crime|Romance|Thriller
+,Warlock,5.8,Drama|Romance
+,Beyond the Lights,7,Comedy|Romance
+,A Single Man,7.3,Drama|Thriller
+,The Last Temptation of Christ,7,Drama
+,Outside Providence,5.6,Drama|Thriller
+,Bride & Prejudice,6.5,Drama|Romance
+,Rabbit-Proof Fence,6.8,Drama|Horror
+,Who's Your Caddy?,3.8,Comedy
+,Split Second,5.7,Adventure|Drama|Thriller
+,The Other Side of Heaven,6.7,Comedy|Drama|Romance
+,Veer-Zaara,7.4,Comedy
+,Redbelt,6.4,Sci-Fi|Thriller
+,Cyrus,6.1,Drama
+,A Dog Of Flanders,6.4,Comedy|Fantasy
+,Auto Focus,6.1,Drama|Western
+,Factory Girl,6.2,Drama
+,We Need to Talk About Kevin,7.4,Drama
+,The Christmas Candle,5.8,Adventure|Drama
+,The Mighty Macs,5,Adventure|Drama|Sci-Fi
+,Losin' It,4.5,Horror|Thriller
+,Mother and Child,6.7,Comedy
+,March or Die,6.2,Sci-Fi|Thriller
+,The Visitors,7.1,Drama|Romance
+,Somewhere,6,Horror|Mystery
+,I Hope They Serve Beer in Hell,5.7,Comedy|Drama
+,Chairman of the Board,2.7,Drama
+,Hesher,6.7,Adventure|Fantasy|Romance
+,Dom Hemingway,5.8,Drama|Romance
+,Gerry,6.2,Comedy|Drama|Romance
+,The Heart of Me,7.7,Animation|Children
+,Freeheld,7.1,Thriller
+,The Extra Man,5.9,Horror
+,Hard to Be a God,6.7,Sci-Fi
+,Ca$h,6,Western
+,Wah-Wah,6.3,Horror|Sci-Fi
+,The Boondock Saints,7.2,Adventure|Comedy|Fantasy
+,Z Storm,5.8,Horror
+,Twixt,5,Comedy
+,The Snow Queen,5.1,Adventure|Comedy|Romance
+,Alpha and Omega: The Legend of the Saw Tooth Cave,6.5,Horror|Mystery|Thriller
+,Pale Rider,7,Adventure|Drama|Western
+,Stargate: The Ark of Truth,6.9,Comedy|Drama
+,Dazed and Confused,7.4,Drama
+,High School Musical 2,6.1,Comedy
+,Two Lovers and a Bear,6.8,Drama
+,Criminal Activities,5.8,Drama|Horror|Thriller
+,Aimee & Jaguar,6.3,Comedy|Drama
+,The Chumscrubber,6.7,Comedy|Romance
+,Shade,6.1,Drama
+,House at the End of the Street,5.6,Drama|Mystery|Sci-Fi
+,Incendies,7.9,Comedy|Drama
+,"Remember Me, My Love",5.8,Drama|Mystery|Thriller
+,Perrier’s Bounty,5.1,Comedy|Drama
+,Elite Squad,7.8,Comedy
+,Annabelle,5.6,Action|Adventure|Drama|Thriller|Western
+,Bran Nue Dae,5.2,Drama
+,Boyz n the Hood,7.4,Drama|Thriller
+,La Bamba,6.8,Comedy
+,The Four Seasons,6.3,Drama|Romance
+,Dressed to Kill,6.8,Drama|Thriller
+,The Adventures of Huck Finn,6.2,Drama
+,Go,7,Comedy|Romance
+,Friends with Money,5.1,Comedy|Fantasy|Romance
+,The Andromeda Strain,7,Crime|Drama
+,Bats,4.1,Drama|Thriller
+,Nowhere in Africa,7,Action|Drama|War
+,Shame,7,Comedy
+,Layer Cake,7,Comedy|Drama
+,The Work and the Glory II: American Zion,8,Drama
+,The East,6.5,Action|Thriller
+,A Home at the End of the World,6.8,Comedy|Romance
+,Aberdeen,7,Comedy
+,The Messenger,7.1,Comedy|Drama
+,Tracker,6,Action|Sci-Fi|Thriller
+,Control,7.5,Drama|Romance
+,The Terminator,7.3,Crime|Thriller
+,"Good bye, Lenin!",7.4,Comedy
+,The Damned United,7.2,Comedy|Drama|Romance
+,The Return of the Living Dead,7.3,Drama
+,Mallrats,6.8,Drama
+,Grease,7.2,Crime|Horror|Mystery|Thriller
+,Platoon,7.5,Comedy|Drama|Romance
+,Fahrenheit 9/11,6.8,Comedy|Drama
+,Butch Cassidy and the Sundance Kid,7.4,Comedy
+,Mary Poppins,7.4,Documentary
+,Ordinary People,7.4,Drama|Mystery|Romance
+,West Side Story,7,Action
+,Caddyshack,6.6,Drama
+,The Brothers,6.5,Comedy|Drama
+,The Wood,7.1,Comedy
+,The Usual Suspects,8.1,Drama|Musical
+,A Nightmare on Elm Street 5: The Dream Child,5.5,Drama|Horror|Thriller
+,National Lampoon’s Van Wilder,5.9,Comedy|Drama
+,The Wrestler,7.3,Comedy|Drama
+,Duel in the Sun,6.2,Comedy|Musical|Romance
+,Best in Show,6.7,Horror
+,Escape from New York,6.9,Crime|Drama|Thriller
+,School Daze,6.2,Comedy
+,Daddy Day Camp,4.4,Drama|Thriller
+,Mr. Nice Guy,6.3,Drama|Romance
+,A Mighty Wind,6.6,Action|Thriller|War
+,Mystic Pizza,5.9,Drama|Romance
+,Sliding Doors,6.5,Mystery|Thriller
+,Tales from the Hood,5.4,Drama
+,The Last King of Scotland,7.4,Comedy|Drama|Romance
+,Halloween 5: The Revenge of Michael Myers,5.2,Crime|Drama|Romance
+,Bernie,6.5,Drama
+,Dolphins and Whales: Tribes of the Ocean,8,Comedy|Drama
+,Pollock,6.6,Action|Horror
+,200 Cigarettes,6.1,Children|Comedy
+,The Words,6.4,Comedy|Drama
+,Casa De Mi Padre,5.5,Comedy|Drama
+,City Island,6.9,Comedy|Drama|Romance
+,The Guard,6.8,Comedy|Romance
+,College,4.8,Comedy|Drama
+,The Virgin Suicides,7.1,Drama
+,Little Voice,6.6,Comedy|Drama
+,Miss March,5.4,Horror|Sci-Fi
+,Wish I Was Here,6.4,Horror|Sci-Fi
+,Simply Irresistible,5.5,Horror|Sci-Fi
+,Hedwig and the Angry Inch,7.4,Drama
+,Only the Strong,6.9,Action|Horror|Sci-Fi
+,Goddess of Love,6.2,Drama|Romance
+,Shattered Glass,6.6,Action|Adventure|Drama
+,Novocaine,6,Drama
+,The Business of Strangers,5.7,Drama
+,The Wild Bunch,7.6,Comedy
+,The Wackness,6.2,Comedy|Documentary|Drama
+,The First Great Train Robbery,6.6,Drama|Musical
+,Morvern Callar,7.2,Action|Drama|Romance|Thriller
+,Beastmaster 2: Through the Portal of Time,4.6,Adventure|War
+,The 5th Quarter,4.7,Drama
+,The Flower of Evil,5.7,Horror
+,The Greatest,6.2,Crime|Drama
+,Snow Flower and the Secret Fan,5.3,Adventure|Fantasy
+,Come Early Morning,5.9,Comedy|Drama
+,Lucky Break,6.5,Comedy|Drama
+,Julia,6.3,Animation|Sci-Fi
+,"Surfer, Dude",4.7,Action|Sci-Fi
+,Lake of Fire,8,Drama|Musical
+,11:14,6.8,Comedy
+,Men of War,5.4,Comedy
+,Don McKay,5.4,Comedy
+,Deadfall,5.6,Crime|Drama|Romance|Thriller
+,A Shine of Rainbows,6.3,Comedy|Musical
+,The Hit List,5.2,Comedy|Musical
+,Emma,7.6,Comedy|Western
+,Videodrome,7.1,Comedy|Musical|Romance
+,The Spanish Apartment,7,Comedy
+,Song One,5.5,Musical
+,Winter in Wartime,6.8,Crime|Drama|Musical
+,Freaky Deaky,4.9,Comedy|Musical|Romance
+,The Train,7.2,Comedy|Western
+,Trade Of Innocents,5.5,Adventure|Comedy
+,The Protector,6.8,Documentary
+,Stiff Upper Lips,10,Drama|Musical|Romance
+,Bend It Like Beckham,6.2,Animation|Children|Comedy
+,Sunshine State,6,Adventure|Musical|Romance
+,Crossover,4.2,Comedy
+,Khiladi 786,4.7,Comedy|Romance
+,[REC]²,6.4,Adventure|Animation|Children
+,Standing Ovation,3.9,Comedy|Romance
+,The Sting,7.9,Comedy
+,Chariots of Fire,6.8,Comedy|Crime
+,Diary of a Mad Black Woman,6.4,Comedy
+,Shine,7.3,Comedy|Drama
+,Don Jon,5.9,Drama|Horror
+,High Plains Drifter,7.4,Comedy
+,Ghost World,7.1,Action|Adventure|Thriller
+,Iris,6.2,Action|Adventure|Comedy|Western
+,Galaxina,3.3,Documentary
+,The Chorus,7.5,Comedy
+,Mambo Italiano,5.6,Horror|Thriller
+,Wonderland,6.2,Action|Drama|Romance|War
+,Do the Right Thing,7.6,Adventure|Comedy|Romance
+,Harvard Man,4.8,Horror
+,Le Havre,6.8,Comedy
+,Irreversible,7.1,Comedy|Crime
+,R100,5.4,Action|Adventure|Romance|Thriller
+,Rang De Basanti,7.2,Thriller
+,Animals,6.2,Action|Adventure|Thriller
+,Salvation Boulevard,5.6,Drama
+,The Ten,4.9,Drama
+,A Room for Romeo Brass,7.3,Action|Adventure|Sci-Fi|Thriller
+,Headhunters,7.1,Action|Adventure|Thriller
+,Grabbers,6,Comedy|Drama
+,Saint Ralph,7.3,Drama
+,Miss Julie,5.9,Western
+,Somewhere in Time,7.2,Action|Drama|War
+,Dum Maaro Dum,5.4,Western
+,Insidious: Chapter 2,6.5,Drama
+,Saw II,6.3,Comedy
+,10 Cloverfield Lane,6.8,Adventure|Children|Drama
+,Jackass: The Movie,6.1,Horror|Sci-Fi
+,Lights Out,6.3,Drama
+,Paranormal Activity 3,5.9,Horror
+,Ouija,4.9,Horror
+,A Nightmare on Elm Street 3: Dream Warriors,6.5,Horror
+,Instructions Not Included,7.5,Documentary
+,Paranormal Activity 4,5.2,Action|Adventure|Drama|War
+,The Robe,6.4,Drama
+,The Return of the Pink Panther,6.7,Crime|Film-Noir|Mystery|Thriller
+,Freddy's Dead: The Final Nightmare,5.1,Drama
+,Monster,7,Horror|Sci-Fi
+,"20,000 Leagues Under the Sea",6.8,Sci-Fi|Thriller
+,Paranormal Activity: The Marked Ones,5.2,Horror|Sci-Fi|Thriller
+,The Elephant Man,7.9,Horror|Sci-Fi|Thriller
+,Dallas Buyers Club,7.9,Horror|Sci-Fi|Thriller
+,The Lazarus Effect,5.1,Horror|Sci-Fi|Thriller
+,Memento,8.1,Horror|Sci-Fi|Thriller
+,Oculus,6.3,Horror|Sci-Fi|Thriller
+,Clerks II,6.9,Horror|Sci-Fi|Thriller
+,Billy Elliot,7.4,Action|Comedy|Crime
+,The Way Way Back,7.1,Drama|Romance
+,House Party 2,4.7,Comedy
+,The Man from Snowy River,6.8,War
+,Doug's 1st Movie,5.4,Comedy|Western
+,The Apostle,6.1,Adventure|Children
+,Mommie Dearest,6.5,Adventure|Children
+,Our Idiot Brother,5.9,Adventure|Children|Comedy|Drama
+,Race,7.1,Comedy|Musical|Romance
+,The Players Club,6.4,Drama|Horror
+,"As Above, So Below",6.1,Documentary
+,Addicted,5.4,Drama
+,Eve's Bayou,6.1,Documentary|Musical
+,Still Alice,7.5,Documentary
+,The Egyptian,6,Action|Drama|Thriller|Western
+,Nighthawks,6.4,Action|Crime|Drama|Thriller
+,Friday the 13th Part VIII: Jason Takes Manhattan,4.8,Crime|Drama|Film-Noir
+,My Big Fat Greek Wedding,6.2,Drama|Romance
+,Spring Breakers,5,Comedy|Drama|Romance
+,Halloween: The Curse of Michael Myers,5,Horror|Sci-Fi|Thriller
+,Y Tu Mamá También,7.3,Adventure|Animation|Fantasy|Sci-Fi
+,Shaun of the Dead,7.5,Comedy
+,The Haunting of Molly Hartley,4.3,Comedy
+,Lone Star,6.9,Comedy
+,Halloween 4: The Return of Michael Myers,5.9,Comedy
+,April Fool's Day,5.8,Comedy|Horror
+,Diner,6.9,Comedy|Horror
+,Lone Wolf McQuade,5.5,Comedy|Horror
+,Apollo 18,5,Comedy|Horror
+,Sunshine Cleaning,6.5,Comedy|Horror|Sci-Fi|Thriller
+,No Escape,6.7,Action|Sci-Fi|Thriller
+,The Beastmaster,6,Action|Sci-Fi
+,Solomon and Sheba,5.4,Adventure|Drama|Romance|Sci-Fi
+,Fifty Shades of Black,4.3,Drama|Sci-Fi
+,Not Easily Broken,6.3,Crime|Drama|Sci-Fi|Thriller
+,A Farewell to Arms,6.2,Action|Adventure|Sci-Fi
+,The Perfect Match,5.2,Action|Adventure|Sci-Fi
+,Digimon: The Movie,6.2,Action|Adventure|Sci-Fi
+,Saved!,6.3,Action|Comedy|Romance
+,The Barbarian Invasions,6.7,Film-Noir|Horror|Mystery|Thriller
+,Robin and Marian,6.6,Drama|Romance
+,The Forsaken,4.9,Horror|Thriller
+,Force 10 from Navarone,6.4,Horror
+,UHF,6.7,Action|Comedy|Crime|Thriller
+,Grandma's Boy,6.6,Drama
+,Slums of Beverly Hills,6.5,Comedy
+,Once Upon a Time in the West,8.1,Drama
+,Made,6.3,Drama
+,Moon,7.6,Comedy|Crime
+,Keeping Up with the Steins,5.2,Action|Comedy|Crime|Drama
+,Sea Rex 3D: Journey to a Prehistoric World,5.9,Action|Crime
+,The Sweet Hereafter,6.8,Documentary
+,Of Gods and Men,6.5,Comedy|Romance
+,Bottle Shock,6.6,Drama
+,Jekyll and Hyde ... Together Again,4.6,Comedy|Crime|Mystery
+,Heavenly Creatures,7,Comedy
+,90 Minutes in Heaven,5.4,Drama
+,Everything Must Go,6,Drama|War
+,Zero Effect,6,Animation|Musical
+,The Machinist,7.3,Action|Thriller
+,Light Sleeper,5.7,Horror|Western
+,Kill the Messenger,6.6,Crime|Drama|Film-Noir|Thriller
+,Rabbit Hole,6.9,Action|Crime|Drama|Thriller
+,Party Monster,5.9,Drama|Mystery
+,Green Room,6.7,Drama|Thriller
+,The Oh in Ohio,5.8,Horror
+,Atlas Shrugged Part III: Who is John Galt?,3.9,Drama
+,Bottle Rocket,6.8,Drama
+,Albino Alligator,5.6,Crime|Drama
+,"Gandhi, My Father",6,Drama
+,Standard Operating Procedure,6.6,Drama|Western
+,Out of the Blue,6.5,Drama
+,Tucker and Dale vs Evil,7.3,Comedy|Romance
+,"Lovely, Still",6.2,Action|Adventure|Comedy|Fantasy
+,Tycoon,6.6,Crime|Drama|Thriller
+,Desert Blue,5.5,Drama|War
+,Decoys,4.7,Comedy|Romance
+,The Visit,6,Action|Crime|Thriller
+,Redacted,6.2,Action|Adventure|Animation|Children|Sci-Fi
+,Fascination,3.8,Drama
+,Area 51,4.2,Drama
+,Sleep Tight,7,Comedy|Romance
+,The Cottage,6.3,Drama
+,Dead Like Me: Life After Death,5.8,Drama
+,Farce of the Penguins,3.2,Animation|Children|Comedy
+,Flying By,7,Adventure|Comedy
+,Rudderless,7.4,Action|Drama|War
+,Henry & Me,3,Adventure|Animation|Children|Comedy|Fantasy
+,Christmas Eve,6.1,Drama|Thriller
+,We Have Your Husband,5,Drama
+,Dying of the Light,4.5,Horror
+,Born Of War,4.1,Drama|Sci-Fi|Thriller
+,Capricorn One,6.4,Animation|Children|Musical
+,Should've Been Romeo,0,Comedy
+,Running Forever,0,Action|Crime|Drama|Thriller
+,Yoga Hosers,4.7,Horror
+,Navy Seals vs. Zombies,3.5,Action|Crime|Thriller
+,I Served the King of England,7,Action|Crime|Thriller
+,Soul Kitchen,7.1,Crime|Drama|Romance
+,Sling Blade,7.4,Action|War
+,The Awakening,6.3,Action|War
+,Hostel,5.7,Action|War
+,A Cock and Bull Story,6.2,Action
+,Take Shelter,7.1,Horror|Sci-Fi|Thriller
+,Lady in White,6.3,Action|Adventure|Fantasy
+,Driving Lessons,6.3,Fantasy|Horror|Thriller
+,Let's Kill Ward's Wife,5.5,Comedy
+,The Texas Chainsaw Massacre 2,5.9,Comedy|Drama|Romance
+,Pat Garrett & Billy the Kid,7.2,Animation|Children|Musical
+,Only God Forgives,5.6,Animation|Children|Musical
+,Camping Sauvage,4.8,Comedy|Horror
+,Without Men,4.6,Comedy|Drama
+,Dear Frankie,7,Sci-Fi
+,All Hat,1,Sci-Fi
+,The Names of Love,7.3,Action|Crime
+,Treading Water,5.6,Action|Crime
+,Savage Grace,5.7,Crime|Drama
+,Out of the Blue,5.9,Comedy|Fantasy
+,Police Academy,6.5,Comedy|Horror
+,The Blue Lagoon,5.8,Comedy
+,Four Weddings and a Funeral,6.6,Comedy
+,Fast Times at Ridgemont High,7,Drama|Mystery
+,Moby Dick,6.9,Drama
+,25th Hour,7.2,Drama
+,Bound,6.9,Drama
+,Requiem for a Dream,7.9,Western
+,State Fair,6.2,Action|Adventure|Sci-Fi
+,Tango,6.8,Comedy|Drama
+,Salvador,7,Drama
+,Moms' Night Out,5.5,Romance|Thriller
+,Donnie Darko,7.7,Thriller
+,Saving Private Perez,6.1,Drama|Horror|Mystery
+,Character,7.7,Animation|Children
+,Spun,6.6,Crime|Drama|Romance|Thriller
+,Life During Wartime,6.3,Drama|Mystery
+,Sympathy for Lady Vengeance,7.4,Action|Sci-Fi
+,Mozart's Sister,6.2,Comedy|Drama|Western
+,Mean Machine,6,Comedy
+,Exiled,7,Action|Adventure|Drama
+,Blackthorn,6.6,Western
+,Lilya 4-ever,7.7,Adventure|Fantasy
+,After.Life,5.4,Drama|War
+,Fugly,5.3,Comedy
+,One Flew Over the Cuckoo's Nest,8.2,Drama|Thriller
+,R.L. Stine's Monsterville: The Cabinet of Souls,6.9,Drama|War
+,Silent Movie,6.7,Comedy
+,Airlift,7.3,Drama
+,Anne of Green Gables,8.2,Comedy
+,Falcon Rising,5.5,Drama
+,The Sweeney,5.7,Comedy|Drama
+,Sexy Beast,7,Comedy|Musical
+,Easy Money,6.5,Comedy
+,Whale Rider,7.1,Children
+,Paa,6.6,Comedy
+,Cargo,5.9,Drama|Romance
+,High School Musical,6.1,Drama
+,Love and Death on Long Island,6.9,Drama|Romance
+,Night Watch,6.3,Comedy|Drama|Romance
+,The Crying Game,6.9,Horror|Sci-Fi|Thriller
+,Porky's,6.1,Action|Adventure|Comedy|Sci-Fi
+,Survival of the Dead,4.6,Comedy
+,Night of the Living Dead,7.5,Comedy|Romance
+,Lost in Translation,7.3,Comedy|Horror|Thriller
+,Annie Hall,7.8,Comedy
+,The Greatest Show on Earth,6.6,Horror
+,Monster's Ball,6.5,Horror|Sci-Fi
+,Maggie,5.2,Adventure|Drama|Romance
+,Leaving Las Vegas,7.1,Thriller
+,Hansel and Gretel Get Baked,4.8,Action|Comedy|War
+,The Front Page,6.9,Action|Fantasy|Horror|Sci-Fi|Thriller
+,The Boy Next Door,4.1,Horror
+,Trapeze,6.4,Horror
+,The Kids Are All Right,6.5,Horror
+,They Live,7.1,Action|Comedy
+,The Great Escape,7.8,Horror
+,What the #$*! Do We (K)now!?,5.8,Drama
+,The Last Exorcism Part II,4.4,Drama
+,Boyhood,7.5,Comedy
+,Scoop,6.4,Horror
+,The Wash,5.3,Drama|Thriller
+,3 Strikes,5.9,Thriller
+,The Cooler,6.7,Crime|Thriller
+,The Misfits,6.8,Comedy
+,The Night Listener,5.5,Comedy
+,The Jerky Boys,4.8,Drama
+,The Orphanage,7.1,Drama|Romance|War
+,A Haunted House 2,5.4,Drama|Romance
+,The Rules of Attraction,6.3,Drama
+,Topaz,6.1,Thriller
+,Let's Go to Prison,5.5,Comedy
+,Four Rooms,6.5,Documentary
+,Secretary,6.7,Comedy|Crime|Drama
+,The Real Cancun,3.3,Comedy
+,Talk Radio,6.7,Comedy
+,Waiting for Guffman,7.3,Drama|Horror|Thriller
+,Love Stinks,5.4,Action|Adventure|Sci-Fi
+,You Kill Me,6.2,Comedy|Documentary
+,Thumbsucker,6.1,Comedy
+,Red State,5.9,Drama
+,Mirrormask,6.6,Action|Comedy|Crime|Romance
+,Samsara,8,Comedy
+,The Barbarians,5.1,Drama
+,The Art of Getting By,6.5,Drama|Western
+,Zipper,5.5,Drama
+,Poolhall Junkies,6.5,Comedy|Western
+,The Loss of Sexual Innocence,5.2,Comedy|Drama|Romance
+,Holy Motors,6.9,Horror
+,Joe,6.5,Comedy|Crime|Drama
+,Shooting Fish,7,Action|Adventure|Fantasy
+,Prison,6.7,Horror|Sci-Fi
+,Psycho Beach Party,6,Action|Thriller
+,The Big Tease,5.8,Documentary
+,"Guten Tag, Ramón",8.1,Documentary
+,Trust,6.6,Comedy
+,An Everlasting Piece,6,Comedy|Drama
+,Among Giants,4.5,Comedy
+,Adore,6.1,Comedy|Drama|Romance
+,The Velocity of Gary,4.2,Drama
+,Mondays in the Sun,7.1,Drama
+,Stake Land,6.2,Drama|Romance
+,The Last Time I Committed Suicide,6.7,Action|Adventure|Fantasy
+,Futuro Beach,6.4,Documentary
+,Another Happy Day,6.2,Crime|Drama
+,A Lonely Place to Die,6.2,Horror
+,Nothing,5.8,Comedy|Crime|Drama|Romance|Thriller
+,The Geographer Drank His Globe Away,7.3,Drama
+,1776,7.1,Crime|Thriller
+,Inescapable,5.2,Crime|Thriller
+,Hell's Angels,6.1,Drama
+,Purple Violets,5.7,Action|Comedy
+,The Veil,4.5,Crime|Drama|Thriller
+,The Loved Ones,6.6,Comedy|Drama
+,The Helpers,4.1,Comedy|Drama
+,How to Fall in Love,5.2,Drama
+,The Perfect Wave,4.4,Drama
+,A Man for All Seasons,7.5,Drama
+,Network,7.7,Comedy
+,Gone with the Wind,7.7,Crime|Thriller
+,Desert Dancer,6.5,Action|Adventure|Drama
+,Major Dundee,6.2,Horror
+,Annie Get Your Gun,7.3,Comedy|Romance
+,Four Lions,7,Drama|Musical
+,The House of Sand,6.7,Comedy
+,Defendor,6.5,Comedy|Drama
+,The Pirate,6.6,Documentary
+,The Good Heart,6,Drama
+,The History Boys,6.6,Drama
+,Midnight Cowboy,7.4,Drama
+,The Full Monty,6.8,Horror
+,Airplane!,7.1,Horror
+,Chain of Command,5.3,Horror
+,Friday,7,Drama|Fantasy|Mystery|Romance
+,Menace II Society,7.2,Comedy
+,Creepshow 2,5.9,Comedy
+,The Ballad of Cable Hogue,6.9,Horror|Sci-Fi
+,In Cold Blood,7.4,Comedy
+,The Nun's Story,7.4,Comedy|Drama
+,Harper,6.2,Adventure|Sci-Fi
+,Frenzy,7.1,Adventure|Sci-Fi
+,The Witch,6.3,Comedy|Horror
+,I Got the Hook Up,5.4,Comedy
+,She's the One,5.7,Adventure|Horror|Sci-Fi
+,Gods and Monsters,6.8,Horror|Sci-Fi
+,The Secret in Their Eyes,7.8,Horror|Sci-Fi
+,Train,4.8,Horror|Sci-Fi
+,Evil Dead II,7.6,Sci-Fi
+,Pootie Tang,5.4,Horror|Musical|Thriller
+,Sharknado,3.8,Sci-Fi|Thriller
+,The Other Conquest,5.4,Horror
+,Troll Hunter,6.7,Horror
+,Ira & Abby,5.8,Horror
+,Winter Passing,6.7,Horror
+,D.E.B.S.,5.6,Horror
+,The Masked Saint,2.9,Comedy
+,The Betrayed,5.2,Comedy|Drama
+,Taxman,2,Adventure|Animation|Children
+,The Secret,0,Action|Drama|Thriller
+,2:13,4.6,Action|Crime|Drama|Thriller
+,"Batman: The Dark Knight Returns, Part 2",7.9,Comedy
+,Time to Choose,0,Drama
+,In the Name of the King III,3.3,Drama
+,Wicked Blood,5.3,Drama
+,Stranded,5,Drama|Thriller
+,Lords of London,3.6,Comedy|Romance
+,High Anxiety,6.5,Comedy
+,March of the Penguins,6.9,Comedy
+,Margin Call,6.7,Drama|Horror|Thriller
+,August,6.2,Action|Drama
+,Choke,6,Drama
+,Whiplash,8.3,Action|Adventure|Sci-Fi
+,City of God,8.1,Drama|Thriller
+,Human Traffic,6.8,Horror
+,To Write Love on Her Arms,6.8,Comedy|Horror
+,The Dead Girl,6.4,Musical
+,The Hunt,7.9,Animation|Children
+,A Christmas Story,7.4,Drama|Film-Noir
+,Bella,6.7,Crime|Film-Noir
+,Class of 1984,6.2,Drama
+,The Opposite Sex,4.1,Comedy
+,Dreaming of Joseph Lees,8,Drama
+,The Class,6.8,Horror
+,Rosemary's Baby,7.5,Comedy|Mystery
+,The Man Who Shot Liberty Valance,7.4,Action|Comedy
+,Adam,6.9,Crime|Horror|Mystery|Thriller
+,Maria Full of Grace,6.9,Adventure|Children
+,Beginners,6.8,Comedy|Drama
+,Feast,6.1,Comedy|Drama
+,Animal House,7,Action|Comedy
+,Goldfinger,7.2,Drama|Romance
+,Antiviral,5.7,Comedy
+,It's a Wonderful Life,8,Drama
+,Trainspotting,7.8,Action|Sci-Fi|Thriller
+,The Original Kings of Comedy,6.3,Drama
+,Paranormal Activity 2,5.7,Drama|Romance
+,Waking Ned,7.4,Action|Adventure|Thriller
+,Bowling for Columbine,7.3,Drama|War
+,Coming Home,6.9,Action|Sci-Fi|Thriller
+,A Nightmare on Elm Street Part 2: Freddy's Revenge,5.7,Drama|Romance
+,A Room with a View,6.9,Children|Comedy|Fantasy
+,The Purge,6,Documentary
+,Sinister,6.7,Animation|Children|Comedy
+,Martin Lawrence Live: Runteldat,5,Children|Comedy
+,Cat on a Hot Tin Roof,7.6,Drama|Romance|War
+,Beneath the Planet of the Apes,6.2,Drama|Romance
+,Air Bud,5.3,Drama|Sci-Fi
+,Pokémon: Spell of the Unknown,5.9,Drama
+,Friday the 13th Part VI: Jason Lives,5.7,Action|Drama|Romance
+,The Bridge on the River Kwai,7.7,Adventure|Fantasy
+,Spaced Invaders,4.7,Drama
+,Family Plot,6.7,Action|Adventure
+,The Apartment,8.1,Adventure|Drama
+,Jason Goes to Hell: The Final Friday,4.2,Action
+,Torn Curtain,6.4,Comedy
+,Dave Chappelle's Block Party,6.4,Comedy
+,Slow West,6.6,Drama
+,Krush Groove,7,Action|Adventure|Thriller
+,Next Day Air,5.3,Adventure|Animation|Children|Sci-Fi
+,Elmer Gantry,7.3,Drama
+,Judgment at Nuremberg,7.6,Drama|War
+,Trippin',4.5,Drama
+,Red River,7.3,Comedy
+,Phat Girlz,3.7,Comedy|Crime|Thriller
+,Before Midnight,7.4,Comedy|Drama
+,Teen Wolf Too,3.8,Comedy
+,Phantasm II,6.3,Drama|Romance
+,Woman Thou Art Loosed,5,Comedy|Sci-Fi
+,Real Women Have Curves,5.8,Adventure|Animation|Children|Comedy|Fantasy
+,Water,6.8,Drama
+,East Is East,6.5,Comedy|Romance
+,Whipped,3.1,Drama
+,Kama Sutra - A Tale of Love,5.7,Thriller
+,Please Give,6,Drama
+,Willy Wonka & the Chocolate Factory,7.4,Drama
+,Warlock: The Armageddon,5.2,Comedy|Drama|Romance
+,8 Heads in a Duffel Bag,5.4,Romance
+,Days of Heaven,7.6,Comedy|Crime
+,Thirteen Conversations About One Thing,6.4,Action|Comedy|Crime|Thriller
+,Jawbreaker,5.9,Adventure|Comedy|Crime
+,Basquiat,6.6,Drama
+,Frances Ha,7.2,Comedy|Drama
+,Tsotsi,6.9,Horror
+,Happiness,7.4,Drama|Romance|Western
+,DysFunktional Family,6.1,Comedy
+,Tusk,5.1,Drama|Thriller|War
+,Oldboy,8,Crime|Drama|Thriller
+,Letters to God,6.5,Romance|Western
+,Hobo with a Shotgun,5.7,Drama|Horror
+,Compadres,5.2,Crime|Film-Noir|Mystery|Thriller
+,Freeway,6.5,Crime|Drama|Thriller
+,Love's Abiding Joy,5.8,Children|Musical
+,Fish Tank,6.9,Comedy
+,Damsels in Distress,5.6,Drama|Romance
+,Creature,4,Action|Drama|War|Western
+,Bachelorette,5.3,Crime|Drama
+,Brave New Girl,3.7,Action|Adventure|Crime
+,Tim and Eric's Billion Dollar Movie,5.2,Western
+,Summer Storm,6.7,Drama
+,Fort McCoy,6.3,Drama|War
+,Chain Letter,3.9,Drama
+,Just Looking,5.8,Comedy|Western
+,The Divide,5.7,Horror|Thriller
+,The Eclipse,6.1,Horror|Sci-Fi
+,Demonic,4.9,Crime|Drama|Thriller
+,My Big Fat Independent Movie,3,Action|Comedy
+,The Deported,0,Drama|Romance
+,Tanner Hall,5.4,Drama
+,Open Road,5.2,Crime|Drama|Mystery|Thriller
+,They Came Together,5.3,Adventure|Children|Comedy
+,30 Nights of Paranormal Activity With the Devil Inside the Girl With the Dragon Tattoo,2.9,Drama
+,Never Back Down 2: The Beatdown,5.8,Drama
+,Point Blank,7.1,Drama
+,Four Single Fathers,0,Drama|Romance
+,Enter the Dangerous Mind,4.8,Comedy|Drama|Romance
+,Something Wicked,4.6,Comedy|Drama|Romance
+,AWOL-72,2.8,Action|Crime|Thriller
+,Iguana,6,Action|Crime|Drama
+,Chicago Overcoat,6.1,Action|Comedy
+,Barry Munday,6.3,Drama|Romance
+,Central Station,7.6,Comedy
+,Pocketful of Miracles,7.3,Comedy|Romance
+,Close Range,4.9,Comedy|Drama
+,Boynton Beach Club,6.8,Drama
+,Amnesiac,4.1,Drama|Romance
+,Freakonomics,6.6,Drama|Romance
+,High Tension,6.6,Drama
+,Griff the Invisible,6.1,Animation|Children
+,Unnatural,4.3,Comedy|Romance
+,Hustle & Flow,6.9,Drama|Thriller
+,Some Like It Hot,8,Drama
+,Friday the 13th Part VII: The New Blood,5.3,Comedy|Sci-Fi
+,The Wizard of Oz,7.4,Comedy
+,Young Frankenstein,7.7,Comedy
+,Diary of the Dead,5.4,Comedy|Drama|Romance
+,Lage Raho Munna Bhai,7.6,Thriller
+,Ulee's Gold,6.5,Action|Comedy|Crime|Thriller
+,The Black Stallion,7,Action|Comedy|Crime|Drama
+,Sardaarji,9.5,Action|Crime|Mystery|Romance|Thriller
+,Journey to Saturn,4.9,Adventure|Children|Comedy
+,Donovan's Reef,6,Drama|Romance|Thriller
+,The Dress,7,Comedy
+,A Guy Named Joe,6,Animation|Children
+,Blazing Saddles,7.2,Comedy|Romance
+,Friday the 13th: The Final Chapter,5.9,Romance|Sci-Fi
+,Ida,7.1,Thriller
+,Maurice,7.1,Comedy
+,Beer League,5.3,Drama
+,Riding Giants,7.6,Horror|Sci-Fi
+,Timecrimes,7,Horror|Thriller
+,Silver Medalist,7.4,Drama
+,Timber Falls,5.2,Action|Drama
+,Singin' in the Rain,7.8,Comedy
+,"Fat, Sick & Nearly Dead",7.1,Drama
+,A Haunted House,5.4,Comedy|Documentary
+,2016: Obama's America,4.6,Action|Adventure|Drama|War
+,That Thing You Do!,6.8,Comedy
+,Halloween III: Season of the Witch,5,Fantasy|Horror|Thriller
+,Escape from the Planet of the Apes,6.3,Action
+,Hud,7.5,Drama
+,Kevin Hart: Let Me Explain,7.1,Drama
+,My Own Private Idaho,7.1,Drama|Thriller
+,Garden State,7.1,Thriller
+,Before Sunrise,7.7,Drama|War
+,Evil Words,6.9,Drama|Mystery|Thriller
+,Jesus' Son,6.7,Drama
+,Saving Face,6.8,Drama
+,Brick Lane,5.2,Comedy
+,Robot & Frank,6.8,Comedy
+,My Life Without Me,7.2,Drama
+,The Spectacular Now,6.8,Comedy
+,Religulous,7.2,Comedy|Drama
+,Fuel,7,Comedy
+,Valley of the Heart's Delight,7,Action|Adventure|Comedy|Sci-Fi
+,Eye of the Dolphin,7.1,Drama
+,8: The Mormon Proposition,5.5,Comedy
+,The Other End of the Line,6.1,Horror|Thriller
+,Anatomy,6.1,Comedy|Sci-Fi
+,Sleep Dealer,6,Drama
+,Super,6.6,Comedy
+,Christmas Mail,5,Comedy|Horror|Thriller
+,Stung,4.9,Fantasy|Romance
+,Antibirth,4.8,Comedy|Fantasy
+,Get on the Bus,7,Comedy|Romance|Sci-Fi
+,Thr3e,4.8,Comedy|Romance
+,Idiocracy,6.3,Action|Adventure|Fantasy|Sci-Fi
+,The Rise of the Krays,4.5,Comedy
+,This Is England,7.4,Adventure|Comedy|Horror
+,U.F.O.,3.1,Drama
+,Bathing Beauty,7,Comedy
+,Go for It!,4.6,Comedy|Horror
+,"Dancer, Texas Pop. 81",10,Crime|Drama
+,Show Boat,6.9,Drama|Romance
+,Redemption Road,4.7,Comedy|Romance
+,The Calling,5.6,Action|Adventure|Drama|Thriller
+,The Brave Little Toaster,6.7,Horror|Mystery
+,Fantasia,7.2,Drama|Romance
+,8 Days,0,Thriller
+,Friday the 13th Part III,5.7,Drama|Mystery|Romance
+,Friday the 13th: A New Beginning,5.1,Comedy|Drama|Romance
+,The Last Sin Eater,6.2,Horror|Thriller
+,Do You Believe?,6.6,Comedy|Romance
+,Impact Point,5.7,Drama
+,The Valley of Decision,5.8,Comedy|Drama|Romance
+,Eden,5.6,Drama
+,Chicken Tikka Masala,3.5,Comedy|Fantasy|Romance
+,There's Always Woodstock,5.4,Animation|Children
+,Jack Brooks: Monster Slayer,5.7,Drama|Romance
+,The Best Years of Our Lives,7.6,Comedy
+,Bully,6.7,Comedy|Drama|Fantasy|Romance
+,Elling,7,Animation|Comedy|Fantasy
+,Mi America,0,Action|Thriller
+,[REC],7.1,Drama|Romance
+,Lies in Plain Sight,4.5,Action|Comedy
+,Sharkskin,0,Comedy
+,Containment,5.1,Action|Drama
+,The Timber,4.1,Drama
+,From Russia with Love,6.9,Comedy|Drama|Romance
+,The Toxic Avenger Part II,5.3,Action|Drama
+,Sleeper,7,Thriller
+,It Follows,6.6,Comedy|Romance
+,Everything You Always Wanted to Know About Sex *But Were Afraid to Ask,6.6,Comedy
+,To Kill a Mockingbird,8,Comedy
+,Mad Max 2: The Road Warrior,7.3,Documentary
+,The Legend of Drunken Master,7.2,Drama|Fantasy|Mystery|Romance
+,Boys Don't Cry,7.2,Comedy|Romance
+,Silent House,5.2,Drama
+,The Lives of Others,7.9,Comedy|Drama
+,Courageous,6.8,Drama
+,The Hustler,7.6,Crime|Mystery|Thriller
+,Boom Town,6.5,Drama
+,The Triplets of Belleville,7.3,Drama
+,Smoke Signals,6.6,Action|Drama
+,American Splendor,7.1,Comedy
+,Before Sunset,7.6,Drama
+,Amores perros,7.6,Comedy|Drama
+,Thirteen,6.7,Comedy|Drama|Romance
+,Gentleman's Agreement,6.8,Documentary
+,Winter's Bone,6.8,Comedy|Drama|Romance
+,Touching the Void,7.6,Drama
+,Alexander's Ragtime Band,4.8,Children|Musical
+,Me and You and Everyone We Know,7,Drama
+,Inside Job,7.7,Drama
+,We Are Your Friends,6.3,Comedy|Drama|Romance
+,Ghost Dog: The Way of the Samurai,7.2,Drama
+,Harsh Times,6.3,Musical
+,Captive,5.6,Drama|Romance|War
+,Full Frontal,4.8,Horror|Mystery
+,Witchboard,5.9,Horror|Mystery|Sci-Fi
+,Shortbus,6.3,Comedy
+,Waltz with Bashir,7.8,Sci-Fi
+,"The Book of Mormon Movie, Volume 1: The Journey",5,Action
+,No End in Sight,7.2,Action
+,The Diary of a Teenage Girl,6.8,Comedy
+,In the Shadow of the Moon,7.6,Drama
+,Meek's Cutoff,6.5,Action|Crime|Drama
+,Inside Deep Throat,6.8,Comedy
+,Dinner Rush,7.1,Comedy|Drama|Romance
+,Clockwatchers,5.6,Crime|Mystery
+,The Virginity Hit,4.6,Action|Adventure|War
+,Subway,6.3,Documentary
+,House of D,6.1,Drama
+,Teeth,5.2,Action|Crime|Drama|Horror|Thriller
+,Six-String Samurai,5.8,Drama
+,Hum To Mohabbat Karega,0,Crime|Mystery
+,It's All Gone Pete Tong,7.1,Horror|Sci-Fi|Thriller
+,Saint John of Las Vegas,5.9,Comedy
+,24 7: Twenty Four Seven,6.3,Comedy
+,Stonewall,5.2,Drama
+,Roadside Romeo,6.7,Documentary
+,This Thing of Ours,5,Crime|Drama
+,The Lost Medallion: The Adventures of Billy Stone,5.6,Comedy
+,The Last Five Years,5.5,Comedy
+,The Missing Person,6.4,Comedy
+,Return of the Living Dead 3,5.9,Horror
+,London,6.1,Drama|War
+,Sherrybaby,6.3,Action|Thriller
+,Circle,6,Comedy
+,Eden Lake,6.7,Mystery|Thriller
+,Plush,5.4,Comedy|Drama
+,Lesbian Vampire Killers,5.3,Comedy|Crime|Romance
+,Gangster's Paradise: Jerusalema,6.8,Comedy|Romance
+,Freeze Frame,6.9,Comedy
+,Grave Encounters,6.1,Comedy|Romance
+,Stitches,5.5,Action|Adventure|Children|Comedy
+,Nine Dead,5.2,Comedy
+,"To Be Frank, Sinatra at 100",0,Drama|Thriller
+,Bananas,6.7,Drama|Thriller
+,Supercapitalist,3.5,Documentary
+,Rockaway,5.8,Documentary
+,The Lady from Shanghai,7.2,Action|Crime|Mystery|Thriller
+,No Man's Land: The Rise of Reeker,4.4,Crime|Drama
+,Highway,5.6,Comedy|Fantasy
+,Small Apartments,5.7,Animation|Children
+,Coffee Town,6.7,Comedy|Crime|Drama|Thriller
+,The Ghastly Love of Johnny X,6.6,Crime|Drama|Mystery
+,All Is Bright,5.3,Drama
+,The Torture Chamber of Dr. Sadism,6.3,Drama|Romance
+,Straight A's,5.2,Comedy|Drama|Romance
+,A Funny Thing Happened on the Way to the Forum,6.1,Adventure|Comedy|Mystery|Romance
+,Slacker Uprising,5.9,Comedy
+,The Legend of Hell's Gate: An American Conspiracy,3.9,Comedy
+,The Walking Deceased,4.2,Drama|Sci-Fi
+,The Curse of Downers Grove,4.4,Drama|Thriller
+,Shark Lake,4.4,Drama
+,River's Edge,6.7,Comedy
+,Northfork,6.7,Comedy|Drama
+,The Marine 4: Moving Target,5.8,Comedy
+,Buried,6.6,Drama
+,Submarine,7.4,Drama|Mystery|Romance
+,The Square,7.8,Drama
+,One to Another,5.8,Drama|Romance
+,ABCD (Any Body Can Dance),5.6,Drama
+,Man on Wire,7.5,Drama|Fantasy|Romance
+,Abandoned,5.8,Action|Crime|Drama
+,Brotherly Love,6.9,Drama
+,The Last Exorcism,5.6,Action|Thriller
+,Nowhere Boy,7.2,Horror
+,A Streetcar Named Desire,7.6,Comedy
+,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8,Comedy
+,The Crime of Padre Amaro,6.2,Comedy|Drama|Romance
+,Beasts of the Southern Wild,6.8,Action|Adventure|Comedy|Thriller
+,Battle for the Planet of the Apes,5.5,Drama
+,Songcatcher,5.6,Comedy
+,Higher Ground,5.3,Drama
+,Vaalu,6.7,Drama|Romance
+,The Greatest Movie Ever Sold,6.4,Action|Adventure|Fantasy|Sci-Fi
+,Ed and His Dead Mother,5.5,Comedy
+,Travellers and Magicians,6.8,Adventure|Sci-Fi
+,Hang 'em High,6.7,Documentary
+,Deadline - U.S.A.,6.9,Crime
+,Sublime,5.3,Comedy|Drama|Romance
+,A Beginner's Guide to Snuff,0,Comedy
+,Independence Daysaster,4.2,Drama
+,Dysfunctional Friends,5,Drama
+,Run Lola Run,7.2,Comedy
+,May,6.3,Comedy|Romance
+,Against the Wild,4.9,Drama
+,Under the Same Moon,7,Comedy|Romance
+,Conquest of the Planet of the Apes,6.1,Drama|Romance
+,In the Bedroom,6.4,Comedy|Drama
+,I Spit on Your Grave,6.3,Comedy|Drama|Musical
+,"Happy, Texas",5.5,Comedy|Crime
+,My Summer of Love,6,Drama
+,The Lunchbox,7.3,Comedy
+,Yes,5.9,Children|Fantasy|Musical
+,You Can't Take It With You,7.2,Action|Drama|Thriller
+,From Here to Eternity,7.2,Drama|Romance
+,She Wore a Yellow Ribbon,7.1,Drama
+,Grace Unplugged,6,Crime|Film-Noir|Thriller
+,Foolish,6.3,Action|Comedy|Romance
+,N-Secure,4.3,Drama
+,Caramel,6.8,Documentary|Musical
+,Out of the Dark,4.6,Drama
+,The Bubble,7.6,Comedy
+,The Conversation,7.5,Documentary
+,Dil Jo Bhi Kahey...,0,Romance|Thriller
+,Mississippi Mermaid,6.7,Adventure|Animation|Children|Comedy|Fantasy|Romance
+,I Love Your Work,6.5,Comedy|Romance
+,Cabin Fever,4.4,Drama|Musical|Romance
+,Waitress,6.7,Drama
+,Bloodsport,6.6,Action|Drama|Romance|War
+,Mr. Smith Goes to Washington,7.9,Thriller
+,Kids,6.8,Adventure|Drama
+,The Squid and the Whale,6.9,Drama
+,Kissing Jessica Stein,5.9,Drama
+,Kickboxer: Vengeance,4.5,Comedy|Drama|Romance
+,Spellbound,7.3,Drama
+,Exotica,6.5,Comedy|Romance
+,Buffalo '66,7.1,Comedy|Drama
+,Insidious,6.8,Western
+,Repo Man,6.7,Comedy|Western
+,Nine Queens,7.4,Comedy|Western
+,The Gatekeepers,6.5,Drama
+,The Ballad of Jack and Rose,6.5,Adventure|War|Western
+,The To Do List,5.5,Drama|Western
+,Killing Zoe,6.1,Drama
+,The Believer,6.8,Crime|Drama|Thriller
+,Snow Angels,6.5,Adventure|Western
+,Unsullied,3,Western
+,Session 9,6.2,Western
+,I Want Someone to Eat Cheese With,5.7,Drama
+,Mooz-lum,4.5,Comedy
+,Hatchet,5.7,Crime|Drama|Thriller
+,Modern Times,8.1,Comedy|Crime
+,Stolen Summer,6.4,Drama
+,My Name Is Bruce,5.9,Comedy
+,The Salon,3.5,Horror|Thriller
+,Road Hard,6.6,Drama|Romance|War
+,Forty Shades of Blue,6,Drama|War
+,Amigo,6,Action|Adventure|Drama|War
+,Pontypool,6.6,Comedy
+,Trucker,6.8,Comedy
+,Me You and Five Bucks,10,Drama|Romance
+,The Lords of Salem,5.1,Comedy|Sci-Fi
+,Housebound,6.5,Action|Crime|Drama
+,Wal-Mart: The High Cost of Low Price,6.9,Drama
+,Fetching Cody,6.8,Drama|Musical|Romance
+,Last I Heard,6,Comedy|Drama
+,Closer to the Moon,6.4,Comedy
+,Mutant World,2.6,Comedy|War
+,Growing Up Smith,7.4,Comedy|Documentary
+,Checkmate,4.2,Action|Crime|Thriller
+,#Horror,3.3,Comedy|Drama
+,Wind Walkers,7.5,Action|War
+,Snow White and the Seven Dwarfs,6.9,Crime|Thriller
+,The Holy Girl,6.8,Action|Drama
+,Shalako,5.4,Comedy|Musical|Romance
+,Incident at Loch Ness,5.9,Comedy|Drama|Romance
+,The Dog Lover,5.3,Horror|Thriller
+,GirlHouse,5.2,Comedy
+,The Blue Room,6.2,Musical
+,House at the End of the Drive,0,Comedy|Romance
+,Batman,6.1,Crime|Drama
+,"Lock, Stock and Two Smoking Barrels",7.5,Action|War
+,The Ballad of Gregorio Cortez,0,Drama|Romance
+,The Celebration,7.7,Drama
+,Trees Lounge,6.7,Adventure|Animation|Children|Fantasy
+,Journey from the Fall,5,Action|Adventure
+,The Basket,6.5,Comedy
+,Eddie: The Sleepwalking Cannibal,6.1,Action|Crime|Thriller
+,Queen of the Mountains,0,Adventure|Drama|Sci-Fi
+,Def-Con 4,2.8,Crime|Drama
+,The Hebrew Hammer,5.9,Drama|Romance
+,Neal 'n' Nikki,2.3,Comedy
+,The 41–Year–Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It,3.2,Comedy|Romance
+,Forget Me Not,5,Comedy|Drama
+,Rebecca,7.7,Documentary
+,Friday the 13th Part 2,6,Comedy|Romance
+,The Lost Weekend,7.4,Comedy|Crime|Drama
+,C.H.U.D.,5.3,Drama|Western
+,Filly Brown,5.9,Drama|Romance
+,The Lion of Judah,5.8,Comedy
+,Niagara,6.7,Documentary|IMAX
+,How Green Was My Valley,6.8,Crime|Drama|Mystery|Thriller
+,Da Sweet Blood of Jesus,4.1,Drama
+,"Sex, Lies, and Videotape",6.7,Drama
+,Saw,7.2,Children|Comedy
+,Super Troopers,6.6,Action
+,The Algerian,0,Comedy
+,The Amazing Catfish,5.7,Drama
+,Monsoon Wedding,6.8,Crime|Drama|Thriller
+,You Can Count on Me,6.8,Drama
+,The Trouble with Harry,6.9,Comedy|Drama|Fantasy|Romance
+,But I'm a Cheerleader,6.5,Drama
+,Home Run,6.3,Comedy|Musical
+,Reservoir Dogs,8,Comedy|Crime
+,The Blue Bird,6.4,Action|Comedy
+,"The Good, the Bad and the Ugly",8.1,Action|Comedy
+,The Second Mother,7.8,Action|Comedy
+,Blue Like Jazz,5.8,Comedy|Drama
+,Down & Out With The Dolls,0,Sci-Fi
+,"Pink Ribbons, Inc.",6.8,Action|Comedy|Romance
+,Certifiably Jonathan,0,Comedy
+,Desire,4.1,Horror
+,The Blade of Don Juan,0,Drama|Fantasy|Horror
+,Grand Theft Parsons,6,Drama
+,Extreme Movie,3.9,Crime|Drama|Western
+,The Charge of the Light Brigade,6.8,Drama|Thriller|War
+,Below Zero,4.4,Drama
+,Crowsnest,4.8,Comedy|Drama|Mystery|Thriller
+,Airborne,6.1,Comedy|Crime|Drama
+,Cotton Comes to Harlem,6.7,Western
+,The Wicked Within,4.2,Comedy|Horror|Sci-Fi
+,Bleeding Hearts,2,Sci-Fi
+,Waiting...,6.2,Sci-Fi|Thriller
+,Dead Man's Shoes,7.2,Comedy
+,From a Whisper to a Scream,6.8,Sci-Fi
+,Sex With Strangers,5,Horror
+,Dracula: Pages from a Virgin's Diary,6.9,Comedy
+,Faith Like Potatoes,6,Drama|Romance
+,Beyond the Black Rainbow,5.7,Drama
+,The Raid,7.3,Drama
+,The Dead Undead,3.1,Drama
+,The Vatican Exorcisms,4.4,Drama
+,Casablanca,7.9,Drama
+,Lake Mungo,6.1,Comedy|Horror
+,Rocket Singh: Salesman of the Year,7,Film-Noir
+,Silent Running,6.3,Drama
+,Rocky,7.5,Comedy|Drama|Romance|Western
+,The Sleepwalker,4.1,Drama
+,Tom Jones,6.1,Horror
+,Unfriended,5.5,Drama
+,Taxi Driver,8,Drama|Film-Noir
+,The Howling,6.4,Drama
+,Dr. No,6.9,Action|Comedy|Sci-Fi|Thriller
+,Chernobyl Diaries,4.9,Drama
+,Hellraiser,6.9,Mystery|Thriller
+,God's Not Dead 2,5.7,Horror
+,Cry_Wolf,5.6,Action|Drama|Romance|Thriller
+,Godzilla 2000,5.9,Drama
+,Blue Valentine,6.9,Action|Thriller
+,Transamerica,6.9,Action
+,The Devil Inside,4.6,Action|Comedy|Drama
+,Beyond the Valley of the Dolls,6.6,Action|Sci-Fi|Thriller
+,Love Me Tender,5.5,Action|Crime
+,An Inconvenient Truth,6.7,Adventure|Documentary|IMAX
+,Sands of Iwo Jima,6.2,Adventure|Animation|Fantasy|Sci-Fi
+,Shine a Light,7.2,Comedy|Romance
+,The Green Inferno,5,Action|Drama
+,Departure,7.5,Drama
+,The Sessions,6.6,Crime|Drama|Thriller
+,"Food, Inc.",7.4,Comedy|Drama|Romance
+,October Baby,6.8,Comedy
+,Next Stop Wonderland,6,Documentary|IMAX
+,The Skeleton Twins,6.7,Animation|Drama|Sci-Fi|IMAX
+,Martha Marcy May Marlene,6.7,Adventure|Documentary|IMAX
+,Obvious Child,6.7,Animation|Horror|IMAX
+,Frozen River,6.7,Documentary|Musical|IMAX
+,20 Feet from Stardom,7.4,Documentary|IMAX
+,Two Girls and a Guy,5.4,Documentary|IMAX
+,Walking and Talking,6.6,IMAX
+,Who Killed the Electric Car?,7.2,Documentary|IMAX
+,The Broken Hearts Club: A Romantic Comedy,6.3,Comedy|Fantasy
+,Bubba Ho-tep,6.7,Drama|War
+,Slam,6.7,Comedy|Drama|Romance
+,Brigham City,7.3,Drama
+,Fiza,6.1,Action|Crime|Drama
+,Orgazmo,6.2,Adventure|Comedy|Fantasy
+,All the Real Girls,5.9,Drama|Thriller
+,Dream with the Fishes,7.7,Crime|Mystery
+,Blue Car,6.7,Drama
+,Palo Alto,6.4,Comedy|Romance
+,Ajami,6.8,Horror|Thriller
+,Wristcutters: A Love Story,6.7,Drama|War
+,I Origins,7.5,Comedy|Drama|Musical
+,The Battle of Shaker Heights,5.6,Drama|War
+,The Act of Killing,7.5,Comedy
+,Taxi to the Dark Side,6.6,Adventure|Children|Comedy
+,Once in a Lifetime: The Extraordinary Story of the New York Cosmos,4.7,Comedy|Drama
+,Guiana 1838,2.8,Drama|Musical
+,Lisa Picard Is Famous,4,Horror|Sci-Fi
+,Antarctica: A Year on Ice,7.2,Drama
+,A LEGO Brickumentary,6.4,Drama
+,Hardflip,4.7,Comedy
+,Chocolate: Deep Dark Secrets,3.4,Drama
+,The House of the Devil,6,Comedy
+,The Perfect Host,6.2,Drama
+,Safe Men,6.3,Drama|Romance
+,Speedway Junky,5.2,Action|Crime|Drama
+,The Last Big Thing,6,Comedy|Romance
+,The Specials,5.5,Comedy
+,16 to Life,4.4,Thriller
+,Alone With Her,6.2,Comedy|Sci-Fi
+,Creative Control,5.4,Comedy|Horror|Sci-Fi
+,Special,6.6,Comedy|Sci-Fi
+,Sparkler,0,Comedy|Romance
+,The Helix... Loaded,4.8,Film-Noir|Mystery|Thriller
+,In Her Line of Fire,3.3,Action|Comedy|Horror|Sci-Fi
+,The Jimmy Show,8,Action|Crime|Thriller
+,Heli,6.2,Comedy
+,Karachi se Lahore,8,Comedy|Drama
+,Loving Annabelle,6.4,Comedy|Horror
+,Hits,4.9,Children|Comedy
+,Jimmy and Judy,5.4,Romance
+,Frat Party,3.5,Comedy
+,The Party's Over,6.1,Drama|Romance
+,Proud,5.5,Crime|Mystery|Thriller
+,The Poker House,6.1,Drama
+,Childless,4.5,Drama
+,ZMD: Zombies of Mass Destruction,4.7,Comedy
+,Snow White: A Deadly Summer,4.8,Comedy
+,Hidden Away,7.6,Comedy
+,My Last Day Without You,5.7,Comedy
+,Steppin: The Movie,5,Thriller
+,Doc Holliday's Revenge,3.2,Horror
+,Black Rock,4.9,Documentary
+,Truth or Dare,5.7,Comedy
+,The Pet,5.3,Horror|Mystery|Thriller
+,Bang Bang Baby,6.6,Horror
+,Fear Clinic,4,Adventure|Animation|Children|Fantasy
+,Zombie Hunter,3.5,Comedy
+,A Fine Step,4.1,Drama
+,Charly,6.6,Mystery|Romance|Thriller
+,Banshee Chapter,5.7,Comedy|Drama|Fantasy
+,Ask Me Anything,5.5,Comedy
+,And Then Came Love,5,Comedy
+,Food Chains,7.4,Comedy|Romance|Sci-Fi
+,On the Waterfront,8,Comedy|Romance
+,L!fe Happens,5.3,Action|Thriller|War
+,"4 Months, 3 Weeks and 2 Days",7.3,Comedy|Drama
+,The Horror Network Vol. 1,5,Drama
+,Hard Candy,6.8,Action
+,The Quiet,6.1,Comedy|Horror
+,Circumstance,7.4,Comedy|Horror|Sci-Fi
+,Fruitvale Station,7.3,Adventure|Drama|Western
+,The Brass Teapot,5.8,Drama|Romance|Western
+,Bambi,6.8,Drama
+,The Hammer,6.5,Drama
+,Latter Days,6.7,Comedy|Drama
+,Elza,0,Musical|Romance
+,1982,5,Comedy|Drama|Romance
+,"For a Good Time, Call...",5.8,Horror
+,Celeste & Jesse Forever,6.4,Action
+,Time Changer,5.2,Action|Adventure
+,London to Brighton,6.5,Comedy|Sci-Fi
+,American Hero,5,Comedy|Sci-Fi
+,Windsor Drive,2,Drama|Thriller
+,A Separation,7.7,Crime|Drama
+,Crying with Laughter,7,Action|Comedy|Thriller|Western
+,Welcome to the Dollhouse,6.9,Drama
+,Ruby in Paradise,5.6,Comedy
+,Raising Victor Vargas,7.8,Comedy
+,Pandora's Box,7.6,Action|Horror|Sci-Fi|Thriller
+,Harrison Montgomery,0,Action|Sci-Fi|Thriller
+,Live-In Maid,7.8,Drama
+,Deterrence,6.1,Comedy|Drama|Romance
+,The Mudge Boy,7.3,Drama|Mystery
+,The Young Unknowns,0,Drama
+,Not Cool,3.7,Comedy
+,Dead Snow,6.1,Comedy
+,Saints and Soldiers,6.6,Horror|Sci-Fi
+,Vessel,5.9,Comedy|Horror
+,American Graffiti,6.9,Comedy|Mystery
+,Iraq for Sale: The War Profiteers,8,Comedy
+,Aqua Teen Hunger Force Colon Movie Film for Theaters,6.5,Drama|Fantasy|Romance
+,Safety Not Guaranteed,6.8,Action|Adventure
+,Kevin Hart: Laugh at My Pain,7.7,Action|Adventure
+,Kill List,6,Action|Adventure
+,The Innkeepers,5.4,Action
+,The Conformist,7.6,Action
+,Interview with the Assassin,5.6,Comedy|Drama
+,Donkey Punch,4.5,Adventure|Comedy|Sci-Fi
+,All the Boys Love Mandy Lane,5.7,Action|Crime|Drama
+,Bled,3.8,Comedy|Drama
+,High Noon,7.6,Action|Thriller
+,Hoop Dreams,7.7,Adventure|Comedy
+,Rize,5.9,Comedy|Horror
+,L.I.E.,6.7,Drama|War
+,The Sisterhood of Night,6.5,Comedy|Romance
+,B-Girl,5.5,Comedy|Crime
+,Half Nelson,6.5,Action|Sci-Fi
+,Naturally Native,0,Drama
+,Hav Plenty,0,Thriller
+,Adulterers,5.2,Action|Comedy
+,Escape from Tomorrow,4.8,Comedy|Drama|Romance
+,Starsuckers,6.2,Comedy
+,The Hadza:  Last of the First,0,Drama|Thriller
+,After,5.6,Comedy|Musical|Sci-Fi
+,Treachery,4.8,Drama|Musical
+,Walter,5.3,Drama|Musical|Mystery
+,Top Hat,7.4,Drama
+,The Blair Witch Project,6.3,Adventure|Comedy|Fantasy
+,Woodstock,7.1,Comedy
+,The Kentucky Fried Movie,6.4,Comedy
+,Mercy Streets,5.5,Action|War
+,Carousel of Revenge,0,Drama
+,Broken Vessels,6,Drama|Romance
+,Water & Power,3,Action|Drama|Mystery
+,They Will Have to Kill Us First,5,Comedy
+,Light from the Darkroom,0,Drama
+,The Country Doctor,6,Comedy|Drama
+,The Maid's Room,4.8,Drama|Romance
+,A Hard Day's Night,7.3,Comedy|Crime|Romance
+,The Harvest (La Cosecha),0,Comedy|Romance
+,Love Letters,4.6,Drama
+,Juliet and Alfa Romeo,6,Comedy|Fantasy
+,Fireproof,7,Drama
+,Faith Connections,4.2,Drama
+,Benji,6.1,Crime|Drama
+,Open Water,5.4,Drama
+,High Road,5.8,Comedy|Crime|Mystery|Thriller
+,Kingdom of the Spiders,5.7,Crime|Drama
+,Mad Hot Ballroom,7.2,Drama
+,The Station Agent,7.4,Action|Comedy|Crime
+,To Save A Life,6.2,Action
+,Wordplay,7.3,Drama
+,Beyond the Mat,7.8,Drama
+,The Singles Ward,7.5,Comedy
+,Osama,6.3,Horror|Sci-Fi|Thriller
+,Sholem Aleichem: Laughing In The Darkness,7,Comedy
+,Groove,5.6,Action|Adventure|Crime|Drama|Thriller
+,The R.M.,4.8,Comedy|Romance
+,Twin Falls Idaho,7,Comedy
+,Mean Creek,6.9,Comedy
+,Hurricane Streets,4.8,Animation|Comedy|Musical
+,Never Again,4,Drama|Sci-Fi|Thriller
+,Civil Brand,5.3,Drama|Romance|Sci-Fi
+,Lonesome Jim,6.4,Comedy
+,Drinking Buddies,6,Comedy|Drama
+,Deceptive Practice: The Mysteries and Mentors of Ricky Jay,7.1,Action|Crime|Thriller
+,Seven Samurai,8.2,Action
+,The Other Dream Team,6.9,Drama
+,Johnny Suede,4.7,Action|Thriller
+,Finishing The Game,4.9,Comedy|Drama|Horror
+,Rubber,5.7,Adventure|Comedy
+,Kiss the Bride,4.2,Action|Comedy|Drama
+,The Slaughter Rule,6.2,Action
+,Monsters,6.2,Action
+,The Californians,4,Action|Adventure|Sci-Fi|Thriller
+,The Living Wake,5,Comedy|Romance
+,Detention of the Dead,4.5,Action|Crime|Thriller
+,Crazy Stone,6.9,Comedy|Drama
+,Scott Walker: 30 Century Man,7,Comedy|Drama|Musical
+,Everything Put Together,5,Action|Adventure|Drama|Sci-Fi
+,Good Kill,5.9,Comedy|Drama|Romance
+,The Outrageous Sophie Tucker,0,Crime|Horror|Thriller
+,Now Is Good,7.3,Comedy|Drama
+,Girls Gone Dead,3.5,Drama
+,America Is Still the Place,0,Crime|Mystery
+,Subconscious,3.4,Comedy
+,Enter Nowhere,6.5,Thriller
+,El Rey de Najayo,0,Action
+,Fight to the Finish,5.2,Comedy|Horror|Sci-Fi
+,Alleluia! The Devil's Carnival,6,Adventure|Comedy
+,The Sound and the Shadow,0,Action|Drama
+,Rodeo Girl,5.5,Drama
+,Born to Fly: Elizabeth Streb vs. Gravity,5,Comedy
+,The Little Ponderosa Zoo,2,Comedy
+,The Toxic Avenger,6.3,Drama|Horror|Mystery|Thriller
+,Straight Out of Brooklyn,4.3,Drama
+,Bloody Sunday,7.2,Comedy
+,Diamond Ruff,2.4,Crime|Drama|Thriller
+,Conversations with Other Women,6.2,Comedy|Crime
+,Poultrygeist: Night of the Chicken Dead,5.9,Comedy
+,Mutual Friends,0,Comedy|Romance
+,42nd Street,6.1,Horror
+,Rise of the Entrepreneur: The Search for a Better Way,8,Comedy
+,Metropolitan,7,Drama
+,As It Is in Heaven,6.9,Comedy|Drama|Romance
+,Roadside,4.2,Horror|Thriller
+,Napoleon Dynamite,6.7,Horror|Thriller
+,Blue Ruin,6.9,Drama
+,Paranormal Activity,5.9,Comedy|Romance
+,Dogtown and Z-Boys,7.2,Action|Comedy|Crime|Thriller
+,Monty Python and the Holy Grail,7.8,Drama
+,Quinceañera,7,Action|Comedy
+,Gory Gory Hallelujah,1,Comedy
+,Tarnation,7.5,Comedy|Crime
+,I Want Your Money,3.8,Comedy
+,Love in the Time of Monsters,5,Comedy
+,The Beyond,6.6,Comedy|Fantasy|Horror
+,What Happens in Vegas,5.8,Comedy|Drama
+,The Dark Hours,5.5,Action|Horror
+,My Beautiful Laundrette,6.6,Adventure|Children|Comedy|Drama
+,Fabled,0,Comedy
+,Show Me,5.6,Horror
+,Cries and Whispers,7.8,Adventure|Comedy
+,Intolerance,7.4,Comedy
+,Trekkies,6.3,Adventure|Drama
+,The Broadway Melody,5,Mystery|Thriller
+,The Evil Dead,7.3,Crime|Musical
+,Maniac,6,Action|Sci-Fi
+,Censored Voices,5.1,Drama
+,Murderball,6.9,Crime|Drama
+,American Ninja 2: The Confrontation,4.9,Drama
+,51 Birch Street,6.8,Crime|Drama
+,Rotor DR1,4.7,Comedy
+,12 Angry Men,8.2,Comedy|Horror
+,My Dog Tulip,7.6,Comedy|Drama
+,It Happened One Night,7.7,Drama|Romance|Thriller
+,Dogtooth,6.9,Children|Comedy|Romance
+,Tupac: Resurrection,8,Action|Comedy
+,Tumbleweeds,6.2,Comedy|Drama
+,The Prophecy,6.4,Drama
+,When the Cat's Away,6.1,Adventure|Comedy
+,Pieces of April,6.4,Comedy
+,The Big Swap,0,Comedy
+,Old Joy,6.3,Mystery|Thriller
+,Wendy and Lucy,6.4,Drama|Musical
+,3 Backyards,4.8,Comedy|Musical|Western
+,Pierrot le Fou,7.6,Drama|Western
+,Sisters in Law,7.3,Documentary
+,Ayurveda: Art of Being,5.5,Drama
+,Nothing But a Man,7,Drama|Sci-Fi
+,"First Love, Last Rites",3,Comedy
+,Fighting Tommy Riley,5.3,Horror
+,Royal Kill,2.8,Drama
+,The Looking Glass,7,Action|Comedy
+,Death Race 2000,5.9,Comedy
+,Locker 13,6.8,Action|Animation|Comedy|Crime|Drama|Romance|Thriller
+,Midnight Cabaret,0,Drama|Horror|Mystery|Thriller
+,Anderson's Cross,0,Action|Comedy|Western
+,Bizarre,6.2,Comedy
+,Graduation Day,5,Drama
+,Some Guy Who Kills People,5.7,Drama
+,Compliance,6.3,Horror|Thriller
+,Chasing Amy,6.7,Documentary
+,Lovely & Amazing,6.3,Drama|Romance|War
+,Death Calls,0,Comedy
+,Better Luck Tomorrow,6.5,Drama
+,The Incredibly True Adventure of Two Girls In Love,5.7,Drama
+,Chuck & Buck,5.7,Comedy
+,American Desi,5,Comedy
+,Amidst the Devil's Wings,0,Adventure|Comedy
+,Cube,6.9,Horror|Sci-Fi|Thriller
+,Love and Other Catastrophes,5.8,Comedy|Romance
+,I Married a Strange Person!,7.5,Drama
+,November,4.9,Romance|Sci-Fi
+,Like Crazy,6.4,Comedy|Drama
+,Teeth and Blood,3,Comedy|Romance
+,Sugar Town,5.5,Comedy|Drama|Romance
+,The Motel,7,Comedy
+,The Canyons,4.1,Comedy|Romance
+,On the Outs,5.9,Horror
+,Shotgun Stories,6.9,Drama
+,Exam,6.6,Comedy|Romance
+,The Sticky Fingers of Time,4.8,Drama
+,Sunday School Musical,5.5,Action|Children|Comedy
+,Rust,0,Action|Children|Comedy
+,Ink,6.4,Action|Children
+,The Christmas Bunny,5.7,Action|Thriller
+,Butterfly,5,Horror
+,UnDivided,0,Comedy|Horror
+,The Frozen,4.2,Drama|Horror|Mystery|Thriller
+,Horse Camp,5.5,Comedy
+,Give Me Shelter,0,Action|Adventure|Drama|Romance
+,The Big Parade,7,Comedy|Drama|Musical
+,Little Big Top,10,Horror|Thriller
+,Along the Roadside,7.7,Comedy|Drama
+,Bronson,6.9,Documentary
+,Western Religion,0,Drama
+,Burn,6.9,Drama
+,Urbania,5.2,Comedy
+,The Stewardesses,4.3,Romance|Thriller
+,"The Beast from 20,000 Fathoms",6.7,Drama
+,Mad Max,6.6,Crime|Drama|Romance
+,Swingers,6.8,Comedy|Horror
+,A Fistful of Dollars,7.6,Crime|Mystery|Thriller
+,She Done Him Wrong,5.1,Documentary
+,Short Cut to Nirvana: Kumbh Mela,0,Thriller
+,The Grace Card,6.5,Drama
+,Middle of Nowhere,6.6,Drama
+,Three,6.3,Comedy
+,The Business of Fancydancing,8,Comedy|Crime
+,Call + Response,8,Drama|Musical|Romance
+,Malevolence,4.9,Crime|Drama|Thriller
+,Reality Show,5.5,Comedy|Musical|Sci-Fi
+,Super Hybrid,4.6,Documentary
+,Baghead,5.8,Documentary
+,American Beast,0,Drama
+,The Case of the Grinning Cat,7.7,Action|Adventure|Fantasy|Sci-Fi|Thriller
+,Ordet,7.8,Comedy|Romance
+,Good Dick,6.1,Documentary
+,The Man from Earth,7.7,Drama
+,The Trials Of Darryl Hunt,6.8,Drama|Western
+,Samantha: An American Girl Holiday,4.6,Horror|Thriller
+,Yesterday Was a Lie,6,Drama
+,Theresa Is a Mother,0,Drama|Romance
+,H.,6.5,Comedy|Fantasy|Horror|Musical|Thriller
+,Archaeology of a Woman,0,Western
+,Children of Heaven,7.8,Western
+,Weekend,7.4,Horror
+,She's Gotta Have It,6.1,Comedy|Drama
+,Butterfly Girl,0,Crime|Horror|Mystery
+,The World Is Mine,0,Adventure|Comedy|Romance|War
+,Another Earth,6.8,Comedy|Romance
+,Sweet Sweetback's Baadasssss Song,4.6,Comedy|Musical
+,Perfect Cowboy,5,Comedy|Romance
+,Tadpole,5.5,Comedy
+,Once,7.3,Action|Adventure|Drama|Romance|Thriller
+,The Woman Chaser,4.9,Drama
+,The Horse Boy,5.5,Action|Comedy|Romance|War
+,When the Lights Went Out,5.8,Drama|Thriller
+,Heroes of Dirt,0,Comedy|Drama
+,A Charlie Brown Christmas,7.5,Drama
+,Antarctic Edge: 70° South,0,Drama
+,Aroused,7.2,Comedy
+,Top Spin,6.8,Mystery|Thriller
+,Roger & Me,7.4,Drama
+,An American in Hollywood,0,Drama
+,Sound of My Voice,6.3,Drama|Musical
+,The Blood of My Brother: A Story of Death in Iraq,0,Adventure|Sci-Fi
+,Your Sister's Sister,6.5,Sci-Fi
+,A Dog's Breakfast,5.9,Thriller
+,The Married Woman,7.1,Drama
+,The Birth of a Nation,6.5,Comedy
+,The Work and The Story,0,Comedy|Drama|Romance
+,Facing the Giants,6.6,Action|Adventure|Comedy|Drama
+,The Gallows,4.9,Comedy|Drama|Romance
+,Eraserhead,7.5,Documentary
+,Hollywood Shuffle,5.7,Adventure|Thriller
+,The Mighty,7.1,Children|Comedy
+,Penitentiary,4.9,Comedy|Romance
+,The Lost Skeleton of Cadavra,6.5,Documentary
+,Dude Where's My Dog?,0,Comedy|Drama
+,Cheap Thrills,6.3,Action|Adventure|Drama|War
+,Indie Game: The Movie,7.4,Horror
+,Straightheads,5.2,Comedy|Romance
+,Open Secret,7,Drama|Thriller
+,Echo Dr.,5,Crime|Drama
+,The Night Visitor,7.3,Comedy|Musical
+,The Past Is a Grotesque Animal,5.5,Drama
+,"Peace, Propaganda & the Promised Land",6.4,Horror|Mystery|Thriller
+,Pi,7.1,Comedy
+,"I Love You, Don't Touch Me!",6,Drama
+,20 Dates,3.7,Drama|Romance
+,Queen Crab,3.3,Crime|Drama|Thriller
+,Super Size Me,6.6,Documentary
+,The FP,4.5,Horror
+,Happy Christmas,5.2,Drama|Romance
+,The Brain That Wouldn't Die,4.4,Comedy
+,Tiger Orange,6.4,Drama|War
+,Supporting Characters,6.7,Crime|Drama|Thriller
+,Absentia,5.8,Comedy|Crime|Romance
+,The Brothers McMullen,6.3,Comedy|Crime
+,The Dirties,6,Action|Comedy
+,Gabriela,6,Drama
+,Tiny Furniture,5.6,Crime|Drama|Film-Noir|Mystery|Thriller
+,Hayride,5.1,Comedy|Drama
+,The Naked Ape,5,Action|Animation|Sci-Fi
+,Counting,8.3,Drama
+,The Call of Cthulhu,6.9,Horror
+,Bending Steel,5,Action
+,The Signal,5.8,Musical
+,The Image Revolution,5.7,Action|Crime|Thriller
+,This Is Martin Bonner,6.6,Documentary|IMAX
+,A True Story,6.8,Drama|Musical
+,George Washington,6.4,Documentary|IMAX
+,Smiling Fish & Goat On Fire,7,Crime|Drama
+,Dawn of the Crescent Moon,2,Comedy
+,Raymond Did It,3.2,Documentary|IMAX
+,The Last Waltz,7.9,Drama
+,"Run, Hide, Die",3.5,Comedy|Crime
+,The Exploding Girl,6.4,Documentary|IMAX
+,The Legend of God's Gun,0,Crime|Horror|Mystery|Thriller
+,Mutual Appreciation,6.1,Action
+,Her Cry: La Llorona Investigation,0,Comedy|Drama
+,Down Terrace,6.3,Action|Crime|Romance
+,Clerks,7.4,Action|Crime|Drama|Romance|Thriller
+,Pink Narcissus,6,Drama
+,Funny Ha Ha,6.3,Drama
+,In the Company of Men,6.8,Drama
+,Manito,5.5,Animation|Drama|Fantasy
+,Rampage,6,Drama|Fantasy|Mystery|Sci-Fi
+,Slacker,6.4,Comedy|Romance
+,Dutch Kills,0,Horror|Thriller
+,Dry Spell,6,Comedy|Romance
+,Flywheel,6.8,Drama|Mystery|Sci-Fi|Thriller
+,Backmask,4.7,Action|Comedy|Crime|Drama
+,The Puffy Chair,6.2,Drama
+,Stories of Our Lives,0,Crime|Drama
+,Breaking Upwards,5.6,Comedy
+,All Superheroes Must Die,4.2,Drama
+,Pink Flamingos,6.2,Documentary
+,Clean,6.7,Thriller
+,The Circle,6.6,Adventure|Animation|Children|Comedy|Fantasy
+,Tin Can Man,2,Action|Sci-Fi|Thriller
+,Cure,7.4,Drama
+,On The Downlow,6,Crime|Drama
+,Sanctuary: Quite a Conundrum,0,Comedy|Fantasy|Romance
+,Bang,6,Drama|Thriller
+,Primer,6.9,Romance
+,Cavite,7.5,Horror|Thriller
+,El Mariachi,6.6,Action|Adventure|Sci-Fi|Western
+,Newlyweds,5.9,Comedy
+,"Signed, Sealed, Delivered",7,Adventure|Children|Fantasy
+,Shanghai Calling,5.7,Drama|Romance
+,My Date with Drew,6.3,Comedy|Crime|Mystery|Thriller
